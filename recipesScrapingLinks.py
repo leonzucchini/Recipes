@@ -1,10 +1,11 @@
 # Scraping script for chefkoch.de
 # Downloads links to recipes
-# v4 140907 LZ
 
-# Import libraries
-import requests, csv, sys, os #re, 
-from bs4 import BeautifulSoup
+import requests
+import csv
+import dys
+import os 
+from bs4 import BeautifulSoup as bs
 
 # Define output path and maximum iterations
 output = '/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/recipeLinks.csv'
@@ -86,3 +87,11 @@ for categoryNum in range(0,len(categories)):
 			break
 
 output.close()
+
+# Define main()
+def main():
+	print 'hi leon'
+
+# Boilerplate to call main()
+if __name__ == '__main__':
+  main()
