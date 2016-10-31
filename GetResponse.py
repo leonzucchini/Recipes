@@ -4,8 +4,6 @@ class GetResponse:
   """Response from a get request to a server with a specific URL.
   Error handling for get requests."""
 
-  timeout = 1
-
   def __init__(self):
     """Init"""
     self.get_error = 0

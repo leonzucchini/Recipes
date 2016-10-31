@@ -1,7 +1,8 @@
-import sys
-# import sqlite3
-import requests
+import sys, os, requests
+from py2neo import *
+
 from GetResponse import *
+from UrlListFromFile import *
 
 # Define main()
 def main():
@@ -11,6 +12,18 @@ def main():
   Could also call prefs.py instead of passing arguments via the command
   line.
   """
+
+  # Pick up URLs from a local file
+  url_list = UrlList("LinkFiles/category_links.txt")
+  print url_list.urls
+
+  # Use GetResponse to get response from server using URL
+  url = "http://www.chefkoch.de/rs/s0g47/Suessspeisen-Backen-Rezepte.html"
+  a = GetResponse().tryRequest(url)
+
+
+
+
 
   # # Make a list of command line arguments ommitting the script itself
   # args = sys.argv[1:]
@@ -29,10 +42,6 @@ def main():
     ### append and inputfile not yet implemented
     ### a prompt to check on whether the download should really start would be good
     #############
-  url = "http://www.chefkoech.de/rs/s0g47/Suessspeisen-Backen-Rezepte.html"
-
-  a = GetResponse().tryRequest(url)
-  print a
 
 # Boilerplate to call main()
 if __name__ == '__main__':
