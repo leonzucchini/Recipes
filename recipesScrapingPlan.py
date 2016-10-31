@@ -16,3 +16,9 @@
 # parse files with pages text
 
 ## store output from parsing to csv
+
+## objects
+# url
+# textfile
+# gen
+# table
