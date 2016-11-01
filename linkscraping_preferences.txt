@@ -1,2 +1,3 @@
 category_list = "LinkFiles/category_links.txt"
-link_output_directory = "LinkFiles/"
+link_output_directory = "LinkFiles/TextFiles/"
+link_output_file_prefix = "category_page_"

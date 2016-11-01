@@ -1,8 +1,11 @@
 # import sys, os, requests
 # from py2neo import *
+import os
+from datetime import datetime
 
 from GetResponse import GetResponse
 from PathListFromFile import PathList
+from TextToFile import TextFile
 
 # Define main()
 def main():
@@ -18,15 +21,27 @@ def main():
     # Pick up preferences from preference file
     prefs = PathList(linkscraping_prefs).split_to_dict()
 
-    category_list = category_list = prefs["category_list"]
+    category_list = prefs["category_list"]
 
     # Pick up URLs from a local file
     url_list = PathList(category_list).paths
 
-    for url in url_list:
-        # Use GetResponse to get response from server using URL
-        html_text = GetResponse().tryRequest(url)
-        print html_text.response[:100]
+    # for url in url_list:
+    #     # Use GetResponse to get response from server using URL
+    #     html_text = GetResponse().tryRequest(url)
+    #     print html_text.response[:100]
+
+    # Store html text in local file
+    fileDst = prefs["link_output_directory"]
+    fileName = "output2.txt" #prefs["link_output_file_prefix"]
+    text_file = TextFile("def", fileDst, fileName).writeToFile()
+    # print text_file.dstfolder
+
+# Boilerplate to call main()
+if __name__ == '__main__':
+    main()
+
+
 
   # # Make a list of command line arguments ommitting the script itself
   # args = sys.argv[1:]
@@ -45,7 +60,3 @@ def main():
     ### append and inputfile not yet implemented
     ### a prompt to check on whether the download should really start would be good
     #############
-
-# Boilerplate to call main()
-if __name__ == '__main__':
-    main()
