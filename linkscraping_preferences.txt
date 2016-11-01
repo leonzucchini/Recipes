@@ -1,0 +1,2 @@
+category_list = "LinkFiles/category_links.txt"
+link_output_directory = "LinkFiles/"
