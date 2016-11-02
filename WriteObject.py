@@ -1,16 +1,13 @@
 import os, sys, re, shutil
 
-class TextFile:
+class WriteObject:
     """Save string to .txt file in a specified location under a specified name."""
-    def __init__(self, input_text, dstfolder, file_name):
-        self.input_text = input_text
-        self.dstfolder = dstfolder
-        self.file_name = file_name
+    def __init__(self, folder):
+        self.dstfolder = os.path.join(os.getcwd(), folder)
 
-    def writeToFile(self):
-        # Add cwd to folder path and check whether folder already exists
-        self.dstfolder = os.path.join(os.getcwd(), self.dstfolder)
-        print str(self.dstfolder)        
+    def check_folder(self):
+        """Check if the destination folder exists. If it does, prompt to decide what to do with it."""
+       
         # If destination folder does not exist then create it
         if not os.path.exists(self.dstfolder):
             os.mkdir(self.dstfolder)
@@ -23,9 +20,9 @@ class TextFile:
             confirm = raw_input(confirm_prompt)
 
             # Prompt for correctly formatted input (y/n)
-            while not re.search(r'^[aeo]$', confirm):
+            while not re.search(r'[aeo]', confirm):
                 confirm_prompt = "Please confirm what you want to do." + "\n" + \
-                    "Would you like to add to it ('a'), overwrite ('o'),  or exit ('e'): "
+                    "Would you like to add to it ('a'), overwrite ('o'),  or exit ('e'):"
                 confirm = raw_input(confirm_prompt)
             
             # If exit
@@ -42,13 +39,17 @@ class TextFile:
             elif confirm == "a":
                 pass
 
-        # Construct destination file path and check whether it already exists
+    def write_file(self, input_text, file_name):
+        """Write file to disk, exiting if it already exists."""
+
+        self.input_text = input_text
+        self.file_name = file_name
         self.dstpath = os.path.join(self.dstfolder, self.file_name)
+
+        # Check whether the file already exists, exit if yes, else write file
         if os.path.exists(self.dstpath):
             print "Something is wrong: This file already exists. Exiting so you can fix stuff."
             sys.exit(1)
-        
-        # Write to disk
         else:
             with open(self.dstpath, 'w') as f:
-                f.write(self.input_text)
+                f.write(self.input_text.encode('utf8'))
