@@ -1,11 +1,11 @@
 # import sys, os, requests
 # from py2neo import *
 import os
-from datetime import datetime
+from datetime import date
 
 from GetResponse import GetResponse
 from PathListFromFile import PathList
-from TextToFile import TextFile
+from WriteObject import *
 
 # Define main()
 def main():
@@ -24,24 +24,37 @@ def main():
     category_list = prefs["category_list"]
 
     # Pick up URLs from a local file
-    url_list = PathList(category_list).paths
+    url_dict = PathList(category_list).split_to_dict()
+    url_keys = url_dict.keys()
 
-    # for url in url_list:
-    #     # Use GetResponse to get response from server using URL
-    #     html_text = GetResponse().tryRequest(url)
-    #     print html_text.response[:100]
+    # Prepare folder for saving
+    output_file = WriteObject(prefs["link_output_directory"])
+    output_file.check_folder()
 
-    # Store html text in local file
-    fileDst = prefs["link_output_directory"]
-    fileName = "output2.txt" #prefs["link_output_file_prefix"]
-    text_file = TextFile("def", fileDst, fileName).writeToFile()
-    # print text_file.dstfolder
+    id = 0
+    for url_key in url_keys:
+        
+        url = url_dict[url_key]
+
+        # Use GetResponse to get response from server using URL
+        html_response = GetResponse().tryRequest(url)
+        if html_response.get_error:
+            print "HTML Error"
+            print html_response.response
+        else:
+            html_text = html_response.response
+
+            # Store html text in local file
+            id += 1
+            
+            file_name = prefs["link_output_file_prefix"] + "_" + str(id) + "_" + \
+                        url_key + "_" + str(date.today()) + ".txt"
+        
+            output_file.write_file(html_text, file_name)
 
 # Boilerplate to call main()
 if __name__ == '__main__':
     main()
-
-
 
   # # Make a list of command line arguments ommitting the script itself
   # args = sys.argv[1:]
