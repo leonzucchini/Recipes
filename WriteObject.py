@@ -1,4 +1,7 @@
-import os, sys, re, shutil
+import os
+import sys
+import re
+import shutil
 
 class WriteObject:
     def __init__(self, folder):
