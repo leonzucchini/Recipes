@@ -11,10 +11,10 @@
 
     <meta name="viewport" content="width=device-width">
 
-<title>Besondere Speisearten Rezepte | Chefkoch.de</title>
+<title>Backen &amp; S&uuml;&szlig;speisen Rezepte | Chefkoch.de</title>
 
 
-<meta name="description" content="168.496 raffinierte Besondere Speisearten Rezepte auf Chefkoch.de - Europas größter Kochcommunity">
+<meta name="description" content="79.086 tolle Backen &amp; S&uuml;&szlig;speisen Rezepte auf Chefkoch.de - Deutschlands bester Kochcommunity">
 <meta name="robots" content="index,follow">
 
 
@@ -39,32 +39,32 @@
 
 
 
-    <link rel="canonical" href="http://www.chefkoch.de/rs/s0g32/Speisearten.html">
+    <link rel="canonical" href="http://www.chefkoch.de/rs/s0g47/Suessspeisen-Backen-Rezepte.html">
 
 
-<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/va656cd0db778b41e7f755827b7209088.main.css"/>
+<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/v1ada895e2b804884df92373c32d77570.main.css"/>
 
 
-    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/vd2a2e4af994bafabc2588892edb675ea.search.css" media="all">
+    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/v588d0f795817088e9dd18429734e8902.search.css" media="all">
 
     
 
 <meta property="fb:admins" content="618216749, 100001930567366" />
 <meta property="fb:app_id" content="1561091907540820"/>
-<meta property="og:description" content="168.496 raffinierte Besondere Speisearten Rezepte auf Chefkoch.de - Europas gr&ouml;&szlig;ter Kochcommunity" />
+<meta property="og:description" content="79.086 tolle Backen &amp;amp; S&amp;uuml;&amp;szlig;speisen Rezepte auf Chefkoch.de - Deutschlands bester Kochcommunity" />
 <meta property="og:image" content="http://static.chefkoch-cdn.de/ck.de/rezepte/170/170301/664102-960x720-kuerbiskernoel-parfait.jpg" />
-<meta property="og:title" content="Besondere Speisearten Rezepte | Chefkoch.de" />
+<meta property="og:title" content="Backen &amp;amp; S&amp;uuml;&amp;szlig;speisen Rezepte | Chefkoch.de" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chefkoch.de" />
 
 
-    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g32/speisearten.html" />
+    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g47/suessspeisen-backen-rezepte.html" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:creator" content="@chefkochde" />
-<meta property="twitter:description" content="168.496 raffinierte Besondere Speisearten Rezepte auf Chefkoch.de - Europas gr&ouml;&szlig;ter Kochcommunity" />
+<meta property="twitter:description" content="79.086 tolle Backen &amp;amp; S&amp;uuml;&amp;szlig;speisen Rezepte auf Chefkoch.de - Deutschlands bester Kochcommunity" />
 <meta property="twitter:site" content="@chefkochde" />
-<meta property="twitter:title" content="Besondere Speisearten Rezepte | Chefkoch.de" />
+<meta property="twitter:title" content="Backen &amp;amp; S&amp;uuml;&amp;szlig;speisen Rezepte | Chefkoch.de" />
 <meta property="twitter:image:src" content="http://static.chefkoch-cdn.de/ck.de/rezepte/170/170301/664102-960x720-kuerbiskernoel-parfait.jpg" />
 
 
@@ -120,11 +120,11 @@ if (document.cookie.search(/(?:^|;\s*)ck_viewport=desktop(?:$|;)/) !== -1) {
         });
 
                 GujAd.cmd.push(function () {
-            GujAd.getClient().addKeywords(['Spezielles','rezeptsuche']);
+            GujAd.getClient().addKeywords(['Backen & Süßspeisen','rezeptsuche']);
         });
             }
 
-    if (typeof adkwds == "undefined") { adkwds = ';kw=Spezielles;kw=rezeptsuche'; }
+    if (typeof adkwds == "undefined") { adkwds = ';kw=Backen & Süßspeisen;kw=rezeptsuche'; }
 </script>
 
     <script>
@@ -326,8 +326,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <li><a href="/community/anleitungen/Vorspeisen-Salate_2" name='{"ct":"com_board_navigation","ck":{"3":"2"}}'>Vorspeisen &amp; Salate</a></li>
                     <li><a href="/community/anleitungen/Hauptgerichte_3" name='{"ct":"com_board_navigation","ck":{"3":"3"}}'>Hauptgerichte</a></li>
                     <li><a href="/community/anleitungen/Backen-Suesses_1" name='{"ct":"com_board_navigation","ck":{"3":"1"}}'>Backen &amp; Süßes</a></li>
-            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:26 -->
-<!-- Content-ID: 1e3e3e7d32144eb24bddcf0a25e2bc99-->
+            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:31 -->
+<!-- Content-ID: 613e724a11f31fda4ee3ddb36170a12c-->
 
                                                                         </ul>
                 </div>
@@ -395,7 +395,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <a href="http://www.chefkoch.de/magazin/artikel/5771,0/Chefkoch/Turbokueche-Zeit-sparen-mit-den-richtigen-Rezepten.html">Turboküche für Eilige</a>
                 </li>
                                                                 <li >
-                    <a href="http://www.chefkoch.de/magazin/artikel/5798,0/Chefkoch/Wo-sagen-sich-Fuchs-und-Hase-guten-Morgen-In-deiner-Kueche.html">Tierisches Herbst-Geschirr</a>
+                    <a href="http://www.chefkoch.de/magazin/artikel/5967,0/allyouneedfresh-de/Wo-bekomme-ich-die-guten-Zutaten-fuer-meine-Rezepte-her.html">Lebensmittel Online kaufen</a>
                 </li>
                                                                 <li >
                     <a href="http://www.chefkoch.de/magazin/artikel/5618,0/Chefkoch/Von-der-Serie-in-den-Kuechenschrank.html">TV-Serien in eurer Küche!</a>
@@ -702,7 +702,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                             </span>
                                 <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">&raquo;
                                     <span
-                        itemprop="title">Spezielles</span>
+                        itemprop="title">Backen &amp; S&uuml;&szlig;speisen</span>
                             </span>
             </div>
 
@@ -747,7 +747,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 						
 						
 														<h1>
-					168.496 Besondere Speisearten Rezepte				</h1>
+					79.086 Backen &amp; S&uuml;&szlig;speisen Rezepte				</h1>
 
                     <div class="search-header clearfix">
     <div class="filter-wrapper">
@@ -763,8 +763,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <span class="ck-dropdown__title-icon"></span>
                 </button>
                 <div class="ck-dropdown__dropdown">
-                                                            <a href="/rs/s0o8g32/Speisearten.html" class="ck-dropdown__link searchresult-sorting-by-rating ck-dropdown__link--active">Bewertung</a><br/>
-                    <a href="/rs/s0o3g32/Speisearten.html" class="ck-dropdown__link searchresult-sorting-by-date ">Datum</a>
+                                                            <a href="/rs/s0o8g47/Suessspeisen-Backen-Rezepte.html" class="ck-dropdown__link searchresult-sorting-by-rating ck-dropdown__link--active">Bewertung</a><br/>
+                    <a href="/rs/s0o3g47/Suessspeisen-Backen-Rezepte.html" class="ck-dropdown__link searchresult-sorting-by-date ">Datum</a>
                 </div>
             </div>
         </div>
@@ -776,7 +776,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 <input type="hidden" name="advanced_search_checkbox" value="1">
                 <input type="hidden" name="suche" value="1">
                 <input type="hidden" name="suche2" value="2">
-                <input type="hidden" name="ID" value="32">
+                <input type="hidden" name="ID" value="47">
                 <input type="hidden" name="tag_ids" value="">
 
                 <input type="text" name="Suchbegriff" id="search-refine-input" class="search-refine" value="" placeholder="Suche verfeinern:" />
@@ -920,8 +920,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-1598021267025176">
-    <a href="/rezepte/1598021267025176/NT-Schweinefilet-im-Speckmantel-mit-Champignons-und-Spaetzle.html" title="Fleisch alleine auch hervorragend für kaltes Büfett am nächsten Tag geeignet">
+        <li class="search-list-item" id="recipe-1010591206190843">
+    <a href="/rezepte/1010591206190843/Lothars-beste-Nuernberger-Elisenlebkuchen.html" title="weihnachtliches Nachbarschaftsrezept">
 
         <div class="search-list-item-image">
             
@@ -929,9 +929,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/159802/nt-schweinefilet-im-speckmantel-mit-champignons-und-spaetzle-232597-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/101059/lothars-beste-nuernberger-elisenlebkuchen-850506-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/159802/nt-schweinefilet-im-speckmantel-mit-champignons-und-spaetzle-232597-150x150.jpg" alt="NT - Schweinefilet im Speckmantel mit Champignons und Spätzle" title="NT - Schweinefilet im Speckmantel mit Champignons und Spätzle" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/101059/lothars-beste-nuernberger-elisenlebkuchen-850506-150x150.jpg" alt="Lothars beste Nürnberger Elisenlebkuchen" title="Lothars beste Nürnberger Elisenlebkuchen" />
 
                     
                 </picture>
@@ -939,25 +939,24 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">NT - Schweinefilet im Speckmantel mit Champignons und Spätzle</div>
+                            <div class="search-list-item-title">Lothars beste Nürnberger Elisenlebkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="196 Bewertungen - &Oslash; 4.83"></span>
-                    <span class="search-list-item-uservotes-count">(196)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="613 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(613)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Fleisch alleine auch hervorragend für kaltes Büfett am nächsten Tag geeignet
+                                                            weihnachtliches Nachbarschaftsrezept
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">24.02.2010</span>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">45 min.</span>
+                <span class="search-list-item-activationdate">22.03.2008</span>
             </div>
         </div>
     </a>
@@ -968,8 +967,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-1345621239312368">
-    <a href="/rezepte/1345621239312368/Beurre-mani.html" title="Soßenbinder selbst gemacht">
+        <li class="search-list-item" id="recipe-1521151257327860">
+    <a href="/rezepte/1521151257327860/Schneemoussetorte-mit-Rhabarber.html">
 
         <div class="search-list-item-image">
             
@@ -977,9 +976,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/134562/beurre-mani-634982-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/152115/schneemoussetorte-mit-rhabarber-915296-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/134562/beurre-mani-634982-150x150.jpg" alt="Beurre manié" title="Beurre manié" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/152115/schneemoussetorte-mit-rhabarber-915296-150x150.jpg" alt="Schneemoussetorte mit Rhabarber" title="Schneemoussetorte mit Rhabarber" />
 
                     
                 </picture>
@@ -987,24 +986,26 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Beurre manié</div>
+                            <div class="search-list-item-title">Schneemoussetorte mit Rhabarber</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="250 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(250)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="92 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(92)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Soßenbinder selbst gemacht
-                                                </p>
+                                    Eine Springform (26 cm) einfetten. Die Eier trennen. Den Backofen vorheizen (Umluft 150°C). 
+
+Die Butter mit 125 g Zucker, 1 Prise...
+                            </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">10.04.2009</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">90 min.</span>
+                <span class="search-list-item-activationdate">04.11.2009</span>
             </div>
         </div>
     </a>
@@ -1047,8 +1048,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-1728511281966781">
-    <a href="/rezepte/1728511281966781/Semmelknoedel-aus-der-Form.html" title="wird im Ofen gebacken und dann in Scheiben geschnitten">
+        <li class="search-list-item" id="recipe-1833611297339517">
+    <a href="/rezepte/1833611297339517/Butterstollen-Thueringer-Art.html" title="Saftig, lecker! Auch sehr variabel als Stollen mit Mandeln oder Marzipan">
 
         <div class="search-list-item-image">
             
@@ -1056,9 +1057,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/172851/semmelknoedel-aus-der-form-859033-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/183361/butterstollen-thueringer-art-408903-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/172851/semmelknoedel-aus-der-form-859033-150x150.jpg" alt="Semmelknödel aus der Form" title="Semmelknödel aus der Form" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/183361/butterstollen-thueringer-art-408903-150x150.jpg" alt="Butterstollen Thüringer Art" title="Butterstollen Thüringer Art" />
 
                     
                 </picture>
@@ -1066,24 +1067,24 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Semmelknödel aus der Form</div>
+                            <div class="search-list-item-title">Butterstollen Thüringer Art</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="92 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(92)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="178 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(178)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            wird im Ofen gebacken und dann in Scheiben geschnitten
+                                                            Saftig, lecker! Auch sehr variabel als Stollen mit Mandeln oder Marzipan
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">16.08.2010</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">10.02.2011</span>
             </div>
         </div>
     </a>
@@ -1094,8 +1095,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-1298601234964040">
-    <a href="/rezepte/1298601234964040/Thunfischfilet-in-Zimt-Sesam-Kruste-auf-Chili-Mango-Salat.html" title="toller Einstieg für ein orientalisch angehauchtes Menü auf hohem Niveau">
+        <li class="search-list-item" id="recipe-2642351415194117">
+    <a href="/rezepte/2642351415194117/Die-perfekten-Hamburgerbroetchen.html">
 
         <div class="search-list-item-image">
             
@@ -1103,9 +1104,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/129860/thunfischfilet-in-zimt-sesam-kruste-auf-chili-mango-salat-721436-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/264235/die-perfekten-hamburgerbroetchen-889444-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/129860/thunfischfilet-in-zimt-sesam-kruste-auf-chili-mango-salat-721436-150x150.jpg" alt="Thunfischfilet in Zimt - Sesam - Kruste auf Chili - Mango - Salat" title="Thunfischfilet in Zimt - Sesam - Kruste auf Chili - Mango - Salat" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/264235/die-perfekten-hamburgerbroetchen-889444-150x150.jpg" alt="Die perfekten Hamburgerbrötchen" title="Die perfekten Hamburgerbrötchen" />
 
                     
                 </picture>
@@ -1113,24 +1114,24 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Thunfischfilet in Zimt - Sesam - Kruste auf Chili - Mango - Salat</div>
+                            <div class="search-list-item-title">Die perfekten Hamburgerbrötchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="118 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(118)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="80 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(80)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            toller Einstieg für ein orientalisch angehauchtes Menü auf hohem Niveau
-                                                </p>
+                                    Zuerst gibt man das warme Wasser und die Milch in eine Schüssel, mischt den Zucker unter und bröselt den Hefewürfel hinein. Den Te...
+                            </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">18.02.2009</span>
+                <span class="search-list-item-preptime">15 min.</span>
+                <span class="search-list-item-activationdate">30.12.2014</span>
             </div>
         </div>
     </a>
@@ -1147,8 +1148,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-485281142608656">
-    <a href="/rezepte/485281142608656/Rehruecken-ausgeloest.html">
+        <li class="search-list-item" id="recipe-916071197018348">
+    <a href="/rezepte/916071197018348/Sauerteig.html" title="Grundrezept">
 
         <div class="search-list-item-image">
             
@@ -1156,9 +1157,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/48528/rehruecken-ausgeloest-646456-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/91607/sauerteig-435938-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/48528/rehruecken-ausgeloest-646456-150x150.jpg" alt="Rehrücken ausgelöst" title="Rehrücken ausgelöst" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/91607/sauerteig-435938-150x150.jpg" alt="Sauerteig" title="Sauerteig" />
 
                     
                 </picture>
@@ -1166,24 +1167,24 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Rehrücken ausgelöst</div>
+                            <div class="search-list-item-title">Sauerteig</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="187 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(187)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="403 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(403)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Ein Rehrücken ist eine edle Sache. Er macht am Tag der Zubereitung wenig Arbeit, verlangt beim Braten aber Fingerspitzengefühl und...
-                            </p>
+                                                            Grundrezept
+                                                </p>
 
             <div>
-                <span class="search-list-item-difficulty">pfiffig</span>
-                <span class="search-list-item-preptime">120 min.</span>
-                <span class="search-list-item-activationdate">17.03.2006</span>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">15 min.</span>
+                <span class="search-list-item-activationdate">07.12.2007</span>
             </div>
         </div>
     </a>
@@ -1194,8 +1195,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-2338561372249308">
-    <a href="/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html" title="Ich mache meine Spareribs nun schon sehr lange auf diese Weise, egal ob Smoker oder Backofen jeder fährt darauf ab!!">
+        <li class="search-list-item" id="recipe-699761172511152">
+    <a href="/rezepte/699761172511152/Uromas-Hefezopf.html">
 
         <div class="search-list-item-image">
             
@@ -1203,9 +1204,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/233856/k-stliche-bbq-spareribs-f-r-smoker-und-backofen-inkl-so-e-und-gew-rzmischung-923356-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/69976/uromas-hefezopf-550091-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/233856/k-stliche-bbq-spareribs-f-r-smoker-und-backofen-inkl-so-e-und-gew-rzmischung-923356-150x150.jpg" alt="Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)" title="Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/69976/uromas-hefezopf-550091-150x150.jpg" alt="Uromas Hefezopf" title="Uromas Hefezopf" />
 
                     
                 </picture>
@@ -1213,24 +1214,71 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)</div>
+                            <div class="search-list-item-title">Uromas Hefezopf</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="134 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(134)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="162 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(162)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Ich mache meine Spareribs nun schon sehr lange auf diese Weise, egal ob Smoker oder Backofen jeder fährt darauf ab!!
+                                    Für den Hefeteig das Mehl in eine Schüssel sieben. Die Hefe in 3-4 EL lauwarmer Milch und 1 TL Zucker auflösen und diese aufgelöst...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">25 min.</span>
+                <span class="search-list-item-activationdate">27.02.2007</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item" id="recipe-2287701364848460">
+    <a href="/rezepte/2287701364848460/Zimtschnecken-Cinnabon-Style.html" title="amerikanische Zimtschnecken mit Cream-Cheese-Frosting">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/228770/zimtschnecken-cinnabon-style-956767-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/228770/zimtschnecken-cinnabon-style-956767-150x150.jpg" alt="Zimtschnecken &#039;Cinnabon Style&#039;" title="Zimtschnecken &#039;Cinnabon Style&#039;" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Zimtschnecken &#039;Cinnabon Style&#039;</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="402 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(402)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            amerikanische Zimtschnecken mit Cream-Cheese-Frosting
                                                 </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">26.06.2013</span>
+                <span class="search-list-item-activationdate">03.04.2013</span>
             </div>
         </div>
     </a>
@@ -1241,8 +1289,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 
     
         
-        <li class="search-list-item" id="recipe-2588771406324164">
-    <a href="/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html" title="Verwertung bei Tomatenschwemme">
+        <li class="search-list-item" id="recipe-1256021231072628">
+    <a href="/rezepte/1256021231072628/Nussecken.html">
 
         <div class="search-list-item-image">
             
@@ -1250,9 +1298,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/258877/tomatensauce-aus-ofenger-steten-tomaten-941209-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/258877/tomatensauce-aus-ofenger-steten-tomaten-941209-150x150.jpg" alt="Tomatensauce aus ofengerösteten Tomaten" title="Tomatensauce aus ofengerösteten Tomaten" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-150x150.jpg" alt="Nussecken" title="Nussecken" />
 
                     
                 </picture>
@@ -1260,73 +1308,25 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Tomatensauce aus ofengerösteten Tomaten</div>
+                            <div class="search-list-item-title">Nussecken</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="50 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(50)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="81 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(81)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Verwertung bei Tomatenschwemme
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">26.07.2014</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item" id="recipe-701261172735942">
-    <a href="/rezepte/701261172735942/Rinderfilet-an-Whiskeyrahmsauce.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/70126/rinderfilet-an-whiskeyrahmsauce-842771-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/70126/rinderfilet-an-whiskeyrahmsauce-842771-150x150.jpg" alt="Rinderfilet an Whiskeyrahmsauce" title="Rinderfilet an Whiskeyrahmsauce" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Rinderfilet an Whiskeyrahmsauce</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="92 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(92)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Backofen auf 80°C vorheizen. Eine Gratinform darin mit aufwärmen. Die Schalotte schälen und fein hacken.
-
-Das Rinderfilet rundum m...
+                                    Aus den Zutaten einen Knetteig herstellen. Der Teig ist relativ weich, so kann man ihn schön auf dem Blech verteilen.
+Den Boden ei...
                             </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">01.03.2007</span>
+                <span class="search-list-item-preptime">60 min.</span>
+                <span class="search-list-item-activationdate">04.01.2009</span>
             </div>
         </div>
     </a>
@@ -1337,8 +1337,8 @@ Das Rinderfilet rundum m...
                 
     
         
-        <li class="search-list-item" id="recipe-1540431260282175">
-    <a href="/rezepte/1540431260282175/Joghurt-Bombe.html" title="Extrem einfach, macht was her und ist super vorzubereiten">
+        <li class="search-list-item" id="recipe-305351110829408">
+    <a href="/rezepte/305351110829408/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html" title="vielseitig verwendbar">
 
         <div class="search-list-item-image">
             
@@ -1346,9 +1346,9 @@ Das Rinderfilet rundum m...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/154043/joghurt-bombe-652972-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/30535/hefeteig-fuer-zopfbrot-schnecken-oder-figuren-901811-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/154043/joghurt-bombe-652972-150x150.jpg" alt="Joghurt - Bombe" title="Joghurt - Bombe" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/30535/hefeteig-fuer-zopfbrot-schnecken-oder-figuren-901811-150x150.jpg" alt="Hefeteig für Zopfbrot, Schnecken oder Figuren" title="Hefeteig für Zopfbrot, Schnecken oder Figuren" />
 
                     
                 </picture>
@@ -1356,25 +1356,24 @@ Das Rinderfilet rundum m...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Joghurt - Bombe</div>
+                            <div class="search-list-item-title">Hefeteig für Zopfbrot, Schnecken oder Figuren</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="677 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(677)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="129 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(129)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Extrem einfach, macht was her und ist super vorzubereiten
+                                                            vielseitig verwendbar
                                                 </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">08.12.2009</span>
+                <span class="search-list-item-preptime">25 min.</span>
+                <span class="search-list-item-activationdate">15.03.2005</span>
             </div>
         </div>
     </a>
@@ -1400,8 +1399,8 @@ Das Rinderfilet rundum m...
         
     
         
-        <li class="search-list-item initially-hidden" id="recipe-2133281343053838">
-    <a href="/rezepte/2133281343053838/Rinderrouladen-klassisch.html" title="mit einer Füllung aus Zwiebeln, Gurken, Senf und Speck in einer köstlichen Rotweinsoße mit Röstgemüse">
+        <li class="search-list-item initially-hidden" id="recipe-1476331252838756">
+    <a href="/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html" title="superlocker und saftig">
 
         <div class="search-list-item-image">
             
@@ -1409,9 +1408,9 @@ Das Rinderfilet rundum m...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/213328/rinderrouladen-klassisch-872326-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/213328/rinderrouladen-klassisch-872326-150x150.jpg" alt="Rinderrouladen klassisch" title="Rinderrouladen klassisch" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-150x150.jpg" alt="Zwetschgendatschi mit Butterstreuseln" title="Zwetschgendatschi mit Butterstreuseln" class="lazyload" />
 
                     
                 </picture>
@@ -1419,25 +1418,72 @@ Das Rinderfilet rundum m...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Rinderrouladen klassisch</div>
+                            <div class="search-list-item-title">Zwetschgendatschi mit Butterstreuseln</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="601 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(601)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="327 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(327)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            mit einer Füllung aus Zwiebeln, Gurken, Senf und Speck in einer köstlichen Rotweinsoße mit Röstgemüse
+                                                            superlocker und saftig
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">pfiffig</span>
-                <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">24.07.2012</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">13.09.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-2204031353338061">
+    <a href="/rezepte/2204031353338061/Apfelkuchen-mit-Streuseln.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/220403/apfelkuchen-mit-streuseln-817395-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/220403/apfelkuchen-mit-streuseln-817395-150x150.jpg" alt="Apfelkuchen mit Streuseln" title="Apfelkuchen mit Streuseln" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Apfelkuchen mit Streuseln</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="761 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(761)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Butter, Zucker und Vanillezucker schaumig schlagen, nach und nach die Eier unterrühren.
+Zum Schluss kommt eine Mischung aus Mehl u...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">20 min.</span>
+                <span class="search-list-item-activationdate">19.11.2012</span>
             </div>
         </div>
     </a>
@@ -1470,8 +1516,8 @@ Das Rinderfilet rundum m...
                             <div class="search-list-item-title">Eiskaffee - Sahne - Torte</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="43 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(43)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="44 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(44)</span>
                 </span>
 
                 
@@ -1497,8 +1543,8 @@ Die Eier trennen. Eigelb und Zucker mit dem Handrührgerät (Schneebesen) cremig
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-886421194252051">
-    <a href="/rezepte/886421194252051/Selbst-gemachter-Vanillezucker.html" title="preiswert und einfach, nicht künstlich">
+        <li class="search-list-item initially-hidden" id="recipe-378801124204434">
+    <a href="/rezepte/378801124204434/Friedas-genialer-Hefezopf.html">
 
         <div class="search-list-item-image">
             
@@ -1506,9 +1552,9 @@ Die Eier trennen. Eigelb und Zucker mit dem Handrührgerät (Schneebesen) cremig
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/88642/selbst-gemachter-vanillezucker-435322-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/37880/friedas-genialer-hefezopf-451156-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/88642/selbst-gemachter-vanillezucker-435322-150x150.jpg" alt="Selbst gemachter Vanillezucker" title="Selbst gemachter Vanillezucker" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/37880/friedas-genialer-hefezopf-451156-150x150.jpg" alt="Friedas genialer Hefezopf" title="Friedas genialer Hefezopf" class="lazyload" />
 
                     
                 </picture>
@@ -1516,169 +1562,74 @@ Die Eier trennen. Eigelb und Zucker mit dem Handrührgerät (Schneebesen) cremig
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Selbst gemachter Vanillezucker</div>
+                            <div class="search-list-item-title">Friedas genialer Hefezopf</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="229 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(229)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="2968 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(2968)</span>
                 </span>
 
+                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            preiswert und einfach, nicht künstlich
-                                                </p>
+                                    Für einen Zopf von 500 g einfach die Mengenangaben halbieren.
 
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">5 min.</span>
-                <span class="search-list-item-activationdate">05.11.2007</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-1259191231344473">
-    <a href="/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125919/gebrannte-mandeln-mit-wenig-zucker-813555-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125919/gebrannte-mandeln-mit-wenig-zucker-813555-150x150.jpg" alt="Gebrannte Mandeln mit wenig Zucker" title="Gebrannte Mandeln mit wenig Zucker" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Gebrannte Mandeln mit wenig Zucker</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="242 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(242)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Eine beschichtete Pfanne heiß werden lassen.
-
-Das Wasser zusammen mit Zucker, Vanillezucker und Zimt aufkochen lassen.
-
-Die Mandel...
+Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
                             </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">08.01.2009</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-336541117240506">
-    <a href="/rezepte/336541117240506/Holunder-Balsamico-Essig.html" title="ergibt knapp 1 Liter fertigen Essig">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/33654/holunder-balsamico-essig-610589-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/33654/holunder-balsamico-essig-610589-150x150.jpg" alt="Holunder - Balsamico - Essig" title="Holunder - Balsamico - Essig" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Holunder - Balsamico - Essig</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="139 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(139)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            ergibt knapp 1 Liter fertigen Essig
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">28.05.2005</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-1900361309694639">
-    <a href="/rezepte/1900361309694639/Altbaerlis-Kaiserschmarrn.html" title="süß - flaumige Verführung aus dem Backofen">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/190036/altbaerlis-kaiserschmarrn-772546-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/190036/altbaerlis-kaiserschmarrn-772546-150x150.jpg" alt="Altbaerlis  Kaiserschmarrn" title="Altbaerlis  Kaiserschmarrn" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Altbaerlis  Kaiserschmarrn</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="669 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(669)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            süß - flaumige Verführung aus dem Backofen
-                                                </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">04.07.2011</span>
+                <span class="search-list-item-activationdate">16.08.2005</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-2241291359024767">
+    <a href="/rezepte/2241291359024767/Delfinas-Kefir-Kruste.html" title="Würziges Brot mit Kefir">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/224129/delfinas-kefir-kruste-586159-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/224129/delfinas-kefir-kruste-586159-150x150.jpg" alt="Delfinas Kefir-Kruste" title="Delfinas Kefir-Kruste" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Delfinas Kefir-Kruste</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="64 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(64)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            Würziges Brot mit Kefir
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">20 min.</span>
+                <span class="search-list-item-activationdate">24.01.2013</span>
             </div>
         </div>
     </a>
@@ -1736,8 +1687,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-800681183710369">
-    <a href="/rezepte/800681183710369/Bresso-selbst-gemachter.html" title="(Frischkäse)">
+        <li class="search-list-item initially-hidden" id="recipe-680461170504963">
+    <a href="/rezepte/680461170504963/Keks-Kuchen-vom-Blech.html">
 
         <div class="search-list-item-image">
             
@@ -1745,9 +1696,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/80068/bresso-selbst-gemachter-822856-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/68046/keks-kuchen-vom-blech-897610-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/80068/bresso-selbst-gemachter-822856-150x150.jpg" alt="Bresso, selbst gemachter" title="Bresso, selbst gemachter" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/68046/keks-kuchen-vom-blech-897610-150x150.jpg" alt="Keks-Kuchen vom Blech" title="Keks-Kuchen vom Blech" class="lazyload" />
 
                     
                 </picture>
@@ -1755,24 +1706,25 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Bresso, selbst gemachter</div>
+                            <div class="search-list-item-title">Keks-Kuchen vom Blech</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="212 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(212)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="333 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(333)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            (Frischkäse)
-                                                </p>
+                                    Für den Boden:
+Zucker, Margarine, Mehl, Eier und 1 TL Backpulver nacheinander verrühren, auf ein Backblech streichen und im vorgeh...
+                            </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">06.07.2007</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">04.02.2007</span>
             </div>
         </div>
     </a>
@@ -1783,8 +1735,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1152361221481605">
-    <a href="/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html" title="ohne Eis">
+        <li class="search-list-item initially-hidden" id="recipe-1214861227169722">
+    <a href="/rezepte/1214861227169722/Elisen-Lebkuchen.html" title="Ein Familienrezept, das von Generation zu Generation weiter gegeben wurde">
 
         <div class="search-list-item-image">
             
@@ -1792,9 +1744,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/121486/elisen-lebkuchen-135859-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-150x150.jpg" alt="Spaghetti-Eis Dessert" title="Spaghetti-Eis Dessert" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/121486/elisen-lebkuchen-135859-150x150.jpg" alt="Elisen - Lebkuchen" title="Elisen - Lebkuchen" class="lazyload" />
 
                     
                 </picture>
@@ -1802,25 +1754,24 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Spaghetti-Eis Dessert</div>
+                            <div class="search-list-item-title">Elisen - Lebkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="372 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(372)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="98 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(98)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            ohne Eis
+                                                            Ein Familienrezept, das von Generation zu Generation weiter gegeben wurde
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">15.09.2008</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">90 min.</span>
+                <span class="search-list-item-activationdate">20.11.2008</span>
             </div>
         </div>
     </a>
@@ -1878,8 +1829,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-2570811402502140">
-    <a href="/rezepte/2570811402502140/Coleslaw-Atlanta-Style.html" title="Krautsalat, ähnlich wie bei KFC">
+        <li class="search-list-item initially-hidden" id="recipe-1842861298589308">
+    <a href="/rezepte/1842861298589308/Puffer.html" title="leckerer Kuchen mit Schokoplättchen oder Rosinen">
 
         <div class="search-list-item-image">
             
@@ -1887,9 +1838,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/257081/coleslaw-atlanta-style-701137-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/184286/puffer-608402-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/257081/coleslaw-atlanta-style-701137-150x150.jpg" alt="Coleslaw Atlanta Style" title="Coleslaw Atlanta Style" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/184286/puffer-608402-150x150.jpg" alt="Puffer" title="Puffer" class="lazyload" />
 
                     
                 </picture>
@@ -1897,24 +1848,24 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Coleslaw Atlanta Style</div>
+                            <div class="search-list-item-title">Puffer</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="21 Bewertungen - &Oslash; 4.78"></span>
-                    <span class="search-list-item-uservotes-count">(21)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="25 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(25)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Krautsalat, ähnlich wie bei KFC
+                                                            leckerer Kuchen mit Schokoplättchen oder Rosinen
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">14.08.2014</span>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">15 min.</span>
+                <span class="search-list-item-activationdate">26.02.2011</span>
             </div>
         </div>
     </a>
@@ -1925,8 +1876,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1554051262698743">
-    <a href="/rezepte/1554051262698743/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html">
+        <li class="search-list-item initially-hidden" id="recipe-1140221220253617">
+    <a href="/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html" title="Äpfel pur!">
 
         <div class="search-list-item-image">
             
@@ -1934,9 +1885,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/155405/kuerbis-tomaten-chutney-von-rosinenkind-509575-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/114022/supersaftiger-apfelkuchen-954181-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/155405/kuerbis-tomaten-chutney-von-rosinenkind-509575-150x150.jpg" alt="Kürbis - Tomaten - Chutney von Rosinenkind" title="Kürbis - Tomaten - Chutney von Rosinenkind" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/114022/supersaftiger-apfelkuchen-954181-150x150.jpg" alt="Supersaftiger Apfelkuchen" title="Supersaftiger Apfelkuchen" class="lazyload" />
 
                     
                 </picture>
@@ -1944,71 +1895,165 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Kürbis - Tomaten - Chutney von Rosinenkind</div>
+                            <div class="search-list-item-title">Supersaftiger Apfelkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="48 Bewertungen - &Oslash; 4.78"></span>
-                    <span class="search-list-item-uservotes-count">(48)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="133 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(133)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Alle Zutaten in einen Topf geben, aufkochen lassen und auf kleiner Flamme weich und dicklich köcheln lassen, ggf. mit dem Zauberst...
+                                                            Äpfel pur!
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">40 min.</span>
+                <span class="search-list-item-activationdate">01.09.2008</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1489191254060947">
+    <a href="/rezepte/1489191254060947/Blitz-Tortenboden.html" title="superschnelles Rezept für einen Obstboden">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/148919/blitz-tortenboden-905456-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/148919/blitz-tortenboden-905456-150x150.jpg" alt="Blitz - Tortenboden" title="Blitz - Tortenboden" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Blitz - Tortenboden</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="186 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(186)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            superschnelles Rezept für einen Obstboden
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">5 min.</span>
+                <span class="search-list-item-activationdate">27.09.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1768931286858358">
+    <a href="/rezepte/1768931286858358/Rustikales-Brot-im-Braeter.html" title="mit vielen Körnern und Nüssen, ohne Kneten">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/176893/rustikales-brot-im-br-ter-952617-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/176893/rustikales-brot-im-br-ter-952617-150x150.jpg" alt="Rustikales Brot im Bräter" title="Rustikales Brot im Bräter" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Rustikales Brot im Bräter</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="222 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(222)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            mit vielen Körnern und Nüssen, ohne Kneten
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">20 min.</span>
+                <span class="search-list-item-activationdate">13.10.2010</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1099631215940720">
+    <a href="/rezepte/1099631215940720/Striezerl-und-Kipferl.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/109963/striezerl-und-kipferl-451608-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/109963/striezerl-und-kipferl-451608-150x150.jpg" alt="Striezerl und Kipferl" title="Striezerl und Kipferl" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Striezerl und Kipferl</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="102 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(102)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Hefe im Wasser mit dem Salz auflösen und ca 3 Std. stehen lassen - dann mit Mehl, Zucker, weicher Butter, Zitrone, Eier und Milch...
                             </p>
 
             <div>
-                <span class="search-list-item-difficulty">pfiffig</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">05.01.2010</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-2060171333287230">
-    <a href="/rezepte/2060171333287230/Frischeglas.html" title="pfiffige Kombination fürs Büfett im Glas, (Ellipse 90 cl) , Vorspeise, Amuse">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/206017/frischeglas-856261-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/206017/frischeglas-856261-150x150.jpg" alt="Frischeglas" title="Frischeglas" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Frischeglas</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="51 Bewertungen - &Oslash; 4.77"></span>
-                    <span class="search-list-item-uservotes-count">(51)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            pfiffige Kombination fürs Büfett im Glas, (Ellipse 90 cl) , Vorspeise, Amuse
-                                                </p>
-
-            <div>
                 <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">01.04.2012</span>
+                <span class="search-list-item-preptime">35 min.</span>
+                <span class="search-list-item-activationdate">13.07.2008</span>
             </div>
         </div>
     </a>
@@ -2019,8 +2064,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-914031196710118">
-    <a href="/rezepte/914031196710118/Griessbrei-von-Grossmutter.html" title="luftig, locker und lecker">
+        <li class="search-list-item initially-hidden" id="recipe-1666101274781519">
+    <a href="/rezepte/1666101274781519/Der-unglaublich-cremige-NY-Cheese-Cake.html">
 
         <div class="search-list-item-image">
             
@@ -2028,9 +2073,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/91403/grie-brei-von-gro-mutter-925345-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/166610/der-unglaublich-cremige-ny-cheese-cake-458851-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/91403/grie-brei-von-gro-mutter-925345-150x150.jpg" alt="Grießbrei von Großmutter" title="Grießbrei von Großmutter" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/166610/der-unglaublich-cremige-ny-cheese-cake-458851-150x150.jpg" alt="Der unglaublich cremige NY Cheese Cake" title="Der unglaublich cremige NY Cheese Cake" class="lazyload" />
 
                     
                 </picture>
@@ -2038,11 +2083,11 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Grießbrei von Großmutter</div>
+                            <div class="search-list-item-title">Der unglaublich cremige NY Cheese Cake</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="582 Bewertungen - &Oslash; 4.77"></span>
-                    <span class="search-list-item-uservotes-count">(582)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="1856 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(1856)</span>
                 </span>
 
                                     <span class="search-list-item-video"></span>
@@ -2050,61 +2095,13 @@ Die Mandel...
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            luftig, locker und lecker
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">04.12.2007</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-2120381341499440">
-    <a href="/rezepte/2120381341499440/Melonen-Hai.html" title="erfrischend und kreativ für den Sommer, Kindergeburtstag, Geburtstag, Büfett">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/212038/melonen-hai-916895-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/212038/melonen-hai-916895-150x150.jpg" alt="Melonen-Hai" title="Melonen-Hai" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Melonen-Hai</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="114 Bewertungen - &Oslash; 4.77"></span>
-                    <span class="search-list-item-uservotes-count">(114)</span>
-                </span>
-
-                                    <span class="search-list-item-video"></span>
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            erfrischend und kreativ für den Sommer, Kindergeburtstag, Geburtstag, Büfett
-                                                </p>
+                                    Die Butterkekse zerbröseln, gut mit der flüssigen Butter vermischen und die Mischung auf den Boden einer Backform drücken. Bei 180...
+                            </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
                 <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">05.07.2012</span>
+                <span class="search-list-item-activationdate">26.05.2010</span>
             </div>
         </div>
     </a>
@@ -2115,8 +2112,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1430921247984100">
-    <a href="/rezepte/1430921247984100/Eingesalzenes-Gemuese-fuer-Gemuesebruehe.html" title="frische Zutaten, ohne Zusätze (Glutamat, Aromen etc.)">
+        <li class="search-list-item initially-hidden" id="recipe-2200781352909710">
+    <a href="/rezepte/2200781352909710/Zimtschnecken-mit-Sahneguss.html" title="feines Hefegebäck">
 
         <div class="search-list-item-image">
             
@@ -2124,9 +2121,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/143092/eingesalzenes-gemuese-fuer-gemuesebruehe-731214-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/220078/zimtschnecken-mit-sahneguss-943593-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/143092/eingesalzenes-gemuese-fuer-gemuesebruehe-731214-150x150.jpg" alt="Eingesalzenes Gemüse für Gemüsebrühe" title="Eingesalzenes Gemüse für Gemüsebrühe" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/220078/zimtschnecken-mit-sahneguss-943593-150x150.jpg" alt="Zimtschnecken mit Sahneguss" title="Zimtschnecken mit Sahneguss" class="lazyload" />
 
                     
                 </picture>
@@ -2134,24 +2131,24 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Eingesalzenes Gemüse für Gemüsebrühe</div>
+                            <div class="search-list-item-title">Zimtschnecken mit Sahneguss</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="198 Bewertungen - &Oslash; 4.76"></span>
-                    <span class="search-list-item-uservotes-count">(198)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="81 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(81)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            frische Zutaten, ohne Zusätze (Glutamat, Aromen etc.)
+                                                            feines Hefegebäck
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">75 min.</span>
-                <span class="search-list-item-activationdate">19.07.2009</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">25 min.</span>
+                <span class="search-list-item-activationdate">14.11.2012</span>
             </div>
         </div>
     </a>
@@ -2162,8 +2159,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1815311294175895">
-    <a href="/rezepte/1815311294175895/Gurkenkrokodil.html" title="Gesundes für den Kindergeburtstag, etwas fürs Auge">
+        <li class="search-list-item initially-hidden" id="recipe-1102941216217501">
+    <a href="/rezepte/1102941216217501/Zitronentorte.html">
 
         <div class="search-list-item-image">
             
@@ -2171,9 +2168,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/181531/gurkenkrokodil-952148-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/110294/zitronentorte-900803-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/181531/gurkenkrokodil-952148-150x150.jpg" alt="Gurkenkrokodil" title="Gurkenkrokodil" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/110294/zitronentorte-900803-150x150.jpg" alt="Zitronentorte" title="Zitronentorte" class="lazyload" />
 
                     
                 </picture>
@@ -2181,25 +2178,24 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Gurkenkrokodil</div>
+                            <div class="search-list-item-title">Zitronentorte</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="431 Bewertungen - &Oslash; 4.76"></span>
-                    <span class="search-list-item-uservotes-count">(431)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="511 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(511)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Gesundes für den Kindergeburtstag, etwas fürs Auge
-                                                </p>
+                                    Eigelb mit Wasser und 60 g Zucker schaumig rühren. Vanillezucker mit Eiweiß und 65 g Zucker steif schlagen mit der Eigelbmasse ver...
+                            </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">05.01.2011</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">60 min.</span>
+                <span class="search-list-item-activationdate">18.07.2008</span>
             </div>
         </div>
     </a>
@@ -2257,8 +2253,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1679731276069495">
-    <a href="/rezepte/1679731276069495/Spezial-Spare-Ribs.html" title="Ribs für Smoker oder Kugelgrill, amerikanisches Barbecue">
+        <li class="search-list-item initially-hidden" id="recipe-1532141258904029">
+    <a href="/rezepte/1532141258904029/Cappuccino-Kuppeltorte.html" title="mit Bananen">
 
         <div class="search-list-item-image">
             
@@ -2266,9 +2262,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/167973/spezial-spare-ribs-695954-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/153214/cappuccino-kuppeltorte-577945-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/167973/spezial-spare-ribs-695954-150x150.jpg" alt="Spezial Spare Ribs" title="Spezial Spare Ribs" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/153214/cappuccino-kuppeltorte-577945-150x150.jpg" alt="Cappuccino-Kuppeltorte" title="Cappuccino-Kuppeltorte" class="lazyload" />
 
                     
                 </picture>
@@ -2276,24 +2272,24 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Spezial Spare Ribs</div>
+                            <div class="search-list-item-title">Cappuccino-Kuppeltorte</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="209 Bewertungen - &Oslash; 4.76"></span>
-                    <span class="search-list-item-uservotes-count">(209)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="52 Bewertungen - &Oslash; 4.76"></span>
+                    <span class="search-list-item-uservotes-count">(52)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Ribs für Smoker oder Kugelgrill, amerikanisches Barbecue
+                                                            mit Bananen
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">pfiffig</span>
-                <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">10.06.2010</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">22.11.2009</span>
             </div>
         </div>
     </a>
@@ -2304,8 +2300,8 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1745681283775397">
-    <a href="/rezepte/1745681283775397/Zappes-eine-besondere-Grillsauce.html" title="Seitdem ich Zappes kenne, brauche ich keine anderen Grillsaucen mehr.">
+        <li class="search-list-item initially-hidden" id="recipe-369841122576721">
+    <a href="/rezepte/369841122576721/Kaesekuchen-mit-2-Schichten.html">
 
         <div class="search-list-item-image">
             
@@ -2313,9 +2309,9 @@ Die Mandel...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/174568/zappes-eine-besondere-grillsauce-782937-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/36984/kaesekuchen-mit-2-schichten-820232-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/174568/zappes-eine-besondere-grillsauce-782937-150x150.jpg" alt="Zappes, eine besondere Grillsauce" title="Zappes, eine besondere Grillsauce" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/36984/kaesekuchen-mit-2-schichten-820232-150x150.jpg" alt="Käsekuchen mit 2 Schichten" title="Käsekuchen mit 2 Schichten" class="lazyload" />
 
                     
                 </picture>
@@ -2323,24 +2319,27 @@ Die Mandel...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Zappes, eine besondere Grillsauce</div>
+                            <div class="search-list-item-title">Käsekuchen mit 2 Schichten</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="149 Bewertungen - &Oslash; 4.76"></span>
-                    <span class="search-list-item-uservotes-count">(149)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="655 Bewertungen - &Oslash; 4.76"></span>
+                    <span class="search-list-item-uservotes-count">(655)</span>
                 </span>
 
+                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Seitdem ich Zappes kenne, brauche ich keine anderen Grillsaucen mehr.
-                                                </p>
+                                    Aus Butter, 75 g Zucker, Mehl, Backpulver und 1 Ei einen Mürbeteig kneten und diesen kurz in den Kühlschrank stellen. 
+
+Quark, 150...
+                            </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">07.09.2010</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">35 min.</span>
+                <span class="search-list-item-activationdate">29.07.2005</span>
             </div>
         </div>
     </a>
@@ -2384,12 +2383,12 @@ Die Mandel...
         
     
                 
-                        <a href="/rs/s30g32/Speisearten.html"
+                        <a href="/rs/s30g47/Suessspeisen-Backen-Rezepte.html"
                class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-2">2</a>
         
     
                 
-                        <a href="/rs/s60g32/Speisearten.html"
+                        <a href="/rs/s60g47/Suessspeisen-Backen-Rezepte.html"
                class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-3">3</a>
         
     
@@ -2401,11 +2400,11 @@ Die Mandel...
     </span>
 
         
-        <a href="/rs/s168480g32/Speisearten.html"
+        <a href="/rs/s79080g47/Suessspeisen-Backen-Rezepte.html"
            class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-last"
-           rel="nofollow">5617</a>
+           rel="nofollow">2637</a>
     
-                <a href="/rs/s30g32/Speisearten.html"
+                <a href="/rs/s30g47/Suessspeisen-Backen-Rezepte.html"
            class="ck-pagination__link ck-pagination__link-prevnext ck-pagination__link-prevnext--next qa-pagination-next">weiter</a>
     
 </div>									</div>
@@ -2439,9 +2438,9 @@ Die Mandel...
 
     <div class="sidebar-box-diet">
         <div class="sidebar-box-subline">Ernährungsformen</div>
-                    <a href="/rs/s0g32t32/Vegetarisch-Speisearten.html" class="diettag" id="test-diettag-vegetarian" >vegetarisch</a>
+                    <a href="/rs/s0g47t32/Vegetarisch-Suessspeisen-Backen-Rezepte.html" class="diettag" id="test-diettag-vegetarian" >vegetarisch</a>
         
-                    <a href="/rs/s0g32t32,57/Vegetarisch-Vegan-Speisearten.html" class="diettag " id="test-diettag-vegan" >vegan</a>
+                    <a href="/rs/s0g47t32,57/Vegetarisch-Vegan-Suessspeisen-Backen-Rezepte.html" class="diettag " id="test-diettag-vegan" >vegan</a>
             </div>
 
 
@@ -2453,350 +2452,350 @@ Die Mandel...
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t51/Aufstrich-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Aufstrich
+                        <a href="/rs/s0g47t14/Asien-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Asien
                         </a>
                     </li>
                                     <li>
                         
                                                                             
-                        <a href="/rs/s0g32t23/Backen-Speisearten.html" title=" Rezept" class="rztag-large" >
+                        <a href="/rs/s0g47t23/Backen-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-large" >
                             Backen
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t79/Basisrezepte-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t88/Backen-oder-Suessspeise-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Backen oder Süßspeise
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t79/Basisrezepte-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Basisrezepte
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t36/Beilage-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t36/Beilage-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Beilage
                         </a>
                     </li>
                                     <li>
                         
                                                                             
-                        <a href="/rs/s0g32t69/Braten-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            Braten
-                        </a>
-                    </li>
-                                    <li>
-                        
-                                                                            
-                        <a href="/rs/s0g32t108/Brot-oder-Broetchen-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g47t108/Brot-oder-Broetchen-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-small" >
                             Brot oder Brötchen
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t90/Dessert-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t46/Brotspeise-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Brotspeise
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t104/Creme-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Creme
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t90/Dessert-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Dessert
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t65/Deutschland-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t65/Deutschland-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Deutschland
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t35/Dips-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            Dips
-                        </a>
-                    </li>
-                                    <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t50/einfach-Speisearten.html" title=" Rezept" class="rztag-large" >
+                        <a href="/rs/s0g47t50/einfach-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             einfach
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t29/Europa-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            Europa
+                        
+                        <a href="/rs/s0g47t127/Eis-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Eis
                         </a>
                     </li>
                                     <li>
                         
                                                                             
-                        <a href="/rs/s0g32t106/Festlich-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g47t29/Europa-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-small" >
+                            Europa
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t106/Festlich-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Festlich
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t56/fettarm-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t56/fettarm-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             fettarm
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t52/Fingerfood-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t52/Fingerfood-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Fingerfood
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t109/Frucht-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t134/Frittieren-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Frittieren
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t109/Frucht-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Frucht
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t78/Fruehling-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t78/Fruehling-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Frühling
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t53/Fruehstueck-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t53/Fruehstueck-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Frühstück
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t58/Gefluegel-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Geflügel
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
-                        <a href="/rs/s0g32t146/Geheimrezept-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t146/Geheimrezept-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Geheimrezept
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t144/gekocht-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            gekocht
-                        </a>
-                    </li>
-                                    <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t18/Gemuese-Speisearten.html" title=" Rezept" class="rztag-medium" >
-                            Gemüse
+                        <a href="/rs/s0g47t117/Grossbritannien-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Großbritannien
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t150/Haltbarmachen-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Haltbarmachen
-                        </a>
-                    </li>
-                                    <li>
-                        
-                                                                            
-                        <a href="/rs/s0g32t21/Hauptspeise-Speisearten.html" title=" Rezept" class="rztag-medium" >
+                        <a href="/rs/s0g47t21/Hauptspeise-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Hauptspeise
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t99/Herbst-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t99/Herbst-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Herbst
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t28/Italien-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t28/Italien-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Italien
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t20/kalt-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            kalt
+                        <a href="/rs/s0g47t147/Kekse-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Kekse
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t91/Kinder-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t91/Kinder-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Kinder
                         </a>
                     </li>
                                     <li>
                         
+                        
+                        <a href="/rs/s0g47t157/Konfiserie-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Konfiserie
+                        </a>
+                    </li>
+                                    <li>
+                        
                                                                             
-                        <a href="/rs/s0g32t92/Kuchen-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g47t92/Kuchen-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-medium" >
                             Kuchen
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t100/Mehlspeisen-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t100/Mehlspeisen-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Mehlspeisen
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t45/Party-Speisearten.html" title=" Rezept" class="rztag-medium" >
+                        
+                        <a href="/rs/s0g47t120/Ostern-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Ostern
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t72/Oesterreich-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Österreich
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t86/Osteuropa-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Osteuropa
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t45/Party-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Party
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t48/raffiniert-oder-preiswert-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t48/raffiniert-oder-preiswert-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             raffiniert oder preiswert
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t110/Resteverwertung-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t110/Resteverwertung-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Resteverwertung
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t22/Rind-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Rind
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
-                        <a href="/rs/s0g32t15/Salat-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Salat
-                        </a>
-                    </li>
-                                    <li>
-                        
-                                                                            
-                        <a href="/rs/s0g32t34/Saucen-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            Saucen
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
-                        <a href="/rs/s0g32t66/Schmoren-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Schmoren
-                        </a>
-                    </li>
-                                    <li>
-                        
-                                                                            
-                        <a href="/rs/s0g32t49/Schnell-Speisearten.html" title=" Rezept" class="rztag-large" >
+                        <a href="/rs/s0g47t49/Schnell-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Schnell
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t59/Schwein-Speisearten.html" title=" Rezept" class="rztag-small" >
-                            Schwein
-                        </a>
-                    </li>
-                                    <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t71/Snack-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g47t71/Snack-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Snack
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t27/Sommer-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t27/Sommer-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Sommer
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t211/Studentenkueche-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t211/Studentenkueche-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Studentenküche
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t40/Suppe-Speisearten.html" title=" Rezept" class="rztag-x-small" >
-                            Suppe
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
-                        <a href="/rs/s0g32t89/Suessspeise-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t89/Suessspeise-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Süßspeise
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t93/Torte-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t122/Tarte-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Tarte
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t93/Torte-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Torte
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t38/USA-oder-Kanada-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t103/Tuerkei-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Türkei
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g47t38/USA-oder-Kanada-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             USA oder Kanada
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t143/Vollwert-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t143/Vollwert-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Vollwert
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g32t19/Vorspeise-Speisearten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g47t19/Vorspeise-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Vorspeise
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t42/warm-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t42/warm-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             warm
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t102/Weihnachten-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t102/Weihnachten-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Weihnachten
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g32t64/Winter-Speisearten.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g47t64/Winter-Suessspeisen-Backen-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Winter
                         </a>
                     </li>
@@ -2826,7 +2825,66 @@ Die Mandel...
 				<div class="sidebar-box-headline">Ähnliche Artikel</div>
 
 			<ul class="teaser-list">
-							<li class="clearfix"> 
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/614,0/AEG/Herbst-Rezepte-kinderleicht.html" name="{'ct':'mag_artikel','ck':{'3':'614','1':'rezeptsuche-art','2':'14','4':'186','5':'2385'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35332.png" title="K&uuml;rbissuppe, Zwiebelkuchen und Kn&ouml;del" width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/614,0/AEG/Herbst-Rezepte-kinderleicht.html" name="{'ct':'mag_artikel','ck':{'3':'614','1':'rezeptsuche-art','2':'14','4':'186','5':'2385'}}">
+							AEG Herbst-Rezepte						</a>
+						<div>K&uuml;rbissuppe, Zwiebelkuchen und Kn&ouml;del</div>
+					</div>
+				</li>
+				
+							
+            <div class="gujAd teaser" id="spteaser_1">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_1');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/3480,0/AEG/Geburtstagskuchen-Klassiker.html" name="{'ct':'mag_artikel','ck':{'3':'3480','1':'rezeptsuche-art','2':'14','4':'186','5':'48916'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/19623.jpg" title="Mit diesen Tricks gelingen Ihre Lieblingskuchen am besten! Dazu ein Sternekoch-Rezept." width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/3480,0/AEG/Geburtstagskuchen-Klassiker.html" name="{'ct':'mag_artikel','ck':{'3':'3480','1':'rezeptsuche-art','2':'14','4':'186','5':'48916'}}">
+							Schokokuchen, Marmorkuchen &amp; Zitronenkuchen						</a>
+						<div>Mit diesen Tricks gelingen Ihre Lieblingskuchen am besten! Dazu ein Sternekoch-Rezept.</div>
+					</div>
+				</li>
+				
+							
+            <div class="gujAd teaser" id="spteaser_2">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_2');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/5577,0/AEG/Mittermeiers-Trickkiste-Joghurt-aus-dem-Dampfgarer.html" name="{'ct':'mag_artikel','ck':{'3':'5577','1':'rezeptsuche-art','2':'14','4':'186','5':'77550'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/34303.jpg" title="Mit Rezept und herbstlichen Toppings aus Apfelkompott und Backpflaumen." width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/5577,0/AEG/Mittermeiers-Trickkiste-Joghurt-aus-dem-Dampfgarer.html" name="{'ct':'mag_artikel','ck':{'3':'5577','1':'rezeptsuche-art','2':'14','4':'186','5':'77550'}}">
+							Joghurt aus dem Dampfgarer						</a>
+						<div>Mit Rezept und herbstlichen Toppings aus Apfelkompott und Backpflaumen.</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5573,0/KUeCHEN-QUELLE/Kuechenspass-in-den-Ferien-Kochen-mit-Kindern.html" name="{'ct':'mag_artikel','ck':{'3':'5573','1':'rezeptsuche-art','2':'84','4':'369','5':'77512'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/34213.jpg" title="Durch gemeinsames Kochen mit Kindern die K&uuml;che zum Erlebnis machen - mit vielen Leckereien!" width="56" height="56" alt="" />
@@ -2839,7 +2897,33 @@ Die Mandel...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/988,0/Chefkoch/Blechkuchen-Leckere-Rezepte-fuer-Kuchen-vom-Blech.html" name="{'ct':'mag_artikel','ck':{'3':'988','1':'rezeptsuche-art','2':'6','4':'277','5':'3798'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/Blechkuchen56.jpg" title="Schokoladig-s&uuml;&szlig;, mit viel frischem Obst oder crunchigen Streuseln" width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/988,0/Chefkoch/Blechkuchen-Leckere-Rezepte-fuer-Kuchen-vom-Blech.html" name="{'ct':'mag_artikel','ck':{'3':'988','1':'rezeptsuche-art','2':'6','4':'277','5':'3798'}}">
+							Blechkuchen: Diese Kuchen backen Sie auf dem Blech						</a>
+						<div>Schokoladig-s&uuml;&szlig;, mit viel frischem Obst oder crunchigen Streuseln</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/2057,0/AEG/Fingerfood-zur-Fussball-EM.html" name="{'ct':'mag_artikel','ck':{'3':'2057','1':'rezeptsuche-art','2':'14','4':'185','5':'11338'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/fingerfood_56x56.jpg" title="Pikante Zitronen-Chili-Wings, gebackene Kartoffeln, Knusper-Camembert und mehr!" width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/2057,0/AEG/Fingerfood-zur-Fussball-EM.html" name="{'ct':'mag_artikel','ck':{'3':'2057','1':'rezeptsuche-art','2':'14','4':'185','5':'11338'}}">
+							Quick and spicy: Fingerfood zur Fu&szlig;ball-EM						</a>
+						<div>Pikante Zitronen-Chili-Wings, gebackene Kartoffeln, Knusper-Camembert und mehr!</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5112,0/AEG/Mittermeiers-Trickkiste-Einzigartiges-Brot-und-Kuchen-backen.html" name="{'ct':'mag_artikel','ck':{'3':'5112','1':'rezeptsuche-art','2':'14','4':'186','5':'71380'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/31248.jpg" title="Limonen-Tarte und toskanische Rosinenbr&ouml;tchen machen jeden Espresso zur runden Sache!" width="56" height="56" alt="" />
@@ -2849,71 +2933,6 @@ Die Mandel...
 						<a href="/magazin/artikel/5112,0/AEG/Mittermeiers-Trickkiste-Einzigartiges-Brot-und-Kuchen-backen.html" name="{'ct':'mag_artikel','ck':{'3':'5112','1':'rezeptsuche-art','2':'14','4':'186','5':'71380'}}">
 							Einzigartiges Brot und Kuchen backen						</a>
 						<div>Limonen-Tarte und toskanische Rosinenbr&ouml;tchen machen jeden Espresso zur runden Sache!</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/4929,0/KUeCHEN-QUELLE/Unser-Kuechenexperte-Carsten-im-Interview-mit-Chefkoch-de.html" name="{'ct':'mag_artikel','ck':{'3':'4929','1':'rezeptsuche-art','2':'84','4':'369','5':'68821'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/30391.jpg" title="K&uuml;chenexperte Carsten wei&szlig;, was bei einer K&uuml;chenplanung wirklich wichtig ist!" width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/4929,0/KUeCHEN-QUELLE/Unser-Kuechenexperte-Carsten-im-Interview-mit-Chefkoch-de.html" name="{'ct':'mag_artikel','ck':{'3':'4929','1':'rezeptsuche-art','2':'84','4':'369','5':'68821'}}">
-							Insidertipps von Carsten Vogler						</a>
-						<div>K&uuml;chenexperte Carsten wei&szlig;, was bei einer K&uuml;chenplanung wirklich wichtig ist!</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/2752,0/AEG/Liebesbeweis-Muffins-und-Cupcakes-zum-Muttertag.html" name="{'ct':'mag_artikel','ck':{'3':'2752','1':'rezeptsuche-art','2':'14','4':'186','5':'35947'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/Muffins_teaser_56x56.jpg" title="Espresso-Cupcakes, Erdbeer-Limetten-Muffins und Birnen-Walnuss-Muffins mit Mohn." width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/2752,0/AEG/Liebesbeweis-Muffins-und-Cupcakes-zum-Muttertag.html" name="{'ct':'mag_artikel','ck':{'3':'2752','1':'rezeptsuche-art','2':'14','4':'186','5':'35947'}}">
-							Her damit: Muffins und Cupcakes mit raffinierten Toppings!						</a>
-						<div>Espresso-Cupcakes, Erdbeer-Limetten-Muffins und Birnen-Walnuss-Muffins mit Mohn.</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/4392,0/AEG/Mittermeiers-Trickkiste-Brot-backen-besser-mit-Dampf.html" name="{'ct':'mag_artikel','ck':{'3':'4392','1':'rezeptsuche-art','2':'14','4':'186','5':'60984'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/25924.jpg" title="Weizenbrot mit f&uuml;nf Gesichtern &ndash; eine Reise durch verschiedene Kontinente." width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/4392,0/AEG/Mittermeiers-Trickkiste-Brot-backen-besser-mit-Dampf.html" name="{'ct':'mag_artikel','ck':{'3':'4392','1':'rezeptsuche-art','2':'14','4':'186','5':'60984'}}">
-							Mittermeiers Trickkiste: Basis-Brot-Rezept und 5 Varianten						</a>
-						<div>Weizenbrot mit f&uuml;nf Gesichtern &ndash; eine Reise durch verschiedene Kontinente.</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/2656,0/AEG/Tex-Mex-verlaengert-das-Sommerfeeling-mit-Chili-und-Spareribs.html" name="{'ct':'mag_artikel','ck':{'3':'2656','1':'rezeptsuche-art','2':'14','4':'186','5':'33365'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/teaser_56x56-1.jpg" title="Zwei Rezepte mit raffinierten Beilagen &ndash; Cheddar-Taler oder Kartoffel-Wedges." width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/2656,0/AEG/Tex-Mex-verlaengert-das-Sommerfeeling-mit-Chili-und-Spareribs.html" name="{'ct':'mag_artikel','ck':{'3':'2656','1':'rezeptsuche-art','2':'14','4':'186','5':'33365'}}">
-							Tex-Mex sabroso: Chili con Carne und Spareribs						</a>
-						<div>Zwei Rezepte mit raffinierten Beilagen &ndash; Cheddar-Taler oder Kartoffel-Wedges.</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/3528,0/AEG/Mittermeiers-Trickkiste-Kochen-fuer-Kinder.html" name="{'ct':'mag_artikel','ck':{'3':'3528','1':'rezeptsuche-art','2':'14','4':'186','5':'49402'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/19962.jpg" title="Ultimative Pizza-Party-Schnecken nach Pippo. Perfekt f&uuml;r kleine Helfer!" width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/3528,0/AEG/Mittermeiers-Trickkiste-Kochen-fuer-Kinder.html" name="{'ct':'mag_artikel','ck':{'3':'3528','1':'rezeptsuche-art','2':'14','4':'186','5':'49402'}}">
-							Mittermeiers Trickkiste: Rezept f&uuml;r die Kinderparty						</a>
-						<div>Ultimative Pizza-Party-Schnecken nach Pippo. Perfekt f&uuml;r kleine Helfer!</div>
 					</div>
 				</li>
 				
@@ -3027,7 +3046,7 @@ Die Mandel...
 		window.ck.search.results = window.ck.search.results || {};
 		window.ck.search.results.recipeBrowsingData = window.ck.search.results.recipeBrowsingData || {};
 
-		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/1703011279016015\/Kuerbiskernoel-Parfait.html"},{"url":"\/rezepte\/1598021267025176\/NT-Schweinefilet-im-Speckmantel-mit-Champignons-und-Spaetzle.html"},{"url":"\/rezepte\/1345621239312368\/Beurre-mani.html"},{"url":"\/rezepte\/1728511281966781\/Semmelknoedel-aus-der-Form.html"},{"url":"\/rezepte\/1298601234964040\/Thunfischfilet-in-Zimt-Sesam-Kruste-auf-Chili-Mango-Salat.html"},{"url":"\/rezepte\/485281142608656\/Rehruecken-ausgeloest.html"},{"url":"\/rezepte\/2338561372249308\/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"},{"url":"\/rezepte\/2588771406324164\/Tomatensauce-aus-ofengeroesteten-Tomaten.html"},{"url":"\/rezepte\/701261172735942\/Rinderfilet-an-Whiskeyrahmsauce.html"},{"url":"\/rezepte\/1540431260282175\/Joghurt-Bombe.html"},{"url":"\/rezepte\/2133281343053838\/Rinderrouladen-klassisch.html"},{"url":"\/rezepte\/1459521250862560\/Eiskaffee-Sahne-Torte.html"},{"url":"\/rezepte\/886421194252051\/Selbst-gemachter-Vanillezucker.html"},{"url":"\/rezepte\/1259191231344473\/Gebrannte-Mandeln-mit-wenig-Zucker.html"},{"url":"\/rezepte\/336541117240506\/Holunder-Balsamico-Essig.html"},{"url":"\/rezepte\/1900361309694639\/Altbaerlis-Kaiserschmarrn.html"},{"url":"\/rezepte\/1560741263481424\/Lebkuchen-Kerze.html"},{"url":"\/rezepte\/800681183710369\/Bresso-selbst-gemachter.html"},{"url":"\/rezepte\/1152361221481605\/Spaghetti-Eis-Dessert.html"},{"url":"\/rezepte\/2648731416211587\/Pesto-Blume.html"},{"url":"\/rezepte\/2570811402502140\/Coleslaw-Atlanta-Style.html"},{"url":"\/rezepte\/1554051262698743\/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html"},{"url":"\/rezepte\/2060171333287230\/Frischeglas.html"},{"url":"\/rezepte\/914031196710118\/Griessbrei-von-Grossmutter.html"},{"url":"\/rezepte\/2120381341499440\/Melonen-Hai.html"},{"url":"\/rezepte\/1430921247984100\/Eingesalzenes-Gemuese-fuer-Gemuesebruehe.html"},{"url":"\/rezepte\/1815311294175895\/Gurkenkrokodil.html"},{"url":"\/rezepte\/2441311384813782\/Koalabaerenflitzer.html"},{"url":"\/rezepte\/1679731276069495\/Spezial-Spare-Ribs.html"},{"url":"\/rezepte\/1745681283775397\/Zappes-eine-besondere-Grillsauce.html"}];
+		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/1703011279016015\/Kuerbiskernoel-Parfait.html"},{"url":"\/rezepte\/1010591206190843\/Lothars-beste-Nuernberger-Elisenlebkuchen.html"},{"url":"\/rezepte\/1521151257327860\/Schneemoussetorte-mit-Rhabarber.html"},{"url":"\/rezepte\/1833611297339517\/Butterstollen-Thueringer-Art.html"},{"url":"\/rezepte\/2642351415194117\/Die-perfekten-Hamburgerbroetchen.html"},{"url":"\/rezepte\/916071197018348\/Sauerteig.html"},{"url":"\/rezepte\/699761172511152\/Uromas-Hefezopf.html"},{"url":"\/rezepte\/2287701364848460\/Zimtschnecken-Cinnabon-Style.html"},{"url":"\/rezepte\/1256021231072628\/Nussecken.html"},{"url":"\/rezepte\/305351110829408\/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"},{"url":"\/rezepte\/1476331252838756\/Zwetschgendatschi-mit-Butterstreuseln.html"},{"url":"\/rezepte\/2204031353338061\/Apfelkuchen-mit-Streuseln.html"},{"url":"\/rezepte\/1459521250862560\/Eiskaffee-Sahne-Torte.html"},{"url":"\/rezepte\/378801124204434\/Friedas-genialer-Hefezopf.html"},{"url":"\/rezepte\/2241291359024767\/Delfinas-Kefir-Kruste.html"},{"url":"\/rezepte\/1560741263481424\/Lebkuchen-Kerze.html"},{"url":"\/rezepte\/680461170504963\/Keks-Kuchen-vom-Blech.html"},{"url":"\/rezepte\/1214861227169722\/Elisen-Lebkuchen.html"},{"url":"\/rezepte\/2648731416211587\/Pesto-Blume.html"},{"url":"\/rezepte\/1842861298589308\/Puffer.html"},{"url":"\/rezepte\/1140221220253617\/Supersaftiger-Apfelkuchen.html"},{"url":"\/rezepte\/1489191254060947\/Blitz-Tortenboden.html"},{"url":"\/rezepte\/1768931286858358\/Rustikales-Brot-im-Braeter.html"},{"url":"\/rezepte\/1099631215940720\/Striezerl-und-Kipferl.html"},{"url":"\/rezepte\/1666101274781519\/Der-unglaublich-cremige-NY-Cheese-Cake.html"},{"url":"\/rezepte\/2200781352909710\/Zimtschnecken-mit-Sahneguss.html"},{"url":"\/rezepte\/1102941216217501\/Zitronentorte.html"},{"url":"\/rezepte\/2441311384813782\/Koalabaerenflitzer.html"},{"url":"\/rezepte\/1532141258904029\/Cappuccino-Kuppeltorte.html"},{"url":"\/rezepte\/369841122576721\/Kaesekuchen-mit-2-Schichten.html"}];
 		window.ck.search.results.recipeBrowsingData.searchHost = 'http://www.chefkoch.de';
 	</script>
 
@@ -3043,107 +3062,107 @@ Die Mandel...
     },      {
       "@type": "ListItem",
       "position": 2,
-      "url": "http://www.chefkoch.de/rezepte/1598021267025176/NT-Schweinefilet-im-Speckmantel-mit-Champignons-und-Spaetzle.html"
+      "url": "http://www.chefkoch.de/rezepte/1010591206190843/Lothars-beste-Nuernberger-Elisenlebkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 3,
-      "url": "http://www.chefkoch.de/rezepte/1345621239312368/Beurre-mani.html"
+      "url": "http://www.chefkoch.de/rezepte/1521151257327860/Schneemoussetorte-mit-Rhabarber.html"
     },      {
       "@type": "ListItem",
       "position": 4,
-      "url": "http://www.chefkoch.de/rezepte/1728511281966781/Semmelknoedel-aus-der-Form.html"
+      "url": "http://www.chefkoch.de/rezepte/1833611297339517/Butterstollen-Thueringer-Art.html"
     },      {
       "@type": "ListItem",
       "position": 5,
-      "url": "http://www.chefkoch.de/rezepte/1298601234964040/Thunfischfilet-in-Zimt-Sesam-Kruste-auf-Chili-Mango-Salat.html"
+      "url": "http://www.chefkoch.de/rezepte/2642351415194117/Die-perfekten-Hamburgerbroetchen.html"
     },      {
       "@type": "ListItem",
       "position": 6,
-      "url": "http://www.chefkoch.de/rezepte/485281142608656/Rehruecken-ausgeloest.html"
+      "url": "http://www.chefkoch.de/rezepte/916071197018348/Sauerteig.html"
     },      {
       "@type": "ListItem",
       "position": 7,
-      "url": "http://www.chefkoch.de/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"
+      "url": "http://www.chefkoch.de/rezepte/699761172511152/Uromas-Hefezopf.html"
     },      {
       "@type": "ListItem",
       "position": 8,
-      "url": "http://www.chefkoch.de/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html"
+      "url": "http://www.chefkoch.de/rezepte/2287701364848460/Zimtschnecken-Cinnabon-Style.html"
     },      {
       "@type": "ListItem",
       "position": 9,
-      "url": "http://www.chefkoch.de/rezepte/701261172735942/Rinderfilet-an-Whiskeyrahmsauce.html"
+      "url": "http://www.chefkoch.de/rezepte/1256021231072628/Nussecken.html"
     },      {
       "@type": "ListItem",
       "position": 10,
-      "url": "http://www.chefkoch.de/rezepte/1540431260282175/Joghurt-Bombe.html"
+      "url": "http://www.chefkoch.de/rezepte/305351110829408/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"
     },      {
       "@type": "ListItem",
       "position": 11,
-      "url": "http://www.chefkoch.de/rezepte/2133281343053838/Rinderrouladen-klassisch.html"
+      "url": "http://www.chefkoch.de/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html"
     },      {
       "@type": "ListItem",
       "position": 12,
-      "url": "http://www.chefkoch.de/rezepte/1459521250862560/Eiskaffee-Sahne-Torte.html"
+      "url": "http://www.chefkoch.de/rezepte/2204031353338061/Apfelkuchen-mit-Streuseln.html"
     },      {
       "@type": "ListItem",
       "position": 13,
-      "url": "http://www.chefkoch.de/rezepte/886421194252051/Selbst-gemachter-Vanillezucker.html"
+      "url": "http://www.chefkoch.de/rezepte/1459521250862560/Eiskaffee-Sahne-Torte.html"
     },      {
       "@type": "ListItem",
       "position": 14,
-      "url": "http://www.chefkoch.de/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html"
+      "url": "http://www.chefkoch.de/rezepte/378801124204434/Friedas-genialer-Hefezopf.html"
     },      {
       "@type": "ListItem",
       "position": 15,
-      "url": "http://www.chefkoch.de/rezepte/336541117240506/Holunder-Balsamico-Essig.html"
+      "url": "http://www.chefkoch.de/rezepte/2241291359024767/Delfinas-Kefir-Kruste.html"
     },      {
       "@type": "ListItem",
       "position": 16,
-      "url": "http://www.chefkoch.de/rezepte/1900361309694639/Altbaerlis-Kaiserschmarrn.html"
-    },      {
-      "@type": "ListItem",
-      "position": 17,
       "url": "http://www.chefkoch.de/rezepte/1560741263481424/Lebkuchen-Kerze.html"
     },      {
       "@type": "ListItem",
+      "position": 17,
+      "url": "http://www.chefkoch.de/rezepte/680461170504963/Keks-Kuchen-vom-Blech.html"
+    },      {
+      "@type": "ListItem",
       "position": 18,
-      "url": "http://www.chefkoch.de/rezepte/800681183710369/Bresso-selbst-gemachter.html"
+      "url": "http://www.chefkoch.de/rezepte/1214861227169722/Elisen-Lebkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 19,
-      "url": "http://www.chefkoch.de/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html"
-    },      {
-      "@type": "ListItem",
-      "position": 20,
       "url": "http://www.chefkoch.de/rezepte/2648731416211587/Pesto-Blume.html"
     },      {
       "@type": "ListItem",
+      "position": 20,
+      "url": "http://www.chefkoch.de/rezepte/1842861298589308/Puffer.html"
+    },      {
+      "@type": "ListItem",
       "position": 21,
-      "url": "http://www.chefkoch.de/rezepte/2570811402502140/Coleslaw-Atlanta-Style.html"
+      "url": "http://www.chefkoch.de/rezepte/1140221220253617/Supersaftiger-Apfelkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 22,
-      "url": "http://www.chefkoch.de/rezepte/1554051262698743/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html"
+      "url": "http://www.chefkoch.de/rezepte/1489191254060947/Blitz-Tortenboden.html"
     },      {
       "@type": "ListItem",
       "position": 23,
-      "url": "http://www.chefkoch.de/rezepte/2060171333287230/Frischeglas.html"
+      "url": "http://www.chefkoch.de/rezepte/1768931286858358/Rustikales-Brot-im-Braeter.html"
     },      {
       "@type": "ListItem",
       "position": 24,
-      "url": "http://www.chefkoch.de/rezepte/914031196710118/Griessbrei-von-Grossmutter.html"
+      "url": "http://www.chefkoch.de/rezepte/1099631215940720/Striezerl-und-Kipferl.html"
     },      {
       "@type": "ListItem",
       "position": 25,
-      "url": "http://www.chefkoch.de/rezepte/2120381341499440/Melonen-Hai.html"
+      "url": "http://www.chefkoch.de/rezepte/1666101274781519/Der-unglaublich-cremige-NY-Cheese-Cake.html"
     },      {
       "@type": "ListItem",
       "position": 26,
-      "url": "http://www.chefkoch.de/rezepte/1430921247984100/Eingesalzenes-Gemuese-fuer-Gemuesebruehe.html"
+      "url": "http://www.chefkoch.de/rezepte/2200781352909710/Zimtschnecken-mit-Sahneguss.html"
     },      {
       "@type": "ListItem",
       "position": 27,
-      "url": "http://www.chefkoch.de/rezepte/1815311294175895/Gurkenkrokodil.html"
+      "url": "http://www.chefkoch.de/rezepte/1102941216217501/Zitronentorte.html"
     },      {
       "@type": "ListItem",
       "position": 28,
@@ -3151,11 +3170,11 @@ Die Mandel...
     },      {
       "@type": "ListItem",
       "position": 29,
-      "url": "http://www.chefkoch.de/rezepte/1679731276069495/Spezial-Spare-Ribs.html"
+      "url": "http://www.chefkoch.de/rezepte/1532141258904029/Cappuccino-Kuppeltorte.html"
     },      {
       "@type": "ListItem",
       "position": 30,
-      "url": "http://www.chefkoch.de/rezepte/1745681283775397/Zappes-eine-besondere-Grillsauce.html"
+      "url": "http://www.chefkoch.de/rezepte/369841122576721/Kaesekuchen-mit-2-Schichten.html"
     }    ]
 }
 </script>
@@ -3489,7 +3508,7 @@ Die Mandel...
             <div class="footer-search">
     
         Live Rezeptsuchen:
-                    <a href="http://www.chefkoch.de/rs/s0/bratwurst+auflauf/Rezepte.html">bratwurst auflauf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/brot/Rezepte.html">brot rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/ciabatta/Rezepte.html">ciabatta rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hefezopf/Rezepte.html">hefezopf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hirsch/Rezepte.html">hirsch rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/kuchen+einfach+schnell+lecker/Rezepte.html">kuchen einfach schnell lecker rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/k%C3%A4sekuchen/Rezepte.html">käsekuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/penne+tomaten+sahne+sauce/Rezepte.html">penne tomaten sahne sauce rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/selterskuchen/Rezepte.html">selterskuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/soljanka/Rezepte.html">soljanka rezepte</a>    
+                    <a href="http://www.chefkoch.de/rs/s0/milch/Rezepte.html">milch rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/milchreis/Rezepte.html">milchreis rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/apfelkuchen+mit+vanillepudding/Rezepte.html">apfelkuchen mit vanillepudding rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/blechkuchen+schnell/Rezepte.html">blechkuchen schnell rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/crespelle+spinat+ricotta/Rezepte.html">crespelle spinat ricotta rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/gnocchi/Rezepte.html">gnocchi rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/lammschulter+braten/Rezepte.html">lammschulter braten rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/lebkuchen/Rezepte.html">lebkuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/mexikanische+vorspeisen/Rezepte.html">mexikanische vorspeisen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/schoko+sahne+eis/Rezepte.html">schoko sahne eis rezepte</a>    
 
     </div>
     
@@ -3672,7 +3691,7 @@ Die Mandel...
     </script>
     <!--/SZM -->
     		<script type="text/javascript">
-			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"77512;71380;68821;35947;60984;33365;49402","7":"2","4":"0","5":"8","10":"168496","8":"32"},"contentGroup":{"1":"de","2":"web","3":"search"}};
+			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"2385;48916;77550;77512;3798;11338;71380","7":"2","4":"0","5":"8","10":"79086","8":"47"},"contentGroup":{"1":"de","2":"web","3":"search"}};
 						if(CK.core.hasSmallViewport() && CK.core.isLocationResponsive()) {
 				window.wtparam.wtconfig.contentId = window.wtparam.wtconfig.contentId.replace('de.web.', 'de.mew.');
 				wtparam.contentGroup['2'] = "mew";
@@ -3710,13 +3729,13 @@ Die Mandel...
 						document.write(unescape("%3Cscript%3Eif(window.CustomEvent){var event=new CustomEvent('ck_events_webtrekk:loaded',null);}else{var event=document.createEvent('ck_events_webtrekk:loaded');event.initCustomEvent('ck_events_webtrekk:loaded',true,false);}window.dispatchEvent(event);%3C/script%3E"));
 
 		</script>
-		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=77512%3B71380%3B68821%3B35947%3B60984%3B33365%3B49402&cp7=2&cp4=0&cp5=8&cp10=168496&cp8=32&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
+		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=2385%3B48916%3B77550%3B77512%3B3798%3B11338%3B71380&cp7=2&cp4=0&cp5=8&cp10=79086&cp8=47&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
 
 
 <script type="text/javascript">
 
         var statistic_data = {
-                            "searchquery":"","searchscope":"2","numresults":"168496","pagination":"0","sort_order":"8", 
+                            "searchquery":"","searchscope":"2","numresults":"79086","pagination":"0","sort_order":"8", 
                 user: "",
         page: "/rezept-suche-solr-url.php",
         cached: true

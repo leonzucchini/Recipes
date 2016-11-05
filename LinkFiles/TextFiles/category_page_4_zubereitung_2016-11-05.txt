@@ -14,7 +14,7 @@
 <title>Rezepte sortiert nach Zubereitungsarten | Chefkoch.de</title>
 
 
-<meta name="description" content="259.245 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite">
+<meta name="description" content="259.369 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite">
 <meta name="robots" content="index,follow">
 
 
@@ -42,27 +42,27 @@
     <link rel="canonical" href="http://www.chefkoch.de/rs/s0g61/Zubereitungsarten.html">
 
 
-<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/va656cd0db778b41e7f755827b7209088.main.css"/>
+<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/v1ada895e2b804884df92373c32d77570.main.css"/>
 
 
-    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/vd2a2e4af994bafabc2588892edb675ea.search.css" media="all">
+    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/v588d0f795817088e9dd18429734e8902.search.css" media="all">
 
     
 
 <meta property="fb:admins" content="618216749, 100001930567366" />
 <meta property="fb:app_id" content="1561091907540820"/>
-<meta property="og:description" content="259.245 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite" />
+<meta property="og:description" content="259.369 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite" />
 <meta property="og:image" content="http://static.chefkoch-cdn.de/ck.de/rezepte/101/101059/850506-960x720-lothars-beste-nuernberger-elisenlebkuchen.jpg" />
 <meta property="og:title" content="Rezepte sortiert nach Zubereitungsarten | Chefkoch.de" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chefkoch.de" />
 
 
-    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g61/Zubereitungsarten-rezepte.html" />
+    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g61/zubereitungsarten.html" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:creator" content="@chefkochde" />
-<meta property="twitter:description" content="259.245 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite" />
+<meta property="twitter:description" content="259.369 beliebte Rezepte sortiert nach Zubereitungsarten auf Chefkoch.de - Europas beliebtester Kochseite" />
 <meta property="twitter:site" content="@chefkochde" />
 <meta property="twitter:title" content="Rezepte sortiert nach Zubereitungsarten | Chefkoch.de" />
 <meta property="twitter:image:src" content="http://static.chefkoch-cdn.de/ck.de/rezepte/101/101059/850506-960x720-lothars-beste-nuernberger-elisenlebkuchen.jpg" />
@@ -326,8 +326,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <li><a href="/community/anleitungen/Vorspeisen-Salate_2" name='{"ct":"com_board_navigation","ck":{"3":"2"}}'>Vorspeisen &amp; Salate</a></li>
                     <li><a href="/community/anleitungen/Hauptgerichte_3" name='{"ct":"com_board_navigation","ck":{"3":"3"}}'>Hauptgerichte</a></li>
                     <li><a href="/community/anleitungen/Backen-Suesses_1" name='{"ct":"com_board_navigation","ck":{"3":"1"}}'>Backen &amp; Süßes</a></li>
-            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:26 -->
-<!-- Content-ID: 1e3e3e7d32144eb24bddcf0a25e2bc99-->
+            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:31 -->
+<!-- Content-ID: 613e724a11f31fda4ee3ddb36170a12c-->
 
                                                                         </ul>
                 </div>
@@ -395,7 +395,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <a href="http://www.chefkoch.de/magazin/artikel/5771,0/Chefkoch/Turbokueche-Zeit-sparen-mit-den-richtigen-Rezepten.html">Turboküche für Eilige</a>
                 </li>
                                                                 <li >
-                    <a href="http://www.chefkoch.de/magazin/artikel/5798,0/Chefkoch/Wo-sagen-sich-Fuchs-und-Hase-guten-Morgen-In-deiner-Kueche.html">Tierisches Herbst-Geschirr</a>
+                    <a href="http://www.chefkoch.de/magazin/artikel/5967,0/allyouneedfresh-de/Wo-bekomme-ich-die-guten-Zutaten-fuer-meine-Rezepte-her.html">Lebensmittel Online kaufen</a>
                 </li>
                                                                 <li >
                     <a href="http://www.chefkoch.de/magazin/artikel/5618,0/Chefkoch/Von-der-Serie-in-den-Kuechenschrank.html">TV-Serien in eurer Küche!</a>
@@ -747,7 +747,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 						
 						
 														<h1>
-					259.245 Rezepte sortiert nach Zubereitungsarten				</h1>
+					259.369 Rezepte sortiert nach Zubereitungsarten				</h1>
 
                     <div class="search-header clearfix">
     <div class="filter-wrapper">
@@ -895,8 +895,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                             <div class="search-list-item-title">Lothars beste Nürnberger Elisenlebkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="611 Bewertungen - &Oslash; 4.83"></span>
-                    <span class="search-list-item-uservotes-count">(611)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="613 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(613)</span>
                 </span>
 
                 
@@ -991,8 +991,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">NT - Schweinefilet im Speckmantel mit Champignons und Spätzle</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="196 Bewertungen - &Oslash; 4.83"></span>
-                    <span class="search-list-item-uservotes-count">(196)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="198 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(198)</span>
                 </span>
 
                                     <span class="search-list-item-video"></span>
@@ -1218,8 +1218,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">Der beste Pizzateig</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="600 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(600)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="603 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(603)</span>
                 </span>
 
                 
@@ -1359,8 +1359,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">Uromas Hefezopf</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="161 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(161)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="162 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(162)</span>
                 </span>
 
                 
@@ -1468,8 +1468,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">Zimtschnecken &#039;Cinnabon Style&#039;</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="400 Bewertungen - &Oslash; 4.82"></span>
-                    <span class="search-list-item-uservotes-count">(400)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="402 Bewertungen - &Oslash; 4.82"></span>
+                    <span class="search-list-item-uservotes-count">(402)</span>
                 </span>
 
                 
@@ -1483,6 +1483,54 @@ Die Butter mit 125 g Zucker, 1 Prise...
                 <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">60 min.</span>
                 <span class="search-list-item-activationdate">03.04.2013</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1256021231072628">
+    <a href="/rezepte/1256021231072628/Nussecken.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-150x150.jpg" alt="Nussecken" title="Nussecken" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Nussecken</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="81 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(81)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Aus den Zutaten einen Knetteig herstellen. Der Teig ist relativ weich, so kann man ihn schön auf dem Blech verteilen.
+Den Boden ei...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">60 min.</span>
+                <span class="search-list-item-activationdate">04.01.2009</span>
             </div>
         </div>
     </a>
@@ -1562,8 +1610,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="134 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(134)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="135 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(135)</span>
                 </span>
 
                 
@@ -1656,8 +1704,8 @@ Die Butter mit 125 g Zucker, 1 Prise...
                             <div class="search-list-item-title">Rinderfilet an Whiskeyrahmsauce</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="92 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(92)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="93 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(93)</span>
                 </span>
 
                 
@@ -1778,8 +1826,8 @@ Das Rinderfilet rundum m...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1256021231072628">
-    <a href="/rezepte/1256021231072628/Nussecken.html">
+        <li class="search-list-item initially-hidden" id="recipe-1476331252838756">
+    <a href="/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html" title="superlocker und saftig">
 
         <div class="search-list-item-image">
             
@@ -1787,9 +1835,9 @@ Das Rinderfilet rundum m...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/125602/nussecken-921468-150x150.jpg" alt="Nussecken" title="Nussecken" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-150x150.jpg" alt="Zwetschgendatschi mit Butterstreuseln" title="Zwetschgendatschi mit Butterstreuseln" class="lazyload" />
 
                     
                 </picture>
@@ -1797,25 +1845,24 @@ Das Rinderfilet rundum m...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Nussecken</div>
+                            <div class="search-list-item-title">Zwetschgendatschi mit Butterstreuseln</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="80 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(80)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="327 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(327)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Aus den Zutaten einen Knetteig herstellen. Der Teig ist relativ weich, so kann man ihn schön auf dem Blech verteilen.
-Den Boden ei...
-                            </p>
+                                                            superlocker und saftig
+                                                </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">04.01.2009</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">13.09.2009</span>
             </div>
         </div>
     </a>
@@ -1896,8 +1943,8 @@ Den Boden ei...
                             <div class="search-list-item-title">Apfelkuchen mit Streuseln</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="754 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(754)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="761 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(761)</span>
                 </span>
 
                 
@@ -1944,8 +1991,8 @@ Zum Schluss kommt eine Mischung aus Mehl u...
                             <div class="search-list-item-title">Eiskaffee - Sahne - Torte</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="43 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(43)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="44 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(44)</span>
                 </span>
 
                 
@@ -2069,53 +2116,6 @@ Die Mandel...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1476331252838756">
-    <a href="/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html" title="superlocker und saftig">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-150x150.jpg" alt="Zwetschgendatschi mit Butterstreuseln" title="Zwetschgendatschi mit Butterstreuseln" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Zwetschgendatschi mit Butterstreuseln</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="326 Bewertungen - &Oslash; 4.8"></span>
-                    <span class="search-list-item-uservotes-count">(326)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            superlocker und saftig
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">13.09.2009</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
         <li class="search-list-item initially-hidden" id="recipe-378801124204434">
     <a href="/rezepte/378801124204434/Friedas-genialer-Hefezopf.html">
 
@@ -2138,8 +2138,8 @@ Die Mandel...
                             <div class="search-list-item-title">Friedas genialer Hefezopf</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="2967 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(2967)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="2968 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(2968)</span>
                 </span>
 
                                     <span class="search-list-item-video"></span>
@@ -2203,53 +2203,6 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
                 <span class="search-list-item-difficulty">simpel</span>
                 <span class="search-list-item-preptime">20 min.</span>
                 <span class="search-list-item-activationdate">28.05.2005</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-1900361309694639">
-    <a href="/rezepte/1900361309694639/Altbaerlis-Kaiserschmarrn.html" title="süß - flaumige Verführung aus dem Backofen">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/190036/altbaerlis-kaiserschmarrn-772546-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/190036/altbaerlis-kaiserschmarrn-772546-150x150.jpg" alt="Altbaerlis  Kaiserschmarrn" title="Altbaerlis  Kaiserschmarrn" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Altbaerlis  Kaiserschmarrn</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="669 Bewertungen - &Oslash; 4.79"></span>
-                    <span class="search-list-item-uservotes-count">(669)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            süß - flaumige Verführung aus dem Backofen
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">04.07.2011</span>
             </div>
         </div>
     </a>
@@ -2352,6 +2305,54 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
         
                 
                 
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1152361221481605">
+    <a href="/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html" title="ohne Eis">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-150x150.jpg" alt="Spaghetti-Eis Dessert" title="Spaghetti-Eis Dessert" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Spaghetti-Eis Dessert</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="372 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(372)</span>
+                </span>
+
+                                    <span class="search-list-item-video"></span>
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            ohne Eis
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">15.09.2008</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
     </ul>
 
         <div id="google-adsense-search-bottom">
@@ -2404,9 +2405,9 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
     </span>
 
         
-        <a href="/rs/s259230g61/Zubereitungsarten.html"
+        <a href="/rs/s259350g61/Zubereitungsarten.html"
            class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-last"
-           rel="nofollow">8642</a>
+           rel="nofollow">8646</a>
     
                 <a href="/rs/s30g61/Zubereitungsarten.html"
            class="ck-pagination__link ck-pagination__link-prevnext ck-pagination__link-prevnext--next qa-pagination-next">weiter</a>
@@ -2673,13 +2674,6 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
                                     <li>
                         
                         
-                        <a href="/rs/s0g61t31/Pasta-Zubereitungsarten.html" title=" Rezept" class="rztag-x-small" >
-                            Pasta
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
                         <a href="/rs/s0g61t48/raffiniert-oder-preiswert-Zubereitungsarten.html" title=" Rezept" class="rztag-x-small" >
                             raffiniert oder preiswert
                         </a>
@@ -2707,8 +2701,8 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g61t34/Saucen-Zubereitungsarten.html" title=" Rezept" class="rztag-small" >
+                        
+                        <a href="/rs/s0g61t34/Saucen-Zubereitungsarten.html" title=" Rezept" class="rztag-x-small" >
                             Saucen
                         </a>
                     </li>
@@ -2752,6 +2746,13 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
                         
                         <a href="/rs/s0g61t211/Studentenkueche-Zubereitungsarten.html" title=" Rezept" class="rztag-x-small" >
                             Studentenküche
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g61t40/Suppe-Zubereitungsarten.html" title=" Rezept" class="rztag-x-small" >
+                            Suppe
                         </a>
                     </li>
                                     <li>
@@ -2829,7 +2830,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 				<div class="sidebar-box-headline">Ähnliche Artikel</div>
 
 			<ul class="teaser-list">
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5788,0/Knorr/Fuer-die-Gaeste-nur-das-Beste.html" name="{'ct':'mag_artikel','ck':{'3':'5788','1':'rezeptsuche-art','2':'79','4':'360','5':'80252'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35577.jpg" title="Unsere Kolumnistin hat ihre Freunde zum &bdquo;Bollo&ldquo;-Test eingeladen. Seid gespannt!" width="56" height="56" alt="" />
@@ -2842,7 +2843,17 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+							
+            <div class="gujAd teaser" id="spteaser_1">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_1');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5787,0/Knorr/Geschmackstest-bestanden.html" name="{'ct':'mag_artikel','ck':{'3':'5787','1':'rezeptsuche-art','2':'79','4':'360','5':'80249'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35579.jpg" title="5.000 User von chefkoch.de haben KNORR Nat&uuml;rlich Lecker! getestet. Daumen hoch!" width="56" height="56" alt="" />
@@ -2855,7 +2866,17 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+							
+            <div class="gujAd teaser" id="spteaser_2">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_2');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5775,0/Knorr/Wissenswertes-rund-um-Hackfleisch.html" name="{'ct':'mag_artikel','ck':{'3':'5775','1':'rezeptsuche-art','2':'79','4':'360','5':'80106'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35493.jpg" title="Sorten, Lagerung und Rezeptideen &ndash; Wissenswertes rund um Hackfleisch" width="56" height="56" alt="" />
@@ -2868,7 +2889,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5774,0/Knorr/Scharfe-Klassiker-das-beste-Chili-der-Welt.html" name="{'ct':'mag_artikel','ck':{'3':'5774','1':'rezeptsuche-art','2':'79','4':'360','5':'80103'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35490.jpg" title="Chefkoch Adrian Springer das Grundrezept in einem Video &ndash; zum Nachkochen." width="56" height="56" alt="" />
@@ -2881,7 +2902,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/4926,0/KUeCHEN-QUELLE/Wir-sind-der-Kuechenspezialist-fuer-deine-Kuechentraeume.html" name="{'ct':'mag_artikel','ck':{'3':'4926','1':'rezeptsuche-art','2':'84','4':'369','5':'68809'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/30392.jpg" title="Erfahre hier mehr &uuml;ber die gro&szlig;e Welt der K&Uuml;CHEN." width="56" height="56" alt="" />
@@ -2894,7 +2915,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/3520,0/WMF/Bohne-Wasser-und-die-richtige-Zubereitung-die-Kunst-des-Kaffeemachens.html" name="{'ct':'mag_artikel','ck':{'3':'3520','1':'rezeptsuche-art','2':'60','4':'426','5':'49329'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/20651.jpg" title="Bohne, Wasser und die richtige Zubereitung mit der French Press." width="56" height="56" alt="" />
@@ -2907,7 +2928,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/1618,0/AEG/Regionale-Schmankerl-Gruenkohl-mit-Kohlwurst-Kassler.html" name="{'ct':'mag_artikel','ck':{'3':'1618','1':'rezeptsuche-art','2':'14','4':'186','5':'7438'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/gruenkohl_56_56-1.jpg" title="Wie man ihn am besten zubereitet und was dazu am besten schmeckt &ndash; Antworten hier!" width="56" height="56" alt="" />
@@ -3030,7 +3051,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 		window.ck.search.results = window.ck.search.results || {};
 		window.ck.search.results.recipeBrowsingData = window.ck.search.results.recipeBrowsingData || {};
 
-		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/1010591206190843\/Lothars-beste-Nuernberger-Elisenlebkuchen.html"},{"url":"\/rezepte\/1521151257327860\/Schneemoussetorte-mit-Rhabarber.html"},{"url":"\/rezepte\/1598021267025176\/NT-Schweinefilet-im-Speckmantel-mit-Champignons-und-Spaetzle.html"},{"url":"\/rezepte\/1833611297339517\/Butterstollen-Thueringer-Art.html"},{"url":"\/rezepte\/1345621239312368\/Beurre-mani.html"},{"url":"\/rezepte\/2642351415194117\/Die-perfekten-Hamburgerbroetchen.html"},{"url":"\/rezepte\/1151011221381450\/Der-beste-Pizzateig.html"},{"url":"\/rezepte\/916071197018348\/Sauerteig.html"},{"url":"\/rezepte\/1728511281966781\/Semmelknoedel-aus-der-Form.html"},{"url":"\/rezepte\/699761172511152\/Uromas-Hefezopf.html"},{"url":"\/rezepte\/1298601234964040\/Thunfischfilet-in-Zimt-Sesam-Kruste-auf-Chili-Mango-Salat.html"},{"url":"\/rezepte\/2287701364848460\/Zimtschnecken-Cinnabon-Style.html"},{"url":"\/rezepte\/485281142608656\/Rehruecken-ausgeloest.html"},{"url":"\/rezepte\/2338561372249308\/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"},{"url":"\/rezepte\/2588771406324164\/Tomatensauce-aus-ofengeroesteten-Tomaten.html"},{"url":"\/rezepte\/701261172735942\/Rinderfilet-an-Whiskeyrahmsauce.html"},{"url":"\/rezepte\/1540431260282175\/Joghurt-Bombe.html"},{"url":"\/rezepte\/305351110829408\/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"},{"url":"\/rezepte\/1256021231072628\/Nussecken.html"},{"url":"\/rezepte\/2133281343053838\/Rinderrouladen-klassisch.html"},{"url":"\/rezepte\/2204031353338061\/Apfelkuchen-mit-Streuseln.html"},{"url":"\/rezepte\/1459521250862560\/Eiskaffee-Sahne-Torte.html"},{"url":"\/rezepte\/886421194252051\/Selbst-gemachter-Vanillezucker.html"},{"url":"\/rezepte\/1259191231344473\/Gebrannte-Mandeln-mit-wenig-Zucker.html"},{"url":"\/rezepte\/1476331252838756\/Zwetschgendatschi-mit-Butterstreuseln.html"},{"url":"\/rezepte\/378801124204434\/Friedas-genialer-Hefezopf.html"},{"url":"\/rezepte\/336541117240506\/Holunder-Balsamico-Essig.html"},{"url":"\/rezepte\/1900361309694639\/Altbaerlis-Kaiserschmarrn.html"},{"url":"\/rezepte\/2241291359024767\/Delfinas-Kefir-Kruste.html"},{"url":"\/rezepte\/800681183710369\/Bresso-selbst-gemachter.html"}];
+		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/1010591206190843\/Lothars-beste-Nuernberger-Elisenlebkuchen.html"},{"url":"\/rezepte\/1521151257327860\/Schneemoussetorte-mit-Rhabarber.html"},{"url":"\/rezepte\/1598021267025176\/NT-Schweinefilet-im-Speckmantel-mit-Champignons-und-Spaetzle.html"},{"url":"\/rezepte\/1833611297339517\/Butterstollen-Thueringer-Art.html"},{"url":"\/rezepte\/1345621239312368\/Beurre-mani.html"},{"url":"\/rezepte\/2642351415194117\/Die-perfekten-Hamburgerbroetchen.html"},{"url":"\/rezepte\/1151011221381450\/Der-beste-Pizzateig.html"},{"url":"\/rezepte\/916071197018348\/Sauerteig.html"},{"url":"\/rezepte\/1728511281966781\/Semmelknoedel-aus-der-Form.html"},{"url":"\/rezepte\/699761172511152\/Uromas-Hefezopf.html"},{"url":"\/rezepte\/1298601234964040\/Thunfischfilet-in-Zimt-Sesam-Kruste-auf-Chili-Mango-Salat.html"},{"url":"\/rezepte\/2287701364848460\/Zimtschnecken-Cinnabon-Style.html"},{"url":"\/rezepte\/1256021231072628\/Nussecken.html"},{"url":"\/rezepte\/485281142608656\/Rehruecken-ausgeloest.html"},{"url":"\/rezepte\/2338561372249308\/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"},{"url":"\/rezepte\/2588771406324164\/Tomatensauce-aus-ofengeroesteten-Tomaten.html"},{"url":"\/rezepte\/701261172735942\/Rinderfilet-an-Whiskeyrahmsauce.html"},{"url":"\/rezepte\/1540431260282175\/Joghurt-Bombe.html"},{"url":"\/rezepte\/305351110829408\/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"},{"url":"\/rezepte\/1476331252838756\/Zwetschgendatschi-mit-Butterstreuseln.html"},{"url":"\/rezepte\/2133281343053838\/Rinderrouladen-klassisch.html"},{"url":"\/rezepte\/2204031353338061\/Apfelkuchen-mit-Streuseln.html"},{"url":"\/rezepte\/1459521250862560\/Eiskaffee-Sahne-Torte.html"},{"url":"\/rezepte\/886421194252051\/Selbst-gemachter-Vanillezucker.html"},{"url":"\/rezepte\/1259191231344473\/Gebrannte-Mandeln-mit-wenig-Zucker.html"},{"url":"\/rezepte\/378801124204434\/Friedas-genialer-Hefezopf.html"},{"url":"\/rezepte\/336541117240506\/Holunder-Balsamico-Essig.html"},{"url":"\/rezepte\/2241291359024767\/Delfinas-Kefir-Kruste.html"},{"url":"\/rezepte\/800681183710369\/Bresso-selbst-gemachter.html"},{"url":"\/rezepte\/1152361221481605\/Spaghetti-Eis-Dessert.html"}];
 		window.ck.search.results.recipeBrowsingData.searchHost = 'http://www.chefkoch.de';
 	</script>
 
@@ -3090,55 +3111,55 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
     },      {
       "@type": "ListItem",
       "position": 13,
-      "url": "http://www.chefkoch.de/rezepte/485281142608656/Rehruecken-ausgeloest.html"
-    },      {
-      "@type": "ListItem",
-      "position": 14,
-      "url": "http://www.chefkoch.de/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"
-    },      {
-      "@type": "ListItem",
-      "position": 15,
-      "url": "http://www.chefkoch.de/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html"
-    },      {
-      "@type": "ListItem",
-      "position": 16,
-      "url": "http://www.chefkoch.de/rezepte/701261172735942/Rinderfilet-an-Whiskeyrahmsauce.html"
-    },      {
-      "@type": "ListItem",
-      "position": 17,
-      "url": "http://www.chefkoch.de/rezepte/1540431260282175/Joghurt-Bombe.html"
-    },      {
-      "@type": "ListItem",
-      "position": 18,
-      "url": "http://www.chefkoch.de/rezepte/305351110829408/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"
-    },      {
-      "@type": "ListItem",
-      "position": 19,
       "url": "http://www.chefkoch.de/rezepte/1256021231072628/Nussecken.html"
     },      {
       "@type": "ListItem",
+      "position": 14,
+      "url": "http://www.chefkoch.de/rezepte/485281142608656/Rehruecken-ausgeloest.html"
+    },      {
+      "@type": "ListItem",
+      "position": 15,
+      "url": "http://www.chefkoch.de/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"
+    },      {
+      "@type": "ListItem",
+      "position": 16,
+      "url": "http://www.chefkoch.de/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html"
+    },      {
+      "@type": "ListItem",
+      "position": 17,
+      "url": "http://www.chefkoch.de/rezepte/701261172735942/Rinderfilet-an-Whiskeyrahmsauce.html"
+    },      {
+      "@type": "ListItem",
+      "position": 18,
+      "url": "http://www.chefkoch.de/rezepte/1540431260282175/Joghurt-Bombe.html"
+    },      {
+      "@type": "ListItem",
+      "position": 19,
+      "url": "http://www.chefkoch.de/rezepte/305351110829408/Hefeteig-fuer-Zopfbrot-Schnecken-oder-Figuren.html"
+    },      {
+      "@type": "ListItem",
       "position": 20,
-      "url": "http://www.chefkoch.de/rezepte/2133281343053838/Rinderrouladen-klassisch.html"
+      "url": "http://www.chefkoch.de/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html"
     },      {
       "@type": "ListItem",
       "position": 21,
-      "url": "http://www.chefkoch.de/rezepte/2204031353338061/Apfelkuchen-mit-Streuseln.html"
+      "url": "http://www.chefkoch.de/rezepte/2133281343053838/Rinderrouladen-klassisch.html"
     },      {
       "@type": "ListItem",
       "position": 22,
-      "url": "http://www.chefkoch.de/rezepte/1459521250862560/Eiskaffee-Sahne-Torte.html"
+      "url": "http://www.chefkoch.de/rezepte/2204031353338061/Apfelkuchen-mit-Streuseln.html"
     },      {
       "@type": "ListItem",
       "position": 23,
-      "url": "http://www.chefkoch.de/rezepte/886421194252051/Selbst-gemachter-Vanillezucker.html"
+      "url": "http://www.chefkoch.de/rezepte/1459521250862560/Eiskaffee-Sahne-Torte.html"
     },      {
       "@type": "ListItem",
       "position": 24,
-      "url": "http://www.chefkoch.de/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html"
+      "url": "http://www.chefkoch.de/rezepte/886421194252051/Selbst-gemachter-Vanillezucker.html"
     },      {
       "@type": "ListItem",
       "position": 25,
-      "url": "http://www.chefkoch.de/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html"
+      "url": "http://www.chefkoch.de/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html"
     },      {
       "@type": "ListItem",
       "position": 26,
@@ -3150,15 +3171,15 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
     },      {
       "@type": "ListItem",
       "position": 28,
-      "url": "http://www.chefkoch.de/rezepte/1900361309694639/Altbaerlis-Kaiserschmarrn.html"
-    },      {
-      "@type": "ListItem",
-      "position": 29,
       "url": "http://www.chefkoch.de/rezepte/2241291359024767/Delfinas-Kefir-Kruste.html"
     },      {
       "@type": "ListItem",
-      "position": 30,
+      "position": 29,
       "url": "http://www.chefkoch.de/rezepte/800681183710369/Bresso-selbst-gemachter.html"
+    },      {
+      "@type": "ListItem",
+      "position": 30,
+      "url": "http://www.chefkoch.de/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html"
     }    ]
 }
 </script>
@@ -3492,7 +3513,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
             <div class="footer-search">
     
         Live Rezeptsuchen:
-                    <a href="http://www.chefkoch.de/rs/s0/bratwurst+auflauf/Rezepte.html">bratwurst auflauf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/brot/Rezepte.html">brot rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/ciabatta/Rezepte.html">ciabatta rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hefezopf/Rezepte.html">hefezopf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hirsch/Rezepte.html">hirsch rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/kuchen+einfach+schnell+lecker/Rezepte.html">kuchen einfach schnell lecker rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/k%C3%A4sekuchen/Rezepte.html">käsekuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/penne+tomaten+sahne+sauce/Rezepte.html">penne tomaten sahne sauce rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/selterskuchen/Rezepte.html">selterskuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/soljanka/Rezepte.html">soljanka rezepte</a>    
+                    <a href="http://www.chefkoch.de/rs/s0/apfelwein/Rezepte.html">apfelwein rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/rosenkohl/Rezepte.html">rosenkohl rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/basilikum/Rezepte.html">basilikum rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/burger/Rezepte.html">burger rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/kuchen/Rezepte.html">kuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/lasagne+aus+palatschinken/Rezepte.html">lasagne aus palatschinken rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/nudelsalat/Rezepte.html">nudelsalat rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/ratatouille+reis/Rezepte.html">ratatouille reis rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/sachertorte/Rezepte.html">sachertorte rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/schokopudding/Rezepte.html">schokopudding rezepte</a>    
 
     </div>
     
@@ -3675,7 +3696,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
     </script>
     <!--/SZM -->
     		<script type="text/javascript">
-			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"80252;80249;80106;80103;68809;49329;7438","7":"2","4":"0","5":"8","10":"259245","8":"61"},"contentGroup":{"1":"de","2":"web","3":"search"}};
+			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"80252;80249;80106;80103;68809;49329;7438","7":"2","4":"0","5":"8","10":"259369","8":"61"},"contentGroup":{"1":"de","2":"web","3":"search"}};
 						if(CK.core.hasSmallViewport() && CK.core.isLocationResponsive()) {
 				window.wtparam.wtconfig.contentId = window.wtparam.wtconfig.contentId.replace('de.web.', 'de.mew.');
 				wtparam.contentGroup['2'] = "mew";
@@ -3713,13 +3734,13 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in ei...
 						document.write(unescape("%3Cscript%3Eif(window.CustomEvent){var event=new CustomEvent('ck_events_webtrekk:loaded',null);}else{var event=document.createEvent('ck_events_webtrekk:loaded');event.initCustomEvent('ck_events_webtrekk:loaded',true,false);}window.dispatchEvent(event);%3C/script%3E"));
 
 		</script>
-		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=80252%3B80249%3B80106%3B80103%3B68809%3B49329%3B7438&cp7=2&cp4=0&cp5=8&cp10=259245&cp8=61&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
+		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=80252%3B80249%3B80106%3B80103%3B68809%3B49329%3B7438&cp7=2&cp4=0&cp5=8&cp10=259369&cp8=61&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
 
 
 <script type="text/javascript">
 
         var statistic_data = {
-                            "searchquery":"","searchscope":"2","numresults":"259245","pagination":"0","sort_order":"8", 
+                            "searchquery":"","searchscope":"2","numresults":"259369","pagination":"0","sort_order":"8", 
                 user: "",
         page: "/rezept-suche-solr-url.php",
         cached: true

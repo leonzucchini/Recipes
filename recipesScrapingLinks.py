@@ -2,10 +2,12 @@
 # from py2neo import *
 import os
 from datetime import date
+import time
 
 from GetResponse import GetResponse
 from PathListFromFile import PathList
 from WriteObject import *
+from ReportProgress import ProgressReport
 
 # Define main()
 def main():
@@ -29,12 +31,15 @@ def main():
 
     # Prepare folder for saving
     output_file = WriteObject(prefs["link_output_directory"])
-    output_file.check_folder()
-
+    output_file.check_folder(debug = True)
+    
     id = 0
+    timer = ProgressReport()
+    
     for url_key in url_keys:
         
         url = url_dict[url_key]
+        timer.report()
 
         # Use GetResponse to get response from server using URL
         html_response = GetResponse().tryRequest(url)

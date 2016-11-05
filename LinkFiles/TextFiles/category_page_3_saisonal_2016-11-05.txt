@@ -11,10 +11,10 @@
 
     <meta name="viewport" content="width=device-width">
 
-<title>Getr&auml;nke | Chefkoch.de</title>
+<title>Saisonale Rezepte | Chefkoch.de</title>
 
 
-<meta name="description" content="12.762 beliebte Getr&auml;nke auf Chefkoch.de - Europas größter Kochseite">
+<meta name="description" content="78.274 leckere Saisonale Rezepte auf Chefkoch.de - Deutschlands beliebtester Kochcommunity">
 <meta name="robots" content="index,follow">
 
 
@@ -39,33 +39,33 @@
 
 
 
-    <link rel="canonical" href="http://www.chefkoch.de/rs/s0g102/Getraenke.html">
+    <link rel="canonical" href="http://www.chefkoch.de/rs/s0g53/saisonale-Rezepte.html">
 
 
-<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/va656cd0db778b41e7f755827b7209088.main.css"/>
+<link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/v1ada895e2b804884df92373c32d77570.main.css"/>
 
 
-    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/vd2a2e4af994bafabc2588892edb675ea.search.css" media="all">
+    <link rel="stylesheet" href="//css.chefkoch-cdn.de/css/ck.de/search/v588d0f795817088e9dd18429734e8902.search.css" media="all">
 
     
 
 <meta property="fb:admins" content="618216749, 100001930567366" />
 <meta property="fb:app_id" content="1561091907540820"/>
-<meta property="og:description" content="12.762 beliebte Getr&amp;auml;nke auf Chefkoch.de - Europas gr&ouml;&szlig;ter Kochseite" />
-<meta property="og:image" content="http://static.chefkoch-cdn.de/ck.de/rezepte/54/54196/183163-960x720-eierlikoer-nach-ddr-tradition.jpg" />
-<meta property="og:title" content="Getr&amp;auml;nke | Chefkoch.de" />
+<meta property="og:description" content="78.274 leckere Saisonale Rezepte auf Chefkoch.de - Deutschlands beliebtester Kochcommunity" />
+<meta property="og:image" content="http://static.chefkoch-cdn.de/ck.de/rezepte/101/101059/850506-960x720-lothars-beste-nuernberger-elisenlebkuchen.jpg" />
+<meta property="og:title" content="Saisonale Rezepte | Chefkoch.de" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Chefkoch.de" />
 
 
-    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g102/getraenke.html" />
+    <meta property="og:url" content="http://www.chefkoch.de/rs/s0g53/saisonale-rezepte.html" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:creator" content="@chefkochde" />
-<meta property="twitter:description" content="12.762 beliebte Getr&amp;auml;nke auf Chefkoch.de - Europas gr&ouml;&szlig;ter Kochseite" />
+<meta property="twitter:description" content="78.274 leckere Saisonale Rezepte auf Chefkoch.de - Deutschlands beliebtester Kochcommunity" />
 <meta property="twitter:site" content="@chefkochde" />
-<meta property="twitter:title" content="Getr&amp;auml;nke | Chefkoch.de" />
-<meta property="twitter:image:src" content="http://static.chefkoch-cdn.de/ck.de/rezepte/54/54196/183163-960x720-eierlikoer-nach-ddr-tradition.jpg" />
+<meta property="twitter:title" content="Saisonale Rezepte | Chefkoch.de" />
+<meta property="twitter:image:src" content="http://static.chefkoch-cdn.de/ck.de/rezepte/101/101059/850506-960x720-lothars-beste-nuernberger-elisenlebkuchen.jpg" />
 
 
 <script>
@@ -120,11 +120,11 @@ if (document.cookie.search(/(?:^|;\s*)ck_viewport=desktop(?:$|;)/) !== -1) {
         });
 
                 GujAd.cmd.push(function () {
-            GujAd.getClient().addKeywords(['Getränke','rezeptsuche']);
+            GujAd.getClient().addKeywords(['Saisonal','rezeptsuche']);
         });
             }
 
-    if (typeof adkwds == "undefined") { adkwds = ';kw=Getränke;kw=rezeptsuche'; }
+    if (typeof adkwds == "undefined") { adkwds = ';kw=Saisonal;kw=rezeptsuche'; }
 </script>
 
     <script>
@@ -326,8 +326,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <li><a href="/community/anleitungen/Vorspeisen-Salate_2" name='{"ct":"com_board_navigation","ck":{"3":"2"}}'>Vorspeisen &amp; Salate</a></li>
                     <li><a href="/community/anleitungen/Hauptgerichte_3" name='{"ct":"com_board_navigation","ck":{"3":"3"}}'>Hauptgerichte</a></li>
                     <li><a href="/community/anleitungen/Backen-Suesses_1" name='{"ct":"com_board_navigation","ck":{"3":"1"}}'>Backen &amp; Süßes</a></li>
-            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:26 -->
-<!-- Content-ID: 1e3e3e7d32144eb24bddcf0a25e2bc99-->
+            <!-- Version cc551f6786e0d60d393c42c20dcff129e04f8cd6, Commit cc551f6786e0d60d393c42c20dcff129e04f8cd6 from 2016-08-24 08:08:31 -->
+<!-- Content-ID: 613e724a11f31fda4ee3ddb36170a12c-->
 
                                                                         </ul>
                 </div>
@@ -395,7 +395,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <a href="http://www.chefkoch.de/magazin/artikel/5771,0/Chefkoch/Turbokueche-Zeit-sparen-mit-den-richtigen-Rezepten.html">Turboküche für Eilige</a>
                 </li>
                                                                 <li >
-                    <a href="http://www.chefkoch.de/magazin/artikel/5798,0/Chefkoch/Wo-sagen-sich-Fuchs-und-Hase-guten-Morgen-In-deiner-Kueche.html">Tierisches Herbst-Geschirr</a>
+                    <a href="http://www.chefkoch.de/magazin/artikel/5967,0/allyouneedfresh-de/Wo-bekomme-ich-die-guten-Zutaten-fuer-meine-Rezepte-her.html">Lebensmittel Online kaufen</a>
                 </li>
                                                                 <li >
                     <a href="http://www.chefkoch.de/magazin/artikel/5618,0/Chefkoch/Von-der-Serie-in-den-Kuechenschrank.html">TV-Serien in eurer Küche!</a>
@@ -702,7 +702,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                             </span>
                                 <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">&raquo;
                                     <span
-                        itemprop="title">Getr&auml;nke</span>
+                        itemprop="title">Saisonal</span>
                             </span>
             </div>
 
@@ -747,7 +747,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 						
 						
 														<h1>
-					12.762 Getr&auml;nke				</h1>
+					78.274 Saisonale Rezepte				</h1>
 
                     <div class="search-header clearfix">
     <div class="filter-wrapper">
@@ -763,8 +763,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     <span class="ck-dropdown__title-icon"></span>
                 </button>
                 <div class="ck-dropdown__dropdown">
-                                                            <a href="/rs/s0o8g102/Getraenke.html" class="ck-dropdown__link searchresult-sorting-by-rating ck-dropdown__link--active">Bewertung</a><br/>
-                    <a href="/rs/s0o3g102/Getraenke.html" class="ck-dropdown__link searchresult-sorting-by-date ">Datum</a>
+                                                            <a href="/rs/s0o8g53/saisonale-Rezepte.html" class="ck-dropdown__link searchresult-sorting-by-rating ck-dropdown__link--active">Bewertung</a><br/>
+                    <a href="/rs/s0o3g53/saisonale-Rezepte.html" class="ck-dropdown__link searchresult-sorting-by-date ">Datum</a>
                 </div>
             </div>
         </div>
@@ -776,7 +776,7 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                 <input type="hidden" name="advanced_search_checkbox" value="1">
                 <input type="hidden" name="suche" value="1">
                 <input type="hidden" name="suche2" value="2">
-                <input type="hidden" name="ID" value="102">
+                <input type="hidden" name="ID" value="53">
                 <input type="hidden" name="tag_ids" value="">
 
                 <input type="text" name="Suchbegriff" id="search-refine-input" class="search-refine" value="" placeholder="Suche verfeinern:" />
@@ -873,8 +873,8 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 <ul class="search-list">
     
         
-        <li class="search-list-item" id="recipe-541961151505565">
-    <a href="/rezepte/541961151505565/Eierlikoer-nach-DDR-Tradition.html" title="der absolut weltbeste, leckerste, dickflüssigste Eierlikör">
+        <li class="search-list-item" id="recipe-1010591206190843">
+    <a href="/rezepte/1010591206190843/Lothars-beste-Nuernberger-Elisenlebkuchen.html" title="weihnachtliches Nachbarschaftsrezept">
 
         <div class="search-list-item-image">
             
@@ -882,9 +882,9 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/54196/eierlikoer-nach-ddr-tradition-183163-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/101059/lothars-beste-nuernberger-elisenlebkuchen-850506-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/54196/eierlikoer-nach-ddr-tradition-183163-150x150.jpg" alt="Eierlikör nach DDR-Tradition" title="Eierlikör nach DDR-Tradition" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/101059/lothars-beste-nuernberger-elisenlebkuchen-850506-150x150.jpg" alt="Lothars beste Nürnberger Elisenlebkuchen" title="Lothars beste Nürnberger Elisenlebkuchen" />
 
                     
                 </picture>
@@ -892,122 +892,120 @@ window.CkConfig.cdnBaseUrl = '//static.chefkoch-cdn.de/ck.de/';
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Eierlikör nach DDR-Tradition</div>
+                            <div class="search-list-item-title">Lothars beste Nürnberger Elisenlebkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-5" title="1079 Bewertungen - &Oslash; 4.81"></span>
-                    <span class="search-list-item-uservotes-count">(1079)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="613 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(613)</span>
                 </span>
 
-                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            der absolut weltbeste, leckerste, dickflüssigste Eierlikör
+                                                            weihnachtliches Nachbarschaftsrezept
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">45 min.</span>
+                <span class="search-list-item-activationdate">22.03.2008</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item" id="recipe-1521151257327860">
+    <a href="/rezepte/1521151257327860/Schneemoussetorte-mit-Rhabarber.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/152115/schneemoussetorte-mit-rhabarber-915296-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/152115/schneemoussetorte-mit-rhabarber-915296-150x150.jpg" alt="Schneemoussetorte mit Rhabarber" title="Schneemoussetorte mit Rhabarber" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Schneemoussetorte mit Rhabarber</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="92 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(92)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Eine Springform (26 cm) einfetten. Die Eier trennen. Den Backofen vorheizen (Umluft 150°C). 
+
+Die Butter mit 125 g Zucker, 1 Prise...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">90 min.</span>
+                <span class="search-list-item-activationdate">04.11.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item" id="recipe-1833611297339517">
+    <a href="/rezepte/1833611297339517/Butterstollen-Thueringer-Art.html" title="Saftig, lecker! Auch sehr variabel als Stollen mit Mandeln oder Marzipan">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/183361/butterstollen-thueringer-art-408903-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/183361/butterstollen-thueringer-art-408903-150x150.jpg" alt="Butterstollen Thüringer Art" title="Butterstollen Thüringer Art" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Butterstollen Thüringer Art</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="178 Bewertungen - &Oslash; 4.83"></span>
+                    <span class="search-list-item-uservotes-count">(178)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            Saftig, lecker! Auch sehr variabel als Stollen mit Mandeln oder Marzipan
                                                 </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">28.06.2006</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item" id="recipe-672321169458724">
-    <a href="/rezepte/672321169458724/Malibu-Peach-Beach.html" title="fruchtige Bowle">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/67232/malibu-peach-beach-697534-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/67232/malibu-peach-beach-697534-150x150.jpg" alt="Malibu Peach Beach" title="Malibu Peach Beach" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Malibu Peach Beach</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="284 Bewertungen - &Oslash; 4.74"></span>
-                    <span class="search-list-item-uservotes-count">(284)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            fruchtige Bowle
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">23.01.2007</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item" id="recipe-86171033890906">
-    <a href="/rezepte/86171033890906/Erdbeerlimes.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/8617/erdbeerlimes-702659-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/8617/erdbeerlimes-702659-150x150.jpg" alt="Erdbeerlimes" title="Erdbeerlimes" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Erdbeerlimes</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="530 Bewertungen - &Oslash; 4.72"></span>
-                    <span class="search-list-item-uservotes-count">(530)</span>
-                </span>
-
-                                    <span class="search-list-item-video"></span>
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Die Erdbeeren pürieren.
-
-Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gelöst ist, erkalten lassen....
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">07.10.2002</span>
+                <span class="search-list-item-activationdate">10.02.2011</span>
             </div>
         </div>
     </a>
@@ -1050,8 +1048,8 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                 
     
         
-        <li class="search-list-item" id="recipe-126921054397500">
-    <a href="/rezepte/126921054397500/Feuerzangenbowle.html" title="für etwa 8 Genießer">
+        <li class="search-list-item" id="recipe-485281142608656">
+    <a href="/rezepte/485281142608656/Rehruecken-ausgeloest.html">
 
         <div class="search-list-item-image">
             
@@ -1059,9 +1057,9 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/12692/feuerzangenbowle-533738-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/48528/rehruecken-ausgeloest-646456-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/12692/feuerzangenbowle-533738-150x150.jpg" alt="Feuerzangenbowle" title="Feuerzangenbowle" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/48528/rehruecken-ausgeloest-646456-150x150.jpg" alt="Rehrücken ausgelöst" title="Rehrücken ausgelöst" />
 
                     
                 </picture>
@@ -1069,24 +1067,24 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Feuerzangenbowle</div>
+                            <div class="search-list-item-title">Rehrücken ausgelöst</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="110 Bewertungen - &Oslash; 4.71"></span>
-                    <span class="search-list-item-uservotes-count">(110)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="187 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(187)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            für etwa 8 Genießer
-                                                </p>
+                                    Ein Rehrücken ist eine edle Sache. Er macht am Tag der Zubereitung wenig Arbeit, verlangt beim Braten aber Fingerspitzengefühl und...
+                            </p>
 
             <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">31.05.2003</span>
+                <span class="search-list-item-difficulty">pfiffig</span>
+                <span class="search-list-item-preptime">120 min.</span>
+                <span class="search-list-item-activationdate">17.03.2006</span>
             </div>
         </div>
     </a>
@@ -1097,8 +1095,8 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                 
     
         
-        <li class="search-list-item" id="recipe-1218471227357990">
-    <a href="/rezepte/1218471227357990/Ralfs-Orangenlikoer.html" title="als Ersatz zu Cointreau mit weniger Alkohol">
+        <li class="search-list-item" id="recipe-2338561372249308">
+    <a href="/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html" title="Ich mache meine Spareribs nun schon sehr lange auf diese Weise, egal ob Smoker oder Backofen jeder fährt darauf ab!!">
 
         <div class="search-list-item-image">
             
@@ -1106,9 +1104,9 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/121847/ralfs-orangenlikoer-851979-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/233856/k-stliche-bbq-spareribs-f-r-smoker-und-backofen-inkl-so-e-und-gew-rzmischung-923356-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/121847/ralfs-orangenlikoer-851979-150x150.jpg" alt="Ralfs Orangenlikör" title="Ralfs Orangenlikör" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/233856/k-stliche-bbq-spareribs-f-r-smoker-und-backofen-inkl-so-e-und-gew-rzmischung-923356-150x150.jpg" alt="Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)" title="Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)" />
 
                     
                 </picture>
@@ -1116,24 +1114,24 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Ralfs Orangenlikör</div>
+                            <div class="search-list-item-title">Köstliche BBQ Spareribs für Smoker und Backofen (inkl. Soße und Gewürzmischung)</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="29 Bewertungen - &Oslash; 4.71"></span>
-                    <span class="search-list-item-uservotes-count">(29)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="135 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(135)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            als Ersatz zu Cointreau mit weniger Alkohol
+                                                            Ich mache meine Spareribs nun schon sehr lange auf diese Weise, egal ob Smoker oder Backofen jeder fährt darauf ab!!
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">22.11.2008</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">60 min.</span>
+                <span class="search-list-item-activationdate">26.06.2013</span>
             </div>
         </div>
     </a>
@@ -1150,8 +1148,8 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                 
     
         
-        <li class="search-list-item" id="recipe-1393141244283554">
-    <a href="/rezepte/1393141244283554/Titanic-Bowle.html">
+        <li class="search-list-item" id="recipe-2588771406324164">
+    <a href="/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html" title="Verwertung bei Tomatenschwemme">
 
         <div class="search-list-item-image">
             
@@ -1159,9 +1157,9 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/139314/titanic-bowle-933627-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/258877/tomatensauce-aus-ofenger-steten-tomaten-941209-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/139314/titanic-bowle-933627-150x150.jpg" alt="Titanic Bowle" title="Titanic Bowle" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/258877/tomatensauce-aus-ofenger-steten-tomaten-941209-150x150.jpg" alt="Tomatensauce aus ofengerösteten Tomaten" title="Tomatensauce aus ofengerösteten Tomaten" />
 
                     
                 </picture>
@@ -1169,26 +1167,24 @@ Den Zucker in das Wasser rühren, aufkochen lassen und wenn der Zucker ganz gel�
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Titanic Bowle</div>
+                            <div class="search-list-item-title">Tomatensauce aus ofengerösteten Tomaten</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="25 Bewertungen - &Oslash; 4.7"></span>
-                    <span class="search-list-item-uservotes-count">(25)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="50 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(50)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Die Dosenfrüchte abtropfen lassen, der Saft kann anderweitig verwendet werden.
-
-Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
-                            </p>
+                                                            Verwertung bei Tomatenschwemme
+                                                </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">07.06.2009</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">26.07.2014</span>
             </div>
         </div>
     </a>
@@ -1199,8 +1195,8 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                 
     
         
-        <li class="search-list-item" id="recipe-1303271235391801">
-    <a href="/rezepte/1303271235391801/Engelchenlikoer.html" title="schmeckt wie flüssiges Marzipan">
+        <li class="search-list-item" id="recipe-1540431260282175">
+    <a href="/rezepte/1540431260282175/Joghurt-Bombe.html" title="Extrem einfach, macht was her und ist super vorzubereiten">
 
         <div class="search-list-item-image">
             
@@ -1208,9 +1204,9 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/130327/engelchenlikoer-854641-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/154043/joghurt-bombe-652972-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/130327/engelchenlikoer-854641-150x150.jpg" alt="Engelchenlikör" title="Engelchenlikör" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/154043/joghurt-bombe-652972-150x150.jpg" alt="Joghurt - Bombe" title="Joghurt - Bombe" />
 
                     
                 </picture>
@@ -1218,11 +1214,11 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Engelchenlikör</div>
+                            <div class="search-list-item-title">Joghurt - Bombe</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="343 Bewertungen - &Oslash; 4.69"></span>
-                    <span class="search-list-item-uservotes-count">(343)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="677 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(677)</span>
                 </span>
 
                                     <span class="search-list-item-video"></span>
@@ -1230,13 +1226,13 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            schmeckt wie flüssiges Marzipan
+                                                            Extrem einfach, macht was her und ist super vorzubereiten
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">23.02.2009</span>
+                <span class="search-list-item-activationdate">08.12.2009</span>
             </div>
         </div>
     </a>
@@ -1247,8 +1243,8 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                 
     
         
-        <li class="search-list-item" id="recipe-51231018085747">
-    <a href="/rezepte/51231018085747/Caipirinha-Bowle.html">
+        <li class="search-list-item" id="recipe-1476331252838756">
+    <a href="/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html" title="superlocker und saftig">
 
         <div class="search-list-item-image">
             
@@ -1256,9 +1252,9 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/5123/caipirinha-bowle-809774-164x140.jpg" media="(min-width: 600px)" />
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/5123/caipirinha-bowle-809774-150x150.jpg" alt="Caipirinha-Bowle" title="Caipirinha-Bowle" />
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/147633/zwetschgendatschi-mit-butterstreuseln-948537-150x150.jpg" alt="Zwetschgendatschi mit Butterstreuseln" title="Zwetschgendatschi mit Butterstreuseln" />
 
                     
                 </picture>
@@ -1266,11 +1262,58 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Caipirinha-Bowle</div>
+                            <div class="search-list-item-title">Zwetschgendatschi mit Butterstreuseln</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="843 Bewertungen - &Oslash; 4.68"></span>
-                    <span class="search-list-item-uservotes-count">(843)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="327 Bewertungen - &Oslash; 4.81"></span>
+                    <span class="search-list-item-uservotes-count">(327)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            superlocker und saftig
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">13.09.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item" id="recipe-2133281343053838">
+    <a href="/rezepte/2133281343053838/Rinderrouladen-klassisch.html" title="mit einer Füllung aus Zwiebeln, Gurken, Senf und Speck in einer köstlichen Rotweinsoße mit Röstgemüse">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/213328/rinderrouladen-klassisch-872326-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/213328/rinderrouladen-klassisch-872326-150x150.jpg" alt="Rinderrouladen klassisch" title="Rinderrouladen klassisch" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Rinderrouladen klassisch</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="601 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(601)</span>
                 </span>
 
                                     <span class="search-list-item-video"></span>
@@ -1278,107 +1321,64 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Von 3 Limetten die Schale abreiben. 100 ml Saft aus 5 - 6 Limetten auspressen. 300 ml Mineralwasser mit dem Limettensaft und der S...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">08.05.2002</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item" id="recipe-269951103727949">
-    <a href="/rezepte/269951103727949/Erfrischender-Holunderbluetenlikoer.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/26995/erfrischender-holunderbluetenlikoer-588368-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/26995/erfrischender-holunderbluetenlikoer-588368-150x150.jpg" alt="Erfrischender Holunderblütenlikör" title="Erfrischender Holunderblütenlikör" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Erfrischender Holunderblütenlikör</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="215 Bewertungen - &Oslash; 4.68"></span>
-                    <span class="search-list-item-uservotes-count">(215)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Die Holunderblüten am besten nach einer Schönwetterperiode mittags pflücken. Dann ist das Aroma am stärksten. Kurz ausschütteln um...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">22.12.2004</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item" id="recipe-1352881240037873">
-    <a href="/rezepte/1352881240037873/Ipanema.html" title="alkoholfreier Cocktail - erfrischend und super an heißen Sommerabenden">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/135288/ipanema-710745-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/135288/ipanema-710745-150x150.jpg" alt="Ipanema" title="Ipanema" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Ipanema</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="73 Bewertungen - &Oslash; 4.68"></span>
-                    <span class="search-list-item-uservotes-count">(73)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            alkoholfreier Cocktail - erfrischend und super an heißen Sommerabenden
+                                                            mit einer Füllung aus Zwiebeln, Gurken, Senf und Speck in einer köstlichen Rotweinsoße mit Röstgemüse
                                                 </p>
 
             <div>
+                <span class="search-list-item-difficulty">pfiffig</span>
+                <span class="search-list-item-preptime">60 min.</span>
+                <span class="search-list-item-activationdate">24.07.2012</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item" id="recipe-1259191231344473">
+    <a href="/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="http://static.chefkoch-cdn.de/rs/bilder/125919/gebrannte-mandeln-mit-wenig-zucker-813555-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="http://static.chefkoch-cdn.de/rs/bilder/125919/gebrannte-mandeln-mit-wenig-zucker-813555-150x150.jpg" alt="Gebrannte Mandeln mit wenig Zucker" title="Gebrannte Mandeln mit wenig Zucker" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Gebrannte Mandeln mit wenig Zucker</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="242 Bewertungen - &Oslash; 4.8"></span>
+                    <span class="search-list-item-uservotes-count">(242)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Eine beschichtete Pfanne heiß werden lassen.
+
+Das Wasser zusammen mit Zucker, Vanillezucker und Zimt aufkochen lassen.
+
+Die Mandel...
+                            </p>
+
+            <div>
                 <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">5 min.</span>
-                <span class="search-list-item-activationdate">18.04.2009</span>
+                <span class="search-list-item-preptime">15 min.</span>
+                <span class="search-list-item-activationdate">08.01.2009</span>
             </div>
         </div>
     </a>
@@ -1404,8 +1404,8 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
         
     
         
-        <li class="search-list-item initially-hidden" id="recipe-731571175843661">
-    <a href="/rezepte/731571175843661/Pflaumenlikoer.html">
+        <li class="search-list-item initially-hidden" id="recipe-1560741263481424">
+    <a href="/rezepte/1560741263481424/Lebkuchen-Kerze.html" title="ein süßes Weihnachtsmitbringsel">
 
         <div class="search-list-item-image">
             
@@ -1413,9 +1413,9 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/73157/pflaumenlikoer-212601-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/156074/lebkuchen-kerze-855075-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/73157/pflaumenlikoer-212601-150x150.jpg" alt="Pflaumenlikör" title="Pflaumenlikör" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/156074/lebkuchen-kerze-855075-150x150.jpg" alt="Lebkuchen - Kerze" title="Lebkuchen - Kerze" class="lazyload" />
 
                     
                 </picture>
@@ -1423,73 +1423,24 @@ Alle Zutaten in ein Gefäß geben, das 10 Liter fass...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Pflaumenlikör</div>
+                            <div class="search-list-item-title">Lebkuchen - Kerze</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="40 Bewertungen - &Oslash; 4.67"></span>
-                    <span class="search-list-item-uservotes-count">(40)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="56 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(56)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Pflaumen (entsteint) im Entsafter 2 Stunden kochen und anschließend durch ein Tuch seihen um die Trübstoffe zu entfernen. 
-
-Den Sa...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">normal</span>
-                <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">06.04.2007</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-1048481209735028">
-    <a href="/rezepte/1048481209735028/Erdbeerlikoer.html" title="diesmal heiß angesetzt">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/104848/erdbeerlik-r-921153-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/104848/erdbeerlik-r-921153-150x150.jpg" alt="Erdbeerlikör" title="Erdbeerlikör" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Erdbeerlikör</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="33 Bewertungen - &Oslash; 4.66"></span>
-                    <span class="search-list-item-uservotes-count">(33)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            diesmal heiß angesetzt
+                                                            ein süßes Weihnachtsmitbringsel
                                                 </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">03.05.2008</span>
+                <span class="search-list-item-preptime">10 min.</span>
+                <span class="search-list-item-activationdate">15.01.2010</span>
             </div>
         </div>
     </a>
@@ -1500,8 +1451,8 @@ Den Sa...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-192111081587419">
-    <a href="/rezepte/192111081587419/Brombeerlikoer-gekocht.html">
+        <li class="search-list-item initially-hidden" id="recipe-1152361221481605">
+    <a href="/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html" title="ohne Eis">
 
         <div class="search-list-item-image">
             
@@ -1509,9 +1460,9 @@ Den Sa...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/19211/brombeerlikoer-gekocht-278363-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/19211/brombeerlikoer-gekocht-278363-150x150.jpg" alt="Brombeerlikör gekocht" title="Brombeerlikör gekocht" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/115236/spaghetti-eis-dessert-827948-150x150.jpg" alt="Spaghetti-Eis Dessert" title="Spaghetti-Eis Dessert" class="lazyload" />
 
                     
                 </picture>
@@ -1519,24 +1470,25 @@ Den Sa...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Brombeerlikör gekocht</div>
+                            <div class="search-list-item-title">Spaghetti-Eis Dessert</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="150 Bewertungen - &Oslash; 4.66"></span>
-                    <span class="search-list-item-uservotes-count">(150)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="372 Bewertungen - &Oslash; 4.79"></span>
+                    <span class="search-list-item-uservotes-count">(372)</span>
                 </span>
 
+                                    <span class="search-list-item-video"></span>
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Brombeeren, Rotwein, Zucker, Vanillestange und Zimtstange in einen großen Topf geben und ca. 30 min. köcheln lassen. Wenn die Flüs...
-                            </p>
+                                                            ohne Eis
+                                                </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
                 <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">10.04.2004</span>
+                <span class="search-list-item-activationdate">15.09.2008</span>
             </div>
         </div>
     </a>
@@ -1547,8 +1499,8 @@ Den Sa...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-510361146660274">
-    <a href="/rezepte/510361146660274/Himbeer-Limes.html">
+        <li class="search-list-item initially-hidden" id="recipe-680461170504963">
+    <a href="/rezepte/680461170504963/Keks-Kuchen-vom-Blech.html">
 
         <div class="search-list-item-image">
             
@@ -1556,9 +1508,9 @@ Den Sa...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/51036/himbeer-limes-809198-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/68046/keks-kuchen-vom-blech-897610-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/51036/himbeer-limes-809198-150x150.jpg" alt="Himbeer - Limes" title="Himbeer - Limes" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/68046/keks-kuchen-vom-blech-897610-150x150.jpg" alt="Keks-Kuchen vom Blech" title="Keks-Kuchen vom Blech" class="lazyload" />
 
                     
                 </picture>
@@ -1566,24 +1518,25 @@ Den Sa...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Himbeer - Limes</div>
+                            <div class="search-list-item-title">Keks-Kuchen vom Blech</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="83 Bewertungen - &Oslash; 4.66"></span>
-                    <span class="search-list-item-uservotes-count">(83)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="333 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(333)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Zucker und Wasser kochen, bis die Flüssigkeit klar ist. Die durch ein Sieb passierten Himbeeren mit Wodka, Himbeergeist, Zitronens...
+                                    Für den Boden:
+Zucker, Margarine, Mehl, Eier und 1 TL Backpulver nacheinander verrühren, auf ein Backblech streichen und im vorgeh...
                             </p>
 
             <div>
                 <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">30 min.</span>
-                <span class="search-list-item-activationdate">04.05.2006</span>
+                <span class="search-list-item-activationdate">04.02.2007</span>
             </div>
         </div>
     </a>
@@ -1594,8 +1547,8 @@ Den Sa...
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1857691301034784">
-    <a href="/rezepte/1857691301034784/Bratapfellikoer.html" title="erwärmt und mit Sahnehaube ein besonderer Genuß">
+        <li class="search-list-item initially-hidden" id="recipe-1214861227169722">
+    <a href="/rezepte/1214861227169722/Elisen-Lebkuchen.html" title="Ein Familienrezept, das von Generation zu Generation weiter gegeben wurde">
 
         <div class="search-list-item-image">
             
@@ -1603,9 +1556,9 @@ Den Sa...
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/185769/bratapfellikoer-857798-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/121486/elisen-lebkuchen-135859-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/185769/bratapfellikoer-857798-150x150.jpg" alt="Bratapfellikör" title="Bratapfellikör" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/121486/elisen-lebkuchen-135859-150x150.jpg" alt="Elisen - Lebkuchen" title="Elisen - Lebkuchen" class="lazyload" />
 
                     
                 </picture>
@@ -1613,153 +1566,10 @@ Den Sa...
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Bratapfellikör</div>
+                            <div class="search-list-item-title">Elisen - Lebkuchen</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="15 Bewertungen - &Oslash; 4.65"></span>
-                    <span class="search-list-item-uservotes-count">(15)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            erwärmt und mit Sahnehaube ein besonderer Genuß
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">5 min.</span>
-                <span class="search-list-item-activationdate">25.03.2011</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-1341731239030939">
-    <a href="/rezepte/1341731239030939/Erdbeer-Limes.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/134173/erdbeer-limes-444048-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/134173/erdbeer-limes-444048-150x150.jpg" alt="Erdbeer - Limes" title="Erdbeer - Limes" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Erdbeer - Limes</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="79 Bewertungen - &Oslash; 4.65"></span>
-                    <span class="search-list-item-uservotes-count">(79)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Die Erdbeeren putzen und zusammen mit dem Zucker und Wasser kochen, bis sie weich sind. Dann pürieren und abkühlen lassen. 
-
-Die Z...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">08.04.2009</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-379121124223711">
-    <a href="/rezepte/379121124223711/Paradies-Bowle.html" title="Ein Sommergetränk für Freunde von Obst">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/37912/paradies-bowle-183059-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/37912/paradies-bowle-183059-150x150.jpg" alt="Paradies - Bowle" title="Paradies - Bowle" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Paradies - Bowle</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="24 Bewertungen - &Oslash; 4.65"></span>
-                    <span class="search-list-item-uservotes-count">(24)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            Ein Sommergetränk für Freunde von Obst
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">17.08.2005</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-60131021906007">
-    <a href="/rezepte/60131021906007/Bailey-s.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/6013/bailey-s-139501-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/6013/bailey-s-139501-150x150.jpg" alt="Bailey´s" title="Bailey´s" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Bailey´s</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="98 Bewertungen - &Oslash; 4.64"></span>
+                    <span class="search-list-item-uservotes-stars star-5" title="98 Bewertungen - &Oslash; 4.78"></span>
                     <span class="search-list-item-uservotes-count">(98)</span>
                 </span>
 
@@ -1767,15 +1577,13 @@ Die Z...
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Alle Zutaten zusammen vermixen und fertig !
-Kommt immer gut an, auch als Geschenk! 
-
-                            </p>
+                                                            Ein Familienrezept, das von Generation zu Generation weiter gegeben wurde
+                                                </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">21.05.2002</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">90 min.</span>
+                <span class="search-list-item-activationdate">20.11.2008</span>
             </div>
         </div>
     </a>
@@ -1786,8 +1594,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-537901150889686">
-    <a href="/rezepte/537901150889686/Crema-di-Limoncello.html" title="nach Original sardischem Nonna-Rezept">
+        <li class="search-list-item initially-hidden" id="recipe-2648731416211587">
+    <a href="/rezepte/2648731416211587/Pesto-Blume.html" title="Eine super Idee, die schnell gemacht ist, super aussieht und alle Blicke auf sich zieht">
 
         <div class="search-list-item-image">
             
@@ -1795,9 +1603,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/53790/crema-di-limoncello-599647-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/264873/pesto-blume-830736-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/53790/crema-di-limoncello-599647-150x150.jpg" alt="Crema di Limoncello" title="Crema di Limoncello" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/264873/pesto-blume-830736-150x150.jpg" alt="Pesto-Blume" title="Pesto-Blume" class="lazyload" />
 
                     
                 </picture>
@@ -1805,24 +1613,24 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Crema di Limoncello</div>
+                            <div class="search-list-item-title">Pesto-Blume</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="65 Bewertungen - &Oslash; 4.64"></span>
-                    <span class="search-list-item-uservotes-count">(65)</span>
+                    <span class="search-list-item-uservotes-stars star-5" title="56 Bewertungen - &Oslash; 4.78"></span>
+                    <span class="search-list-item-uservotes-count">(56)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            nach Original sardischem Nonna-Rezept
+                                                            Eine super Idee, die schnell gemacht ist, super aussieht und alle Blicke auf sich zieht
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">pfiffig</span>
-                <span class="search-list-item-preptime">40 min.</span>
-                <span class="search-list-item-activationdate">21.06.2006</span>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">13.01.2015</span>
             </div>
         </div>
     </a>
@@ -1833,8 +1641,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-747401177258939">
-    <a href="/rezepte/747401177258939/Limoncello.html" title=" Zitronenlikör. Rezept aus Ischia">
+        <li class="search-list-item initially-hidden" id="recipe-1554051262698743">
+    <a href="/rezepte/1554051262698743/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html">
 
         <div class="search-list-item-image">
             
@@ -1842,9 +1650,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/74740/limoncello-919318-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/155405/kuerbis-tomaten-chutney-von-rosinenkind-509575-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/74740/limoncello-919318-150x150.jpg" alt="Limoncello" title="Limoncello" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/155405/kuerbis-tomaten-chutney-von-rosinenkind-509575-150x150.jpg" alt="Kürbis - Tomaten - Chutney von Rosinenkind" title="Kürbis - Tomaten - Chutney von Rosinenkind" class="lazyload" />
 
                     
                 </picture>
@@ -1852,10 +1660,10 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Limoncello</div>
+                            <div class="search-list-item-title">Kürbis - Tomaten - Chutney von Rosinenkind</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="48 Bewertungen - &Oslash; 4.64"></span>
+                    <span class="search-list-item-uservotes-stars star-5" title="48 Bewertungen - &Oslash; 4.78"></span>
                     <span class="search-list-item-uservotes-count">(48)</span>
                 </span>
 
@@ -1863,13 +1671,346 @@ Kommt immer gut an, auch als Geschenk!
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                             Zitronenlikör. Rezept aus Ischia
+                                    Alle Zutaten in einen Topf geben, aufkochen lassen und auf kleiner Flamme weich und dicklich köcheln lassen, ggf. mit dem Zauberst...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">pfiffig</span>
+                <span class="search-list-item-preptime">20 min.</span>
+                <span class="search-list-item-activationdate">05.01.2010</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-923511197717113">
+    <a href="/rezepte/923511197717113/Hirschgulasch.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/92351/hirschgulasch-621073-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/92351/hirschgulasch-621073-150x150.jpg" alt="Hirschgulasch" title="Hirschgulasch" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Hirschgulasch</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="239 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(239)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Die getrockneten Steinpilze 1 Stunde in kaltem Wasser einweichen. Dann auspressen und in kleine Stücke schneiden.
+
+Das Gulasch abt...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">40 min.</span>
+                <span class="search-list-item-activationdate">15.12.2007</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-2120381341499440">
+    <a href="/rezepte/2120381341499440/Melonen-Hai.html" title="erfrischend und kreativ für den Sommer, Kindergeburtstag, Geburtstag, Büfett">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/212038/melonen-hai-916895-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/212038/melonen-hai-916895-150x150.jpg" alt="Melonen-Hai" title="Melonen-Hai" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Melonen-Hai</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="114 Bewertungen - &Oslash; 4.77"></span>
+                    <span class="search-list-item-uservotes-count">(114)</span>
+                </span>
+
+                                    <span class="search-list-item-video"></span>
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            erfrischend und kreativ für den Sommer, Kindergeburtstag, Geburtstag, Büfett
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">10 min.</span>
+                <span class="search-list-item-activationdate">05.07.2012</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1439851248792853">
+    <a href="/rezepte/1439851248792853/Rhabarberkuchen-von-Omma.html" title="leckerer Blechkuchen">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/143985/rhabarberkuchen-von-omma-804380-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/143985/rhabarberkuchen-von-omma-804380-150x150.jpg" alt="Rhabarberkuchen von Omma" title="Rhabarberkuchen von Omma" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Rhabarberkuchen von Omma</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="108 Bewertungen - &Oslash; 4.75"></span>
+                    <span class="search-list-item-uservotes-count">(108)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            leckerer Blechkuchen
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">28.07.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1718301280513854">
+    <a href="/rezepte/1718301280513854/Erdbeer-Streuselkuchen.html" title="schneller, knuspriger Blechkuchen, auch zum Einfrieren geeignet">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/171830/erdbeer-streuselkuchen-943728-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/171830/erdbeer-streuselkuchen-943728-150x150.jpg" alt="Erdbeer - Streuselkuchen" title="Erdbeer - Streuselkuchen" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Erdbeer - Streuselkuchen</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-5" title="57 Bewertungen - &Oslash; 4.75"></span>
+                    <span class="search-list-item-uservotes-count">(57)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            schneller, knuspriger Blechkuchen, auch zum Einfrieren geeignet
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">31.07.2010</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-156931069001353">
+    <a href="/rezepte/156931069001353/Elisenlebkuchen.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/15693/elisenlebkuchen-427275-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/15693/elisenlebkuchen-427275-150x150.jpg" alt="Elisenlebkuchen" title="Elisenlebkuchen" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Elisenlebkuchen</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="105 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(105)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Eier mit dem Zucker sehr schaumig rühren, die Gewürze zugeben, gut vermischen.
+Das Orangeat und Zitronat sehr fein hacken, anschli...
+                            </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">17.11.2003</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1803001291554585">
+    <a href="/rezepte/1803001291554585/Kaltes-Schweinefilet.html" title="kaltes Schweinefilet - leicht gemacht für ein Büfett">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/180300/kaltes-schweinefilet-307689-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/180300/kaltes-schweinefilet-307689-150x150.jpg" alt="Kaltes Schweinefilet" title="Kaltes Schweinefilet" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Kaltes Schweinefilet</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="33 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(33)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            kaltes Schweinefilet - leicht gemacht für ein Büfett
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">10 min.</span>
+                <span class="search-list-item-activationdate">05.12.2010</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1426751247563051">
+    <a href="/rezepte/1426751247563051/Spareribs-NT-im-Bratschlauch.html" title="butterzarte Rippchen bei denen das Fleisch vom Knochen fällt">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/142675/spareribs-nt-im-bratschlauch-542219-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/142675/spareribs-nt-im-bratschlauch-542219-150x150.jpg" alt="Spareribs NT im Bratschlauch" title="Spareribs NT im Bratschlauch" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Spareribs NT im Bratschlauch</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="232 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(232)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            butterzarte Rippchen bei denen das Fleisch vom Knochen fällt
                                                 </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
                 <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">23.04.2007</span>
+                <span class="search-list-item-activationdate">14.07.2009</span>
             </div>
         </div>
     </a>
@@ -1880,8 +2021,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-263221102432593">
-    <a href="/rezepte/263221102432593/Zwetschgenlikoer.html" title="Nur aus Zwetschgenkernen, ein Likör mit Amarettogeschmack">
+        <li class="search-list-item initially-hidden" id="recipe-1417641246603822">
+    <a href="/rezepte/1417641246603822/Spargel-aus-dem-Ofen-ideal-fuer-Gaeste.html" title="anders wird man danach Spargel wohl nicht mehr essen.">
 
         <div class="search-list-item-image">
             
@@ -1889,9 +2030,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/26322/zwetschgenlikoer-855677-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/141764/spargel-aus-dem-ofen-ideal-f-r-g-ste-923982-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/26322/zwetschgenlikoer-855677-150x150.jpg" alt="Zwetschgenlikör" title="Zwetschgenlikör" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/141764/spargel-aus-dem-ofen-ideal-f-r-g-ste-923982-150x150.jpg" alt="Spargel aus dem Ofen - ideal für Gäste" title="Spargel aus dem Ofen - ideal für Gäste" class="lazyload" />
 
                     
                 </picture>
@@ -1899,24 +2040,72 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Zwetschgenlikör</div>
+                            <div class="search-list-item-title">Spargel aus dem Ofen - ideal für Gäste</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="207 Bewertungen - &Oslash; 4.64"></span>
-                    <span class="search-list-item-uservotes-count">(207)</span>
+                    <span class="search-list-item-uservotes-stars star-4_5" title="441 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(441)</span>
+                </span>
+
+                                    <span class="search-list-item-video"></span>
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            anders wird man danach Spargel wohl nicht mehr essen.
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-preptime">20 min.</span>
+                <span class="search-list-item-activationdate">03.07.2009</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-893861194885229">
+    <a href="/rezepte/893861194885229/Walnussherzen.html" title="muß es bei uns jedes Weihnachten geben">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/89386/walnussherzen-861365-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/89386/walnussherzen-861365-150x150.jpg" alt="Walnussherzen" title="Walnussherzen" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Walnussherzen</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="113 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(113)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            Nur aus Zwetschgenkernen, ein Likör mit Amarettogeschmack
+                                                            muß es bei uns jedes Weihnachten geben
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">07.12.2004</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">13.11.2007</span>
             </div>
         </div>
     </a>
@@ -1927,8 +2116,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-1051191210075417">
-    <a href="/rezepte/1051191210075417/Kahlua.html" title="mexikanischer Kaffeelikör">
+        <li class="search-list-item initially-hidden" id="recipe-2380631377366321">
+    <a href="/rezepte/2380631377366321/Zwetschgendatschi.html" title="mit Mürbteigboden">
 
         <div class="search-list-item-image">
             
@@ -1936,9 +2125,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/105119/kahlua-585758-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/238063/zwetschgendatschi-940457-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/105119/kahlua-585758-150x150.jpg" alt="Kahlua" title="Kahlua" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/238063/zwetschgendatschi-940457-150x150.jpg" alt="Zwetschgendatschi" title="Zwetschgendatschi" class="lazyload" />
 
                     
                 </picture>
@@ -1946,24 +2135,24 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Kahlua</div>
+                            <div class="search-list-item-title">Zwetschgendatschi</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="41 Bewertungen - &Oslash; 4.63"></span>
-                    <span class="search-list-item-uservotes-count">(41)</span>
+                    <span class="search-list-item-uservotes-stars star-4_5" title="110 Bewertungen - &Oslash; 4.74"></span>
+                    <span class="search-list-item-uservotes-count">(110)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            mexikanischer Kaffeelikör
+                                                            mit Mürbteigboden
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">06.05.2008</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">31.08.2013</span>
             </div>
         </div>
     </a>
@@ -1974,8 +2163,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-652261166710162">
-    <a href="/rezepte/652261166710162/Holunderbeeren-Sirup.html" title="aus wilden, schwarzen Holunderbeeren, ohne Ascorbin, zum Verdünnen mit Wasser oder Sekt">
+        <li class="search-list-item initially-hidden" id="recipe-1805941292161891">
+    <a href="/rezepte/1805941292161891/Allgaeuer-Apfelbrot.html" title="ergibt 2 Brote - hält sich in Alufolie verpackt lange frisch">
 
         <div class="search-list-item-image">
             
@@ -1983,9 +2172,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/65226/holunderbeeren-sirup-121906-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/180594/allgaeuer-apfelbrot-310109-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/65226/holunderbeeren-sirup-121906-150x150.jpg" alt="Holunderbeeren - Sirup" title="Holunderbeeren - Sirup" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/180594/allgaeuer-apfelbrot-310109-150x150.jpg" alt="Allgäuer Apfelbrot" title="Allgäuer Apfelbrot" class="lazyload" />
 
                     
                 </picture>
@@ -1993,10 +2182,10 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Holunderbeeren - Sirup</div>
+                            <div class="search-list-item-title">Allgäuer Apfelbrot</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="62 Bewertungen - &Oslash; 4.63"></span>
+                    <span class="search-list-item-uservotes-stars star-4_5" title="62 Bewertungen - &Oslash; 4.73"></span>
                     <span class="search-list-item-uservotes-count">(62)</span>
                 </span>
 
@@ -2004,13 +2193,60 @@ Kommt immer gut an, auch als Geschenk!
                             </div>
 
             <p class="search-list-item-subtitle">
-                                                            aus wilden, schwarzen Holunderbeeren, ohne Ascorbin, zum Verdünnen mit Wasser oder Sekt
+                                                            ergibt 2 Brote - hält sich in Alufolie verpackt lange frisch
                                                 </p>
 
             <div>
-                <span class="search-list-item-difficulty">simpel</span>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">30 min.</span>
+                <span class="search-list-item-activationdate">12.12.2010</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1799991290865180">
+    <a href="/rezepte/1799991290865180/Bratapfel-Marmelade.html" title="für 5 Twist-off-Gläser a` 250 ml">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/179999/bratapfel-marmelade-408696-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/179999/bratapfel-marmelade-408696-150x150.jpg" alt="Bratapfel - Marmelade" title="Bratapfel - Marmelade" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Bratapfel - Marmelade</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="38 Bewertungen - &Oslash; 4.73"></span>
+                    <span class="search-list-item-uservotes-count">(38)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                                            für 5 Twist-off-Gläser a` 250 ml
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
                 <span class="search-list-item-preptime">60 min.</span>
-                <span class="search-list-item-activationdate">21.12.2006</span>
+                <span class="search-list-item-activationdate">27.11.2010</span>
             </div>
         </div>
     </a>
@@ -2021,8 +2257,8 @@ Kommt immer gut an, auch als Geschenk!
                 
     
         
-        <li class="search-list-item initially-hidden" id="recipe-797191183360809">
-    <a href="/rezepte/797191183360809/Rhabarber-Vanille-Likoer.html">
+        <li class="search-list-item initially-hidden" id="recipe-2690541421778074">
+    <a href="/rezepte/2690541421778074/Aloha-Quarkmaeusle.html" title="Fettgebackenes, Vorsicht Suchtgefahr!">
 
         <div class="search-list-item-image">
             
@@ -2030,9 +2266,9 @@ Kommt immer gut an, auch als Geschenk!
 
                     
                         <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/79719/rhabarber-vanille-likoer-606812-164x140.jpg" media="(min-width: 600px)" />
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/269054/aloha-quarkmaeusle-860755-164x140.jpg" media="(min-width: 600px)" />
                         <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/79719/rhabarber-vanille-likoer-606812-150x150.jpg" alt="Rhabarber - Vanille - Likör" title="Rhabarber - Vanille - Likör" class="lazyload" />
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/269054/aloha-quarkmaeusle-860755-150x150.jpg" alt="Aloha-Quarkmäusle" title="Aloha-Quarkmäusle" class="lazyload" />
 
                     
                 </picture>
@@ -2040,306 +2276,73 @@ Kommt immer gut an, auch als Geschenk!
                     </div>
 
         <div class="search-list-item-content">
-                            <div class="search-list-item-title">Rhabarber - Vanille - Likör</div>
+                            <div class="search-list-item-title">Aloha-Quarkmäusle</div>
                         <div>
                 <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="182 Bewertungen - &Oslash; 4.63"></span>
-                    <span class="search-list-item-uservotes-count">(182)</span>
+                    <span class="search-list-item-uservotes-stars star-4_5" title="20 Bewertungen - &Oslash; 4.73"></span>
+                    <span class="search-list-item-uservotes-count">(20)</span>
                 </span>
 
                 
                             </div>
 
             <p class="search-list-item-subtitle">
-                                    Den Rhabarber putzen und in ca. 3 cm große Stücke schneiden. Mit dem Kandis, den aufgeschnittenen Vanilleschoten und dem Vanillezu...
+                                                            Fettgebackenes, Vorsicht Suchtgefahr!
+                                                </p>
+
+            <div>
+                <span class="search-list-item-difficulty">normal</span>
+                <span class="search-list-item-preptime">45 min.</span>
+                <span class="search-list-item-activationdate">21.01.2015</span>
+            </div>
+        </div>
+    </a>
+</li>
+
+        
+                
+                
+    
+        
+        <li class="search-list-item initially-hidden" id="recipe-1570331264533000">
+    <a href="/rezepte/1570331264533000/Lebkuchen-lecker-und-schnell.html">
+
+        <div class="search-list-item-image">
+            
+                <picture class="image-placeholder">
+
+                    
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/157033/lebkuchen-lecker-und-schnell-301729-164x140.jpg" media="(min-width: 600px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/157033/lebkuchen-lecker-und-schnell-301729-150x150.jpg" alt="Lebkuchen - lecker und schnell" title="Lebkuchen - lecker und schnell" class="lazyload" />
+
+                    
+                </picture>
+
+                    </div>
+
+        <div class="search-list-item-content">
+                            <div class="search-list-item-title">Lebkuchen - lecker und schnell</div>
+                        <div>
+                <span class="search-list-item-uservotes">
+                    <span class="search-list-item-uservotes-stars star-4_5" title="38 Bewertungen - &Oslash; 4.73"></span>
+                    <span class="search-list-item-uservotes-count">(38)</span>
+                </span>
+
+                
+                            </div>
+
+            <p class="search-list-item-subtitle">
+                                    Alle trockenen Zutaten vermischen, dann Milch, Butter, Honig und Eier zufügen und mit dem Handrührer verrühren. 
+
+Den Teig auf ein...
                             </p>
 
             <div>
                 <span class="search-list-item-difficulty">simpel</span>
                 <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">02.07.2007</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-31971008696340">
-    <a href="/rezepte/31971008696340/Schwedischer-Weihnachtspunsch.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/3197/schwedischer-weihnachtspunsch-143858-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/3197/schwedischer-weihnachtspunsch-143858-150x150.jpg" alt="Schwedischer Weihnachtspunsch" title="Schwedischer Weihnachtspunsch" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Schwedischer Weihnachtspunsch</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="79 Bewertungen - &Oslash; 4.63"></span>
-                    <span class="search-list-item-uservotes-count">(79)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Den Ingwer schälen und in dünne Scheiben schneiden. Die Vanilleschote längs aufschlitzen, das Vanillemark herauskratzen und zusamm...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">15 min.</span>
-                <span class="search-list-item-activationdate">28.01.2002</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-650661166507385">
-    <a href="/rezepte/650661166507385/1a-Maracujalikoer-la-Iris.html" title="blitzschnell fertig">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/65066/1a-maracujalikoer-la-iris-395055-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/65066/1a-maracujalikoer-la-iris-395055-150x150.jpg" alt="1a Maracujalikör à la Iris" title="1a Maracujalikör à la Iris" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">1a Maracujalikör à la Iris</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="255 Bewertungen - &Oslash; 4.62"></span>
-                    <span class="search-list-item-uservotes-count">(255)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            blitzschnell fertig
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">5 min.</span>
-                <span class="search-list-item-activationdate">19.12.2006</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-332841116327186">
-    <a href="/rezepte/332841116327186/Raumfahrerbowle.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/33284/raumfahrerbowle-761026-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/33284/raumfahrerbowle-761026-150x150.jpg" alt="Raumfahrerbowle" title="Raumfahrerbowle" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Raumfahrerbowle</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="50 Bewertungen - &Oslash; 4.62"></span>
-                    <span class="search-list-item-uservotes-count">(50)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Die Früchte in die gewünschte Größe schneiden. Anschließend alles zusammenschütten und 1-2 Stunden ziehen lassen. Beim Bols einfac...
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">17.05.2005</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-629891163497995">
-    <a href="/rezepte/629891163497995/Solero-Cocktail.html" title="schmeckt wie Solero - Eis, sehr erfrischend">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/62989/solero-cocktail-492097-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/62989/solero-cocktail-492097-150x150.jpg" alt="Solero - Cocktail" title="Solero - Cocktail" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Solero - Cocktail</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="114 Bewertungen - &Oslash; 4.62"></span>
-                    <span class="search-list-item-uservotes-count">(114)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            schmeckt wie Solero - Eis, sehr erfrischend
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">5 min.</span>
-                <span class="search-list-item-activationdate">14.11.2006</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-344001118650423">
-    <a href="/rezepte/344001118650423/Vanille-Eierlikoer.html" title="Habe den Eierlikör zu Weihnachten verschenkt.  Er war super lecker und viel zu schnell leer.">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/34400/vanille-eierlikoer-858387-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/34400/vanille-eierlikoer-858387-150x150.jpg" alt="Vanille - Eierlikör" title="Vanille - Eierlikör" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Vanille - Eierlikör</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="134 Bewertungen - &Oslash; 4.62"></span>
-                    <span class="search-list-item-uservotes-count">(134)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                                            Habe den Eierlikör zu Weihnachten verschenkt.  Er war super lecker und viel zu schnell leer.
-                                                </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">20 min.</span>
-                <span class="search-list-item-activationdate">13.06.2005</span>
-            </div>
-        </div>
-    </a>
-</li>
-
-        
-                
-                
-    
-        
-        <li class="search-list-item initially-hidden" id="recipe-676111169972123">
-    <a href="/rezepte/676111169972123/Himbeerbowle.html">
-
-        <div class="search-list-item-image">
-            
-                <picture class="image-placeholder">
-
-                    
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source data-srcset="http://static.chefkoch-cdn.de/rs/bilder/67611/himbeerbowle-860830-164x140.jpg" media="(min-width: 600px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-srcset="http://static.chefkoch-cdn.de/rs/bilder/67611/himbeerbowle-860830-150x150.jpg" alt="Himbeerbowle" title="Himbeerbowle" class="lazyload" />
-
-                    
-                </picture>
-
-                    </div>
-
-        <div class="search-list-item-content">
-                            <div class="search-list-item-title">Himbeerbowle</div>
-                        <div>
-                <span class="search-list-item-uservotes">
-                    <span class="search-list-item-uservotes-stars star-4_5" title="21 Bewertungen - &Oslash; 4.61"></span>
-                    <span class="search-list-item-uservotes-count">(21)</span>
-                </span>
-
-                
-                            </div>
-
-            <p class="search-list-item-subtitle">
-                                    Zunächst das Weißbier in eine große Schale schütten (Vorsicht, es schäumt!) Dann den Himbeersirup beigeben, anschließend den Sekt....
-                            </p>
-
-            <div>
-                <span class="search-list-item-difficulty">simpel</span>
-                <span class="search-list-item-preptime">10 min.</span>
-                <span class="search-list-item-activationdate">28.01.2007</span>
+                <span class="search-list-item-activationdate">27.01.2010</span>
             </div>
         </div>
     </a>
@@ -2383,12 +2386,12 @@ Kommt immer gut an, auch als Geschenk!
         
     
                 
-                        <a href="/rs/s30g102/Getraenke.html"
+                        <a href="/rs/s30g53/saisonale-Rezepte.html"
                class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-2">2</a>
         
     
                 
-                        <a href="/rs/s60g102/Getraenke.html"
+                        <a href="/rs/s60g53/saisonale-Rezepte.html"
                class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-3">3</a>
         
     
@@ -2400,11 +2403,11 @@ Kommt immer gut an, auch als Geschenk!
     </span>
 
         
-        <a href="/rs/s12750g102/Getraenke.html"
+        <a href="/rs/s78270g53/saisonale-Rezepte.html"
            class="ck-pagination__link ck-pagination__link--inverted ck-pagination--desktop-only qa-pagination-pagelink-last"
-           rel="nofollow">426</a>
+           rel="nofollow">2610</a>
     
-                <a href="/rs/s30g102/Getraenke.html"
+                <a href="/rs/s30g53/saisonale-Rezepte.html"
            class="ck-pagination__link ck-pagination__link-prevnext ck-pagination__link-prevnext--next qa-pagination-next">weiter</a>
     
 </div>									</div>
@@ -2438,9 +2441,9 @@ Kommt immer gut an, auch als Geschenk!
 
     <div class="sidebar-box-diet">
         <div class="sidebar-box-subline">Ernährungsformen</div>
-                    <a href="/rs/s0g102t32/Vegetarisch-Getraenke.html" class="diettag" id="test-diettag-vegetarian" >vegetarisch</a>
+                    <a href="/rs/s0g53t32/Vegetarisch-saisonale-Rezepte.html" class="diettag" id="test-diettag-vegetarian" >vegetarisch</a>
         
-                    <a href="/rs/s0g102t32,57/Vegetarisch-Vegan-Getraenke.html" class="diettag " id="test-diettag-vegan" >vegan</a>
+                    <a href="/rs/s0g53t32,57/Vegetarisch-Vegan-saisonale-Rezepte.html" class="diettag " id="test-diettag-vegan" >vegan</a>
             </div>
 
 
@@ -2452,252 +2455,350 @@ Kommt immer gut an, auch als Geschenk!
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t126/alkoholfrei-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            alkoholfrei
+                        <a href="/rs/s0g53t30/Auflauf-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Auflauf
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t14/Asien-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Asien
+                        <a href="/rs/s0g53t51/Aufstrich-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Aufstrich
+                        </a>
+                    </li>
+                                    <li>
+                        
+                                                                            
+                        <a href="/rs/s0g53t23/Backen-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
+                            Backen
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t79/Basisrezepte-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Basisrezepte
+                        <a href="/rs/s0g53t36/Beilage-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Beilage
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t121/Bowle-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Bowle
+                        <a href="/rs/s0g53t69/Braten-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Braten
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t10/Cocktail-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Cocktail
-                        </a>
-                    </li>
-                                    <li>
-                        
-                        
-                        <a href="/rs/s0g102t90/Dessert-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t90/Dessert-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Dessert
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t65/Deutschland-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t65/Deutschland-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Deutschland
                         </a>
                     </li>
                                     <li>
                         
+                        
+                        <a href="/rs/s0g53t107/Duensten-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Dünsten
+                        </a>
+                    </li>
+                                    <li>
+                        
                                                                             
-                        <a href="/rs/s0g102t50/einfach-Getraenke.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g53t50/einfach-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
                             einfach
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t6082/Ernaehrungskonzepte-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Ernährungskonzepte
+                        <a href="/rs/s0g53t81/Eintopf-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Eintopf
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t29/Europa-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t29/Europa-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Europa
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t106/Festlich-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t106/Festlich-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Festlich
                         </a>
                     </li>
                                     <li>
                         
-                        
-                        <a href="/rs/s0g102t56/fettarm-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            fettarm
-                        </a>
-                    </li>
-                                    <li>
-                        
                                                                             
-                        <a href="/rs/s0g102t109/Frucht-Getraenke.html" title=" Rezept" class="rztag-medium" >
+                        <a href="/rs/s0g53t109/Frucht-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
                             Frucht
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t78/Fruehling-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Frühling
+                        <a href="/rs/s0g53t77/Fruechte-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Früchte
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t53/Fruehstueck-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t53/Fruehstueck-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Frühstück
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t144/gekocht-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            gekocht
+                        <a href="/rs/s0g53t47/gebunden-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            gebunden
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t18/Gemuese-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Gemüse
+                        <a href="/rs/s0g53t58/Gefluegel-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Geflügel
                         </a>
                     </li>
                                     <li>
                         
                                                                             
-                        <a href="/rs/s0g102t11/Getraenk-Getraenke.html" title=" Rezept" class="rztag-large" >
-                            Getränk
+                        <a href="/rs/s0g53t144/gekocht-saisonale-Rezepte.html" title=" Rezept" class="rztag-medium" >
+                            gekocht
+                        </a>
+                    </li>
+                                    <li>
+                        
+                                                                            
+                        <a href="/rs/s0g53t18/Gemuese-saisonale-Rezepte.html" title=" Rezept" class="rztag-large" >
+                            Gemüse
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t150/Haltbarmachen-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t1609/Getreide-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Getreide
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t39/Halloween-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Halloween
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t150/Haltbarmachen-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Haltbarmachen
                         </a>
                     </li>
                                     <li>
                         
+                                                                            
+                        <a href="/rs/s0g53t21/Hauptspeise-saisonale-Rezepte.html" title=" Rezept" class="rztag-medium" >
+                            Hauptspeise
+                        </a>
+                    </li>
+                                    <li>
                         
-                        <a href="/rs/s0g102t99/Herbst-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                                                                            
+                        <a href="/rs/s0g53t99/Herbst-saisonale-Rezepte.html" title=" Rezept" class="rztag-large" >
                             Herbst
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t156/Kaffee-Tee-oder-Kakao-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Kaffee Tee oder Kakao
+                        <a href="/rs/s0g53t165/Huelsenfruechte-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Hülsenfrüchte
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t55/kalorienarm-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            kalorienarm
+                        <a href="/rs/s0g53t20/kalt-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            kalt
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t91/Kinder-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Kinder
+                        <a href="/rs/s0g53t138/Kartoffeln-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Kartoffeln
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t151/Likoer-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Likör
+                        <a href="/rs/s0g53t83/Kaese-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Käse
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t12/Longdrink-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Longdrink
+                        <a href="/rs/s0g53t147/Kekse-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Kekse
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t45/Party-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t92/Kuchen-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Kuchen
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t24/Nudeln-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Nudeln
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t45/Party-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Party
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t142/Punsch-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Punsch
+                        <a href="/rs/s0g53t31/Pasta-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Pasta
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t110/Resteverwertung-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t140/Pilze-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Pilze
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t37/Reis-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Reis
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t110/Resteverwertung-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Resteverwertung
                         </a>
                     </li>
                                     <li>
                         
+                        
+                        <a href="/rs/s0g53t22/Rind-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Rind
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t15/Salat-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Salat
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t34/Saucen-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Saucen
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t66/Schmoren-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Schmoren
+                        </a>
+                    </li>
+                                    <li>
+                        
                                                                             
-                        <a href="/rs/s0g102t49/Schnell-Getraenke.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g53t49/Schnell-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
                             Schnell
                         </a>
                     </li>
                                     <li>
                         
-                                                                            
-                        <a href="/rs/s0g102t113/Shake-Getraenke.html" title=" Rezept" class="rztag-medium" >
-                            Shake
+                        
+                        <a href="/rs/s0g53t59/Schwein-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Schwein
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t71/Snack-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t71/Snack-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Snack
                         </a>
                     </li>
                                     <li>
                         
                                                                             
-                        <a href="/rs/s0g102t27/Sommer-Getraenke.html" title=" Rezept" class="rztag-small" >
+                        <a href="/rs/s0g53t27/Sommer-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
                             Sommer
                         </a>
                     </li>
                                     <li>
                         
-                        
-                        <a href="/rs/s0g102t211/Studentenkueche-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            Studentenküche
+                                                                            
+                        <a href="/rs/s0g53t40/Suppe-saisonale-Rezepte.html" title=" Rezept" class="rztag-small" >
+                            Suppe
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t38/USA-oder-Kanada-Getraenke.html" title=" Rezept" class="rztag-x-small" >
-                            USA oder Kanada
+                        <a href="/rs/s0g53t122/Tarte-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Tarte
                         </a>
                     </li>
                                     <li>
                         
                         
-                        <a href="/rs/s0g102t102/Weihnachten-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                        <a href="/rs/s0g53t19/Vorspeise-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            Vorspeise
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t42/warm-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
+                            warm
+                        </a>
+                    </li>
+                                    <li>
+                        
+                        
+                        <a href="/rs/s0g53t102/Weihnachten-saisonale-Rezepte.html" title=" Rezept" class="rztag-x-small" >
                             Weihnachten
                         </a>
                     </li>
                                     <li>
                         
-                        
-                        <a href="/rs/s0g102t64/Winter-Getraenke.html" title=" Rezept" class="rztag-x-small" >
+                                                                            
+                        <a href="/rs/s0g53t64/Winter-saisonale-Rezepte.html" title=" Rezept" class="rztag-medium" >
                             Winter
                         </a>
                     </li>
@@ -2727,85 +2828,66 @@ Kommt immer gut an, auch als Geschenk!
 				<div class="sidebar-box-headline">Ähnliche Artikel</div>
 
 			<ul class="teaser-list">
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
-						<a href="/magazin/artikel/5837,0/Delinat/Transparenz-beim-Wein.html" name="{'ct':'mag_artikel','ck':{'3':'5837','1':'rezeptsuche-art','2':'119','4':'523','5':'80985'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35843.jpg" title="Erstmals volle Transparenz: Hier erfahren Sie, was wirklich im Wein steckt." width="56" height="56" alt="" />
+						<a href="/magazin/artikel/3836,0/AEG/Zwiebel-Zauber-deftig-Kuchen-Suppe-Spaetzle.html" name="{'ct':'mag_artikel','ck':{'3':'3836','1':'rezeptsuche-art','2':'14','4':'186','5':'53450'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/21983.png" title="Zwiebelkuchen, Zwiebelsuppe Sous Vide gegart und K&auml;sesp&auml;tzle mit geschmelzten Zwiebeln." width="56" height="56" alt="" />
 						</a>
 					</div>
 					<div class="teaser-text">
-						<a href="/magazin/artikel/5837,0/Delinat/Transparenz-beim-Wein.html" name="{'ct':'mag_artikel','ck':{'3':'5837','1':'rezeptsuche-art','2':'119','4':'523','5':'80985'}}">
-							In vino veritas, endlich!						</a>
-						<div>Erstmals volle Transparenz: Hier erfahren Sie, was wirklich im Wein steckt.</div>
+						<a href="/magazin/artikel/3836,0/AEG/Zwiebel-Zauber-deftig-Kuchen-Suppe-Spaetzle.html" name="{'ct':'mag_artikel','ck':{'3':'3836','1':'rezeptsuche-art','2':'14','4':'186','5':'53450'}}">
+							Zwiebel-Zauber deftig: Kuchen, Suppe, Sp&auml;tzle						</a>
+						<div>Zwiebelkuchen, Zwiebelsuppe Sous Vide gegart und K&auml;sesp&auml;tzle mit geschmelzten Zwiebeln.</div>
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+							
+            <div class="gujAd teaser" id="spteaser_1">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_1');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
 					<div class="teaser-picture">
-						<a href="/magazin/artikel/5836,0/Delinat/Der-Wert-eines-Weines.html" name="{'ct':'mag_artikel','ck':{'3':'5836','1':'rezeptsuche-art','2':'119','4':'523','5':'80982'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35844.jpg" title="Viele Faktoren beeinflussen den Weinpreis. Wo liegen Unter- und Obergrenze?" width="56" height="56" alt="" />
+						<a href="/magazin/artikel/5818,0/KUeCHEN-QUELLE/Partysuppen-so-wird-deine-Feier-heiss-und-lecker.html" name="{'ct':'mag_artikel','ck':{'3':'5818','1':'rezeptsuche-art','2':'84','4':'369','5':'80662'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/36096.jpg" title="An die L&ouml;ffel, fertig, los!" width="56" height="56" alt="" />
 						</a>
 					</div>
 					<div class="teaser-text">
-						<a href="/magazin/artikel/5836,0/Delinat/Der-Wert-eines-Weines.html" name="{'ct':'mag_artikel','ck':{'3':'5836','1':'rezeptsuche-art','2':'119','4':'523','5':'80982'}}">
-							Was ist ein gerechter Weinpreis?						</a>
-						<div>Viele Faktoren beeinflussen den Weinpreis. Wo liegen Unter- und Obergrenze?</div>
+						<a href="/magazin/artikel/5818,0/KUeCHEN-QUELLE/Partysuppen-so-wird-deine-Feier-heiss-und-lecker.html" name="{'ct':'mag_artikel','ck':{'3':'5818','1':'rezeptsuche-art','2':'84','4':'369','5':'80662'}}">
+							Partysuppen f&uuml;r gesellige Herbst-Abende						</a>
+						<div>An die L&ouml;ffel, fertig, los!</div>
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
+							
+            <div class="gujAd teaser" id="spteaser_2">
+                <script>
+                    if (typeof GujAd !== "undefined") {
+                        GujAd.cmd.push(function() {
+                            GujAd.push('spteaser_2');
+                        });
+                    }
+                </script>
+            </div>
+        				<li class="clearfix">
 					<div class="teaser-picture">
-						<a href="/magazin/artikel/5761,0/Delinat/Wein-entdecken-und-degustieren.html" name="{'ct':'mag_artikel','ck':{'3':'5761','1':'rezeptsuche-art','2':'119','4':'523','5':'79984'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35450.jpg" title="Lassen Sie sich in die faszinierende Bioweinwelt Europas entf&uuml;hren." width="56" height="56" alt="" />
+						<a href="/magazin/artikel/5731,0/KUeCHEN-QUELLE/Der-Herbst-ist-da-und-damit-die-Zeit-fuer-Kuerbis.html" name="{'ct':'mag_artikel','ck':{'3':'5731','1':'rezeptsuche-art','2':'84','4':'369','5':'79619'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35395.jpg" title="Der K&uuml;rbis ist vielseitig und besitzt besondere Eigenschaften. Hier gibt es Tipps und Rezepte." width="56" height="56" alt="" />
 						</a>
 					</div>
 					<div class="teaser-text">
-						<a href="/magazin/artikel/5761,0/Delinat/Wein-entdecken-und-degustieren.html" name="{'ct':'mag_artikel','ck':{'3':'5761','1':'rezeptsuche-art','2':'119','4':'523','5':'79984'}}">
-							So entdecken Feinschmecker neue Weine						</a>
-						<div>Lassen Sie sich in die faszinierende Bioweinwelt Europas entf&uuml;hren.</div>
+						<a href="/magazin/artikel/5731,0/KUeCHEN-QUELLE/Der-Herbst-ist-da-und-damit-die-Zeit-fuer-Kuerbis.html" name="{'ct':'mag_artikel','ck':{'3':'5731','1':'rezeptsuche-art','2':'84','4':'369','5':'79619'}}">
+							Zeit f&uuml;r K&uuml;rbis						</a>
+						<div>Der K&uuml;rbis ist vielseitig und besitzt besondere Eigenschaften. Hier gibt es Tipps und Rezepte.</div>
 					</div>
 				</li>
 				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/5762,0/Delinat/Bella-Italia.html" name="{'ct':'mag_artikel','ck':{'3':'5762','1':'rezeptsuche-art','2':'119','4':'523','5':'79986'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35459.jpg" title="&hellip; wussten, was schmeckt. Kein anderes Land bietet eine vergleichbare Vielfalt an kulinarischen Tafelfreuden wie Italien." width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/5762,0/Delinat/Bella-Italia.html" name="{'ct':'mag_artikel','ck':{'3':'5762','1':'rezeptsuche-art','2':'119','4':'523','5':'79986'}}">
-							Schon die alten R&ouml;mer &hellip;						</a>
-						<div>&hellip; wussten, was schmeckt. Kein anderes Land bietet eine vergleichbare Vielfalt an kulinarischen Tafelfreuden wie Italien.</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/5767,0/Delinat/Delinat-Weinexperte.html" name="{'ct':'mag_artikel','ck':{'3':'5767','1':'rezeptsuche-art','2':'119','4':'523','5':'80035'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35477.jpg" title="Hier gibt's die pers&ouml;nlichen Weinempfehlungen vom Experten Dirk Wasilewski" width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/5767,0/Delinat/Delinat-Weinexperte.html" name="{'ct':'mag_artikel','ck':{'3':'5767','1':'rezeptsuche-art','2':'119','4':'523','5':'80035'}}">
-							Der Delinat-Weinexperte						</a>
-						<div>Hier gibt's die pers&ouml;nlichen Weinempfehlungen vom Experten Dirk Wasilewski</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
-					<div class="teaser-picture">
-						<a href="/magazin/artikel/5755,0/Delinat/Vinya-Laia-und-Tapas.html" name="{'ct':'mag_artikel','ck':{'3':'5755','1':'rezeptsuche-art','2':'119','4':'523','5':'79907'}}">
-							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35414.jpg" title="Gratis-Flasche Tapas-Wein vom erfolgreichsten Biowinzer Spaniens" width="56" height="56" alt="" />
-						</a>
-					</div>
-					<div class="teaser-text">
-						<a href="/magazin/artikel/5755,0/Delinat/Vinya-Laia-und-Tapas.html" name="{'ct':'mag_artikel','ck':{'3':'5755','1':'rezeptsuche-art','2':'119','4':'523','5':'79907'}}">
-							Spanischer Hochgenuss						</a>
-						<div>Gratis-Flasche Tapas-Wein vom erfolgreichsten Biowinzer Spaniens</div>
-					</div>
-				</li>
-				
-							<li class="clearfix"> 
+											<li class="clearfix">
 					<div class="teaser-picture">
 						<a href="/magazin/artikel/5714,0/KUeCHEN-QUELLE/Frischer-Saft-einfach-selbst-gemacht-Tipps-rund-ums-Entsaften.html" name="{'ct':'mag_artikel','ck':{'3':'5714','1':'rezeptsuche-art','2':'84','4':'369','5':'79397'}}">
 							<img src="http://static.chefkoch-cdn.de/ck.de/cms/35396.jpg" title="Welcher Entsafter ist der Richtige? Welches Obst &amp; Gem&uuml;se eignet sich? Hier gibt`s die Tipps." width="56" height="56" alt="" />
@@ -2815,6 +2897,45 @@ Kommt immer gut an, auch als Geschenk!
 						<a href="/magazin/artikel/5714,0/KUeCHEN-QUELLE/Frischer-Saft-einfach-selbst-gemacht-Tipps-rund-ums-Entsaften.html" name="{'ct':'mag_artikel','ck':{'3':'5714','1':'rezeptsuche-art','2':'84','4':'369','5':'79397'}}">
 							Frischer Saft selbst gemacht						</a>
 						<div>Welcher Entsafter ist der Richtige? Welches Obst &amp; Gem&uuml;se eignet sich? Hier gibt`s die Tipps.</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/5572,0/KUeCHEN-QUELLE/Leichte-Sommergerichte-so-lassen-sich-die-warmen-Tage-am-besten-geniessen.html" name="{'ct':'mag_artikel','ck':{'3':'5572','1':'rezeptsuche-art','2':'84','4':'369','5':'77508'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/34190.jpg" title="Erfrischend, leicht und lecker durch den Sommer. Mit Tipps und Rezepten die richtige Wahl treffen." width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/5572,0/KUeCHEN-QUELLE/Leichte-Sommergerichte-so-lassen-sich-die-warmen-Tage-am-besten-geniessen.html" name="{'ct':'mag_artikel','ck':{'3':'5572','1':'rezeptsuche-art','2':'84','4':'369','5':'77508'}}">
+							Leichte Sommergerichte						</a>
+						<div>Erfrischend, leicht und lecker durch den Sommer. Mit Tipps und Rezepten die richtige Wahl treffen.</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/1063,0/Chefkoch/Ostereier-Reste-lecker-verwerten.html" name="{'ct':'mag_artikel','ck':{'3':'1063','1':'rezeptsuche-art','2':'6','4':'276','5':'4095'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/4269.jpg" title="Abwechslung pur: Das macht ihr mit &uuml;brig gebliebenen Ostereiern" width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/1063,0/Chefkoch/Ostereier-Reste-lecker-verwerten.html" name="{'ct':'mag_artikel','ck':{'3':'1063','1':'rezeptsuche-art','2':'6','4':'276','5':'4095'}}">
+							Ostereier verwerten						</a>
+						<div>Abwechslung pur: Das macht ihr mit &uuml;brig gebliebenen Ostereiern</div>
+					</div>
+				</li>
+				
+											<li class="clearfix">
+					<div class="teaser-picture">
+						<a href="/magazin/artikel/2680,0/AEG/Spukige-Muffins-und-Cupcakes-zu-Halloween.html" name="{'ct':'mag_artikel','ck':{'3':'2680','1':'rezeptsuche-art','2':'14','4':'186','5':'33999'}}">
+							<img src="http://static.chefkoch-cdn.de/ck.de/cms/muffins_teaser_56x56.jpg" title="Espresso-Cupcakes, Erdbeer-Limetten-Muffins und Birnen-Walnuss-Muffins mit Mohn." width="56" height="56" alt="" />
+						</a>
+					</div>
+					<div class="teaser-text">
+						<a href="/magazin/artikel/2680,0/AEG/Spukige-Muffins-und-Cupcakes-zu-Halloween.html" name="{'ct':'mag_artikel','ck':{'3':'2680','1':'rezeptsuche-art','2':'14','4':'186','5':'33999'}}">
+							Her damit: Muffins und Cupcakes mit raffinierten Toppings!						</a>
+						<div>Espresso-Cupcakes, Erdbeer-Limetten-Muffins und Birnen-Walnuss-Muffins mit Mohn.</div>
 					</div>
 				</li>
 				
@@ -2928,7 +3049,7 @@ Kommt immer gut an, auch als Geschenk!
 		window.ck.search.results = window.ck.search.results || {};
 		window.ck.search.results.recipeBrowsingData = window.ck.search.results.recipeBrowsingData || {};
 
-		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/541961151505565\/Eierlikoer-nach-DDR-Tradition.html"},{"url":"\/rezepte\/672321169458724\/Malibu-Peach-Beach.html"},{"url":"\/rezepte\/86171033890906\/Erdbeerlimes.html"},{"url":"\/rezepte\/126921054397500\/Feuerzangenbowle.html"},{"url":"\/rezepte\/1218471227357990\/Ralfs-Orangenlikoer.html"},{"url":"\/rezepte\/1393141244283554\/Titanic-Bowle.html"},{"url":"\/rezepte\/1303271235391801\/Engelchenlikoer.html"},{"url":"\/rezepte\/51231018085747\/Caipirinha-Bowle.html"},{"url":"\/rezepte\/269951103727949\/Erfrischender-Holunderbluetenlikoer.html"},{"url":"\/rezepte\/1352881240037873\/Ipanema.html"},{"url":"\/rezepte\/731571175843661\/Pflaumenlikoer.html"},{"url":"\/rezepte\/1048481209735028\/Erdbeerlikoer.html"},{"url":"\/rezepte\/192111081587419\/Brombeerlikoer-gekocht.html"},{"url":"\/rezepte\/510361146660274\/Himbeer-Limes.html"},{"url":"\/rezepte\/1857691301034784\/Bratapfellikoer.html"},{"url":"\/rezepte\/1341731239030939\/Erdbeer-Limes.html"},{"url":"\/rezepte\/379121124223711\/Paradies-Bowle.html"},{"url":"\/rezepte\/60131021906007\/Bailey-s.html"},{"url":"\/rezepte\/537901150889686\/Crema-di-Limoncello.html"},{"url":"\/rezepte\/747401177258939\/Limoncello.html"},{"url":"\/rezepte\/263221102432593\/Zwetschgenlikoer.html"},{"url":"\/rezepte\/1051191210075417\/Kahlua.html"},{"url":"\/rezepte\/652261166710162\/Holunderbeeren-Sirup.html"},{"url":"\/rezepte\/797191183360809\/Rhabarber-Vanille-Likoer.html"},{"url":"\/rezepte\/31971008696340\/Schwedischer-Weihnachtspunsch.html"},{"url":"\/rezepte\/650661166507385\/1a-Maracujalikoer-la-Iris.html"},{"url":"\/rezepte\/332841116327186\/Raumfahrerbowle.html"},{"url":"\/rezepte\/629891163497995\/Solero-Cocktail.html"},{"url":"\/rezepte\/344001118650423\/Vanille-Eierlikoer.html"},{"url":"\/rezepte\/676111169972123\/Himbeerbowle.html"}];
+		window.ck.search.results.recipeBrowsingData.results = [{"url":"\/rezepte\/1010591206190843\/Lothars-beste-Nuernberger-Elisenlebkuchen.html"},{"url":"\/rezepte\/1521151257327860\/Schneemoussetorte-mit-Rhabarber.html"},{"url":"\/rezepte\/1833611297339517\/Butterstollen-Thueringer-Art.html"},{"url":"\/rezepte\/485281142608656\/Rehruecken-ausgeloest.html"},{"url":"\/rezepte\/2338561372249308\/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"},{"url":"\/rezepte\/2588771406324164\/Tomatensauce-aus-ofengeroesteten-Tomaten.html"},{"url":"\/rezepte\/1540431260282175\/Joghurt-Bombe.html"},{"url":"\/rezepte\/1476331252838756\/Zwetschgendatschi-mit-Butterstreuseln.html"},{"url":"\/rezepte\/2133281343053838\/Rinderrouladen-klassisch.html"},{"url":"\/rezepte\/1259191231344473\/Gebrannte-Mandeln-mit-wenig-Zucker.html"},{"url":"\/rezepte\/1560741263481424\/Lebkuchen-Kerze.html"},{"url":"\/rezepte\/1152361221481605\/Spaghetti-Eis-Dessert.html"},{"url":"\/rezepte\/680461170504963\/Keks-Kuchen-vom-Blech.html"},{"url":"\/rezepte\/1214861227169722\/Elisen-Lebkuchen.html"},{"url":"\/rezepte\/2648731416211587\/Pesto-Blume.html"},{"url":"\/rezepte\/1554051262698743\/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html"},{"url":"\/rezepte\/923511197717113\/Hirschgulasch.html"},{"url":"\/rezepte\/2120381341499440\/Melonen-Hai.html"},{"url":"\/rezepte\/1439851248792853\/Rhabarberkuchen-von-Omma.html"},{"url":"\/rezepte\/1718301280513854\/Erdbeer-Streuselkuchen.html"},{"url":"\/rezepte\/156931069001353\/Elisenlebkuchen.html"},{"url":"\/rezepte\/1803001291554585\/Kaltes-Schweinefilet.html"},{"url":"\/rezepte\/1426751247563051\/Spareribs-NT-im-Bratschlauch.html"},{"url":"\/rezepte\/1417641246603822\/Spargel-aus-dem-Ofen-ideal-fuer-Gaeste.html"},{"url":"\/rezepte\/893861194885229\/Walnussherzen.html"},{"url":"\/rezepte\/2380631377366321\/Zwetschgendatschi.html"},{"url":"\/rezepte\/1805941292161891\/Allgaeuer-Apfelbrot.html"},{"url":"\/rezepte\/1799991290865180\/Bratapfel-Marmelade.html"},{"url":"\/rezepte\/2690541421778074\/Aloha-Quarkmaeusle.html"},{"url":"\/rezepte\/1570331264533000\/Lebkuchen-lecker-und-schnell.html"}];
 		window.ck.search.results.recipeBrowsingData.searchHost = 'http://www.chefkoch.de';
 	</script>
 
@@ -2940,123 +3061,123 @@ Kommt immer gut an, auch als Geschenk!
       {
       "@type": "ListItem",
       "position": 1,
-      "url": "http://www.chefkoch.de/rezepte/541961151505565/Eierlikoer-nach-DDR-Tradition.html"
+      "url": "http://www.chefkoch.de/rezepte/1010591206190843/Lothars-beste-Nuernberger-Elisenlebkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 2,
-      "url": "http://www.chefkoch.de/rezepte/672321169458724/Malibu-Peach-Beach.html"
+      "url": "http://www.chefkoch.de/rezepte/1521151257327860/Schneemoussetorte-mit-Rhabarber.html"
     },      {
       "@type": "ListItem",
       "position": 3,
-      "url": "http://www.chefkoch.de/rezepte/86171033890906/Erdbeerlimes.html"
+      "url": "http://www.chefkoch.de/rezepte/1833611297339517/Butterstollen-Thueringer-Art.html"
     },      {
       "@type": "ListItem",
       "position": 4,
-      "url": "http://www.chefkoch.de/rezepte/126921054397500/Feuerzangenbowle.html"
+      "url": "http://www.chefkoch.de/rezepte/485281142608656/Rehruecken-ausgeloest.html"
     },      {
       "@type": "ListItem",
       "position": 5,
-      "url": "http://www.chefkoch.de/rezepte/1218471227357990/Ralfs-Orangenlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/2338561372249308/Koestliche-BBQ-Spareribs-fuer-Smoker-und-Backofen-inkl-Sosse-und-Gewuerzmischung.html"
     },      {
       "@type": "ListItem",
       "position": 6,
-      "url": "http://www.chefkoch.de/rezepte/1393141244283554/Titanic-Bowle.html"
+      "url": "http://www.chefkoch.de/rezepte/2588771406324164/Tomatensauce-aus-ofengeroesteten-Tomaten.html"
     },      {
       "@type": "ListItem",
       "position": 7,
-      "url": "http://www.chefkoch.de/rezepte/1303271235391801/Engelchenlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/1540431260282175/Joghurt-Bombe.html"
     },      {
       "@type": "ListItem",
       "position": 8,
-      "url": "http://www.chefkoch.de/rezepte/51231018085747/Caipirinha-Bowle.html"
+      "url": "http://www.chefkoch.de/rezepte/1476331252838756/Zwetschgendatschi-mit-Butterstreuseln.html"
     },      {
       "@type": "ListItem",
       "position": 9,
-      "url": "http://www.chefkoch.de/rezepte/269951103727949/Erfrischender-Holunderbluetenlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/2133281343053838/Rinderrouladen-klassisch.html"
     },      {
       "@type": "ListItem",
       "position": 10,
-      "url": "http://www.chefkoch.de/rezepte/1352881240037873/Ipanema.html"
+      "url": "http://www.chefkoch.de/rezepte/1259191231344473/Gebrannte-Mandeln-mit-wenig-Zucker.html"
     },      {
       "@type": "ListItem",
       "position": 11,
-      "url": "http://www.chefkoch.de/rezepte/731571175843661/Pflaumenlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/1560741263481424/Lebkuchen-Kerze.html"
     },      {
       "@type": "ListItem",
       "position": 12,
-      "url": "http://www.chefkoch.de/rezepte/1048481209735028/Erdbeerlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/1152361221481605/Spaghetti-Eis-Dessert.html"
     },      {
       "@type": "ListItem",
       "position": 13,
-      "url": "http://www.chefkoch.de/rezepte/192111081587419/Brombeerlikoer-gekocht.html"
+      "url": "http://www.chefkoch.de/rezepte/680461170504963/Keks-Kuchen-vom-Blech.html"
     },      {
       "@type": "ListItem",
       "position": 14,
-      "url": "http://www.chefkoch.de/rezepte/510361146660274/Himbeer-Limes.html"
+      "url": "http://www.chefkoch.de/rezepte/1214861227169722/Elisen-Lebkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 15,
-      "url": "http://www.chefkoch.de/rezepte/1857691301034784/Bratapfellikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/2648731416211587/Pesto-Blume.html"
     },      {
       "@type": "ListItem",
       "position": 16,
-      "url": "http://www.chefkoch.de/rezepte/1341731239030939/Erdbeer-Limes.html"
+      "url": "http://www.chefkoch.de/rezepte/1554051262698743/Kuerbis-Tomaten-Chutney-von-Rosinenkind.html"
     },      {
       "@type": "ListItem",
       "position": 17,
-      "url": "http://www.chefkoch.de/rezepte/379121124223711/Paradies-Bowle.html"
+      "url": "http://www.chefkoch.de/rezepte/923511197717113/Hirschgulasch.html"
     },      {
       "@type": "ListItem",
       "position": 18,
-      "url": "http://www.chefkoch.de/rezepte/60131021906007/Bailey-s.html"
+      "url": "http://www.chefkoch.de/rezepte/2120381341499440/Melonen-Hai.html"
     },      {
       "@type": "ListItem",
       "position": 19,
-      "url": "http://www.chefkoch.de/rezepte/537901150889686/Crema-di-Limoncello.html"
+      "url": "http://www.chefkoch.de/rezepte/1439851248792853/Rhabarberkuchen-von-Omma.html"
     },      {
       "@type": "ListItem",
       "position": 20,
-      "url": "http://www.chefkoch.de/rezepte/747401177258939/Limoncello.html"
+      "url": "http://www.chefkoch.de/rezepte/1718301280513854/Erdbeer-Streuselkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 21,
-      "url": "http://www.chefkoch.de/rezepte/263221102432593/Zwetschgenlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/156931069001353/Elisenlebkuchen.html"
     },      {
       "@type": "ListItem",
       "position": 22,
-      "url": "http://www.chefkoch.de/rezepte/1051191210075417/Kahlua.html"
+      "url": "http://www.chefkoch.de/rezepte/1803001291554585/Kaltes-Schweinefilet.html"
     },      {
       "@type": "ListItem",
       "position": 23,
-      "url": "http://www.chefkoch.de/rezepte/652261166710162/Holunderbeeren-Sirup.html"
+      "url": "http://www.chefkoch.de/rezepte/1426751247563051/Spareribs-NT-im-Bratschlauch.html"
     },      {
       "@type": "ListItem",
       "position": 24,
-      "url": "http://www.chefkoch.de/rezepte/797191183360809/Rhabarber-Vanille-Likoer.html"
+      "url": "http://www.chefkoch.de/rezepte/1417641246603822/Spargel-aus-dem-Ofen-ideal-fuer-Gaeste.html"
     },      {
       "@type": "ListItem",
       "position": 25,
-      "url": "http://www.chefkoch.de/rezepte/31971008696340/Schwedischer-Weihnachtspunsch.html"
+      "url": "http://www.chefkoch.de/rezepte/893861194885229/Walnussherzen.html"
     },      {
       "@type": "ListItem",
       "position": 26,
-      "url": "http://www.chefkoch.de/rezepte/650661166507385/1a-Maracujalikoer-la-Iris.html"
+      "url": "http://www.chefkoch.de/rezepte/2380631377366321/Zwetschgendatschi.html"
     },      {
       "@type": "ListItem",
       "position": 27,
-      "url": "http://www.chefkoch.de/rezepte/332841116327186/Raumfahrerbowle.html"
+      "url": "http://www.chefkoch.de/rezepte/1805941292161891/Allgaeuer-Apfelbrot.html"
     },      {
       "@type": "ListItem",
       "position": 28,
-      "url": "http://www.chefkoch.de/rezepte/629891163497995/Solero-Cocktail.html"
+      "url": "http://www.chefkoch.de/rezepte/1799991290865180/Bratapfel-Marmelade.html"
     },      {
       "@type": "ListItem",
       "position": 29,
-      "url": "http://www.chefkoch.de/rezepte/344001118650423/Vanille-Eierlikoer.html"
+      "url": "http://www.chefkoch.de/rezepte/2690541421778074/Aloha-Quarkmaeusle.html"
     },      {
       "@type": "ListItem",
       "position": 30,
-      "url": "http://www.chefkoch.de/rezepte/676111169972123/Himbeerbowle.html"
+      "url": "http://www.chefkoch.de/rezepte/1570331264533000/Lebkuchen-lecker-und-schnell.html"
     }    ]
 }
 </script>
@@ -3390,7 +3511,7 @@ Kommt immer gut an, auch als Geschenk!
             <div class="footer-search">
     
         Live Rezeptsuchen:
-                    <a href="http://www.chefkoch.de/rs/s0/bratwurst+auflauf/Rezepte.html">bratwurst auflauf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/brot/Rezepte.html">brot rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/ciabatta/Rezepte.html">ciabatta rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hefezopf/Rezepte.html">hefezopf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/hirsch/Rezepte.html">hirsch rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/kuchen+einfach+schnell+lecker/Rezepte.html">kuchen einfach schnell lecker rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/k%C3%A4sekuchen/Rezepte.html">käsekuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/penne+tomaten+sahne+sauce/Rezepte.html">penne tomaten sahne sauce rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/selterskuchen/Rezepte.html">selterskuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/soljanka/Rezepte.html">soljanka rezepte</a>    
+                    <a href="http://www.chefkoch.de/rs/s0/k%C3%A4sekuchen+ohne+boden/Rezepte.html">käsekuchen ohne boden rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/pfannkuchen+vollkorn/Rezepte.html">pfannkuchen vollkorn rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/vegan+tofu+gem%C3%BCse/Rezepte.html">vegan tofu gemüse rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/zupf/Rezepte.html">zupf rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/apfel+nuss+kuchen/Rezepte.html">apfel nuss kuchen rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/blumenkohlsalat/Rezepte.html">blumenkohlsalat rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/dampfgaren/Rezepte.html">dampfgaren rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/k%C3%A4sekuchen+blech/Rezepte.html">käsekuchen blech rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/rosinenbrot/Rezepte.html">rosinenbrot rezepte</a>,             <a href="http://www.chefkoch.de/rs/s0/vegetarische+gerichte/Rezepte.html">vegetarische gerichte rezepte</a>    
 
     </div>
     
@@ -3573,7 +3694,7 @@ Kommt immer gut an, auch als Geschenk!
     </script>
     <!--/SZM -->
     		<script type="text/javascript">
-			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"80985;80982;79984;79986;80035;79907;79397","7":"2","4":"0","5":"8","10":"12762","8":"102"},"contentGroup":{"1":"de","2":"web","3":"search"}};
+			window.wtparam = {"wtconfig":{"linkTrack":"standard","linkTrackAttribute":"name","heatmap":"0","contentId":"de.web.search.rezepte"},"customParameter":{"2":"53450;80662;79619;79397;77508;4095;33999","7":"2","4":"0","5":"8","10":"78274","8":"53"},"contentGroup":{"1":"de","2":"web","3":"search"}};
 						if(CK.core.hasSmallViewport() && CK.core.isLocationResponsive()) {
 				window.wtparam.wtconfig.contentId = window.wtparam.wtconfig.contentId.replace('de.web.', 'de.mew.');
 				wtparam.contentGroup['2'] = "mew";
@@ -3611,13 +3732,13 @@ Kommt immer gut an, auch als Geschenk!
 						document.write(unescape("%3Cscript%3Eif(window.CustomEvent){var event=new CustomEvent('ck_events_webtrekk:loaded',null);}else{var event=document.createEvent('ck_events_webtrekk:loaded');event.initCustomEvent('ck_events_webtrekk:loaded',true,false);}window.dispatchEvent(event);%3C/script%3E"));
 
 		</script>
-		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=80985%3B80982%3B79984%3B79986%3B80035%3B79907%3B79397&cp7=2&cp4=0&cp5=8&cp10=12762&cp8=102&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
+		<noscript><div><img src="http://chefkoch01.webtrekk.net/886765640341113/wt.pl?p=322,de.web.search.rezepte&cp2=53450%3B80662%3B79619%3B79397%3B77508%3B4095%3B33999&cp7=2&cp4=0&cp5=8&cp10=78274&cp8=53&cg1=de&cg2=web&cg3=search" height="1" width="1" alt="" /></div></noscript>
 
 
 <script type="text/javascript">
 
         var statistic_data = {
-                            "searchquery":"","searchscope":"2","numresults":"12762","pagination":"0","sort_order":"8", 
+                            "searchquery":"","searchscope":"2","numresults":"78274","pagination":"0","sort_order":"8", 
                 user: "",
         page: "/rezept-suche-solr-url.php",
         cached: true
