@@ -13,51 +13,6 @@ class WriteObject:
         """
         self.dstfolder = os.path.join(os.getcwd(), folder)
 
-    def check_folder(self, debug = False):
-        """Check if the destination folder exists. 
-        If it does, prompt to decide what to do with it.
-        
-        If debug = true then skip check.
-        """
-        self.debug = debug
-
-        if self.debug:
-            # Don't check - for debugging
-            shutil.rmtree(self.dstfolder)
-            os.mkdir(self.dstfolder)
-        
-        else:
-            # If destination folder does not exist then create it
-            if not os.path.exists(self.dstfolder):
-                os.mkdir(self.dstfolder)
-            
-            # Otherwise give a choice to replace (overwrite), use, or exit
-            else:
-                confirm_prompt = "The following folder exists:" + "\n" + \
-                    str(self.dstfolder) + "\n" + \
-                    "Would you like to add to it ('a'), overwrite ('o'),  or exit ('e'): "
-                confirm = raw_input(confirm_prompt)
-
-                # Prompt for correctly formatted input (y/n)
-                while not re.search(r'[aeo]', confirm):
-                    confirm_prompt = "Please confirm what you want to do." + "\n" + \
-                        "Would you like to add to it ('a'), overwrite ('o'),  or exit ('e'):"
-                    confirm = raw_input(confirm_prompt)
-                
-                # If exit
-                if confirm == "e":
-                    print "OK exiting so you can fix the paths."
-                    sys.exit(1)
-                
-                # Else if overwrite
-                elif confirm == "o":
-                    shutil.rmtree(self.dstfolder)
-                    os.mkdir(self.dstfolder)
-                
-                # Else if add
-                elif confirm == "a":
-                    pass
-
     def write_file(self, input_text, file_name):
         """Write file to disk, exiting if it already exists."""
 

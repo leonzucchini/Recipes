@@ -5,23 +5,32 @@ import os
 # import time
 # import json
 
-import GetInput
+from GetInput import UserInput
+from SetupFolder import FolderSetup
+from createDir import create_dir
+from clearUpPyc import clear_up_pyc
 # import GetResponse
-# import SetupFolder
+
 # import WriteObject
 # import ReportProgress
 
 def setup(input_folder_name):
 
     # Pick up preferences from preference file
-    ui = GetInput.UserInput()
-    ui.getFileNames(input_folder_name)
+    debug = False
+    ui = UserInput()
+    ui.getFilePaths(input_folder_name)
+    ui.links = ui.getDict(ui.filepaths[0]).json
+    ui.paths = ui.getDict(ui.filepaths[1]).json
+    
+    # Change cwd and set up folders for output
+    setup = FolderSetup()
+    setup.set_cwd(ui.paths['_home']) # Set working dir as specified in prefs file
 
-    # prefs = GetInput.InputFile(input_folder_name)
-    print ui.filenames
-    # setup.set_cwd() # Set working dir as specified in prefs file
-    # setup.create_dirpaths() # Create directories for output and pass warnings if they exist
+    ui.paths['_linkFiles'] = os.path.join(ui.paths['_home'], ui.paths['_linkFiles'])
+    create_dir( ui.paths['_linkFiles'], debug = True)
 
+    clear_up_pyc(ui.paths['_home'])
     # # Pick up URLs from a local file
     # with open(setup.paths['category_links'], "r") as f:
     #     url_dict = json.load(f)
@@ -57,8 +66,8 @@ def setup(input_folder_name):
 #         output_file.write_file(html_text, file_name)
 
 def main():
-    filepath = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/recipes/_input/"
-    setup(filepath)
+    inputfilepath = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/recipes/_input/"
+    setup(inputfilepath)
 
 if __name__ == '__main__':
     main()
