@@ -11,6 +11,7 @@ from createDir import create_dir
 from clearUpPyc import clear_up_pyc
 from GetResponse import HTMLResponse
 from WriteObject import WriteObject
+from parse_links import get_category_framework, crawl_urls, check_url_error
 # from ReportProgress import ProgressReport
 
 def setup(inputfolderpath):
@@ -55,7 +56,6 @@ def get_url_text(user_input):
     error_log = os.path.join(user_input.prefs['_home'], user_input.prefs['error_log'])
 
     # Setup for loop
-    id_number = 0
     # timer = ProgressReport()
 
     # Loop throrugh URLs
@@ -66,6 +66,7 @@ def get_url_text(user_input):
         # Use GetResponse to get response from server using URL
         html_response = HTMLResponse(url)
         if html_response.get_error:
+            # Check for errors
             with open(error_log, "w") as thisfile:
                 line = [str(dt.now()), url_key, url, html_response.response]
                 thisfile.write(" ; ".join(line))
@@ -75,10 +76,9 @@ def get_url_text(user_input):
                 ###
         else:
             # Store html text in local file
-            id_number += 1
             output_filename = "_".join([
                 'category_html',
-                str(id_number), url_key, str(dt.now().date()),
+                url_key, str(dt.now().date()),
                 ".txt"
             ])
             filepath = os.path.join(user_input.folderlinkfiles, output_filename)
@@ -88,15 +88,23 @@ def get_url_text(user_input):
 def main():
     """Execute the scripts calling parsing functions above."""
 
+    # Define main paths (can be moved to config file later)
     homepath = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/recipes/"
     inputfilepath = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes" +\
                     "/02_Code/recipes/_input/"
 
+    # Get setup
     user_input = setup(inputfilepath)
     set_cwd(user_input.prefs['_home'])
 
-    get_url_text(user_input)
-
+    # Grab urls
+    catpath = user_input.filepaths['category_links.json']
+    categories = UserInput().get_dict(catpath).json
+    category_dict = get_category_framework(categories)
+    url_list = crawl_urls(category_dict)
+    print url_list
+    
+    # Clear up pyc files
     clear_up_pyc(homepath)
 
 if __name__ == '__main__':

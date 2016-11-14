@@ -28,41 +28,38 @@ def crawl_urls(cat_list):
         # Cycle through cateogry patterns
         url_list = []
         url_increment = 0
+        url_error_count = 0
+
         while True:
             # Cycle through increments in URL pages
             url_increment += 30
             url = url_tuple[0] + str(url_increment) + url_tuple[1]
-            print url
+
+            if url_error_count > 5 or url_increment > 500:
+                break
 
             html_response = HTMLResponse(url)
-            if check_url(html_response) or url_increment > 300:
+            if check_url_error(html_response):
+                pass
+                # if page not known add one to the increment, break after 5
+                url_error_count += 1
                 break
             else:
                 html_response = HTMLResponse(url)
                 url_list.append(url)
+
         return url_list
 
-def check_url(html_response):
+def check_url_error(html_response):
     """Check the response from a get request is valid.
     Check also that chefkoch knows the page using their
     'Page not known' text.
+    Return tuple with HTML error and page not found
     """
-    url_problem = 0
+    url_error = 0
     not_found_text = "Zu deiner Suchanfrage konnten " \
                      + "keine Rezepte gefunden werden."
     not_found = re.match(not_found_text, html_response.response)
-
-    if (not_found or html_response.get_error):
-        url_problem = 1
-    
-    return url_problem
-
-def main():
-    catpath = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/recipes/_input/category_links.json"
-    cats = UserInput().get_dict(catpath).json
-    parts = get_category_framework(cats)
-    url_list = crawl_urls(parts)
-    print url_list
-
-if __name__ == '__main__':
-    main()
+    if not_found or html_response.get_error:
+         url_error = 1
+    return url_error
