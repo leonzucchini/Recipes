@@ -5,14 +5,10 @@ import os
 from datetime import datetime as dt
 # from py2neo import *
 
-from GetInput import UserInput
-from setCwd import set_cwd
-from createDir import create_dir
-from clearUpPyc import clear_up_pyc
-from GetResponse import HTMLResponse
-from WriteObject import WriteObject
-from parse_links import get_category_framework, crawl_urls, check_url_error
-# from ReportProgress import ProgressReport
+from setup import GetInput, clearUpPyc, createDir, ReportProgress, setCwd, \
+                  WriteObject
+from scrape import GetResponse
+from parse import parse_links
 
 def setup(inputfolderpath):
     """Pick up project preferences (file paths) from pre-defined json files.
@@ -22,7 +18,7 @@ def setup(inputfolderpath):
     Returns:   user_input of class UserInput
     """
     # Pick up preferences from preference file
-    user_input = UserInput()
+    user_input = GetInput.UserInput()
     user_input.getFilePaths(inputfolderpath)
     user_input.prefs = user_input.get_dict(
         user_input.filepaths['linkscraping_preferences.json']
@@ -33,7 +29,7 @@ def setup(inputfolderpath):
     user_input.folderlinkfiles = os.path.join(
         user_input.prefs['_home'], user_input.prefs['_linkFiles']
         )
-    create_dir(user_input.folderlinkfiles, debug=False)
+    createDir.create_dir(user_input.folderlinkfiles, debug=False)
 
     return user_input
 
@@ -64,7 +60,7 @@ def get_url_text(user_input):
         # timer.report()
 
         # Use GetResponse to get response from server using URL
-        html_response = HTMLResponse(url)
+        html_response = GetResponse.HTMLResponse(url)
         if html_response.get_error:
             # Check for errors
             with open(error_log, "w") as thisfile:
@@ -82,7 +78,7 @@ def get_url_text(user_input):
                 ".txt"
             ])
             filepath = os.path.join(user_input.folderlinkfiles, output_filename)
-            WriteObject(html_response.response, filepath)
+            WriteObject.WriteObject(html_response.response, filepath)
             print "Writing: " + filepath
 
 def main():
@@ -95,17 +91,17 @@ def main():
 
     # Get setup
     user_input = setup(inputfilepath)
-    set_cwd(user_input.prefs['_home'])
+    setCwd.set_cwd(user_input.prefs['_home'])
 
     # Grab urls
     catpath = user_input.filepaths['category_links.json']
-    categories = UserInput().get_dict(catpath).json
-    category_dict = get_category_framework(categories)
-    url_list = crawl_urls(category_dict)
+    categories = GetInput.UserInput().get_dict(catpath).json
+    category_dict = parse_links.get_category_framework(categories)
+    url_list = parse_links.crawl_urls(category_dict)
     print url_list
     
     # Clear up pyc files
-    clear_up_pyc(homepath)
+    clearUpPyc.clear_up_pyc(homepath)
 
 if __name__ == '__main__':
     main()
