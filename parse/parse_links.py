@@ -1,10 +1,8 @@
 import os
 import sys
 import re
-from bs4 import BeautifulSoup as bs
 
-from GetInput import UserInput
-from GetResponse import HTMLResponse
+from scrape import GetResponse
 
 def get_category_framework(category_dict):
     """Cycle through dictionary of link categories and retrieve html files.
@@ -38,14 +36,14 @@ def crawl_urls(cat_list):
             if url_error_count > 5 or url_increment > 500:
                 break
 
-            html_response = HTMLResponse(url)
+            html_response = GetResponse.HTMLResponse(url)
             if check_url_error(html_response):
                 pass
                 # if page not known add one to the increment, break after 5
                 url_error_count += 1
                 break
             else:
-                html_response = HTMLResponse(url)
+                html_response = GetResponse.HTMLResponse(url)
                 url_list.append(url)
 
         return url_list

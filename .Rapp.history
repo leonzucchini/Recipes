@@ -1,0 +1,251 @@
+rm(list=ls())#
+library(rgl)#
+library(ggplot2)#
+library(reshape)#
+library(data.table)#
+#
+# Set paths#
+setwd("/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/02_Analysis/")#
+datapath = "/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/recipe_links.csv"
+colClass = c("integer", "integer", NULL, "string", NULL, "factor", "factor", "integer", "string")#
+dat = data.frame(fread(datapath, header=T, sep = ";", stringsAsFactors= F, verbose = T))#, colClasses=colClass)
+dat
+dim(dat)
+names(dat)
+dat = data.frame(fread(datapath, sep = ";", stringsAsFactors= F, verbose = T))#, colClasses=colClass)
+dim(dat)
+names(dat)
+dat[1,]
+dat = fread(datapath, sep = ";", stringsAsFactors= F, verbose = T)#, colClasses=colClass)
+names(dat)
+dat[1,]
+?fread
+dat = fread(datapath, sep = ";", header = T, stringsAsFactors= F, verbose = T)#, colClasses=colClass)
+dim(dat)
+dat = fread(datapath, sep = ";", header = T, stringsAsFactors= F, verbose = T)#, colClasses=colClass)
+dim(dat)
+dat = fread(datapath, sep = ";", header = T, stringsAsFactors= F, verbose = T)#, colClasses=colClass)
+dim(dat)
+names(dat)
+colClass = c("integer", "integer", NULL, "string", NULL, "factor", "factor", "integer", "string")#
+dat = fread(datapath, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)
+?data.table
+?fread
+setwd("/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/02_Analysis/")#
+dataPathLinks = "/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/recipe_links.csv"#
+dataPathLinkMap = "/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/datamap_recipe_links.csv"#
+#
+# =================================================================================#
+# READ DATA#
+dataMapLinks = read.csv(dataPathLinkMap, header=T)
+dataMapLinks
+dataMapLinks = read.csv(dataPathLinkMap, header=T, sep=";")
+dataMapLinks
+dataMapsLinks[,3]
+dataMapLinks[,3]
+colClass = as.character(dataMapLinks[,3])
+colClass
+dat = fread(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)
+head(dat)
+?date
+?as.date
+hist(time)
+dataMapLinks = read.csv(dataPathLinkMap, header=T, sep=";")#
+#
+colClass = as.character(dataMapLinks[,3])#
+dat = fread(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)#
+dat$date = date()
+hist(dat$time)
+colClass
+names(dat)
+dataMapLinks
+dat = fread(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)#
+dat$date = date()
+names(dat)
+class(dat$date)
+class(dat$id)
+class(dat$category)
+class(dat$url)
+cbind(names(dat),colClass)
+length(colClass)
+length(names(dat))
+dat = fread(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)
+cbind(names(dat),colClass)
+class(dat$time)
+class(dat$ time)
+hist(as.numeric(dat$time))
+dat$time
+hist(dat[,6])
+dat[,6]
+dat = fread(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)
+dat[,6]
+dim(dat)
+head(dat)
+dat = read.csv(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, verbose = T, colClasses=colClass)
+dat = read.csv(dataPathLinks, sep = ";", header = T, stringsAsFactors= F, colClasses=colClass)
+dat = read.csv(dataPathLinks, sep = ";", header = T, stringsAsFactors= F)#, colClasses=colClass)
+head(dat)
+dat = read.csv(dataPathLinks, sep = ";", header = T, stringsAsFactors= F)#, colClasses=colClass)
+hist(dat$time)
+table(dat$difficulty)
+plot(dat$time,dat$views)
+close()
+dev.off()
+####################################################################################
+# RECIPES - ANALYSIS#
+#
+# Clear up and import libraries#
+rm(list=ls())#
+library(rgl)#
+library(ggplot2)#
+library(reshape)#
+library(data.table)#
+#
+# Set paths#
+setwd("/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/02_Analysis/")#
+dataPathLinks = "/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/recipe_links.csv"#
+dataPathLinkMap = "/Users/leonzucchini/Dropbox/03_Research and Teaching/Recipes/03_Data/datamap_recipe_links.csv"#
+#
+# =================================================================================#
+# READ DATA#
+#
+# Read file with data col formats#
+dataMapLinks = read.csv(dataPathLinkMap, header=T, sep=";")#
+colClass = as.character(dataMapLinks[,3])#
+#
+# Read data (if this gets much bigger think about using scan)#
+dat = read.csv(dataPathLinks, sep = ";", header = T, stringsAsFactors= F)#, colClasses=colClass)#
+#lapply(dat,class) #check classes of columns#
+#
+# =================================================================================#
+# BASIC CLEANING AND ANALYSIS#
+#
+# Check for and remove duplicate URLS - recipes are listed in more than one category#
+dim(dat)[1]/length(unique(dat$url))  #there about 2.8 obs for every recipe link#
+dat = dat[!(duplicated(dat$url)),] #remove duplicates#
+#
+# Check how many obs by category#
+table(dat$category) #seems reasonable#
+#
+# Fix data formats#
+dat$category = as.factor(dat$category)#
+dat$difficulty = as.factor(dat$difficulty)#
+#
+# Fix date formats#
+foo = as.character(dat$date) #not nice because missing leading 0s and as.Date not behaving#
+for(i in which(lapply(foo,nchar)==5)){foo[i] = paste("0",foo[i],sep="")}#
+foo[which(lapply(foo,nchar)==2)]=NA #there are 4 NAs that mess with the date format#
+dat$date = as.Date(foo, '%d%m%y')#
+dat = dat[!is.na(dat$date),] #the NAs are going to drive me crazy
+test = dat[1:100,]
+dev = ggplot(test, aes(x=dat)) +geom_line(aes(y=..count..))
+dev
+dev = ggplot(test, aes(x=date)) +geom_line(aes(y=..count..))
+dev
+dev = ggplot(test, aes(x=date)) + stat_bin(geom = "line")
+dev
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "line")
+dev
+range(dat$Date)
+range(dat$date)
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar")
+dev
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue")
+dev
+basic = opts(panel.background = theme_rect(fill='white', colour='black'))
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue")
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue") + basic
+basic = opts(panel.background = theme(fill='white', colour='black'))
+basic = opts(axis.line = theme_segment(colour = "black"),#
+    panel.grid.major = theme_blank(),#
+    panel.grid.minor = theme_blank(),#
+    panel.border = theme_blank(),#
+    panel.background = theme_blank())
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue") + basic
+opts(axis.line = theme_segment(colour = "black"),#
+    panel.grid.major = theme_blank(),#
+    panel.grid.minor = theme_blank(),#
+    panel.border = theme_blank(),#
+    panel.background = theme_blank())
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue") + panel.background = theme_blank()
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", col="blue") + panel.background = element_blank()
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar")
+dev
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", binwidth=50)
+dev
+dev = ggplot(dat, aes(x=date)) + stat_bin(geom = "bar", binwidth=50, border="white")
+dev
+hist(dat$views)
+dev = ggplot(dat) + stat_bar(geom = "histogram")
+dev = qplot(dat, geom = "histogram")
+dev
+dev = qplot(views, data=dat, geom = "histogram")
+dev
+views
+dat$views
+views_plot2 = qplot(views, data=dat[views<exp(5)], geom = "histogram")
+views_plot2 = qplot(views, data=dat[dat$views<exp(5),], geom = "histogram")
+views_plot2
+10^6
+views_plot2 = qplot(views, data=dat[dat$views<10^5,], geom = "histogram")
+views_plot2
+views_plot2 = qplot(views, data=dat[dat$views<10^4,], geom = "histogram")
+views_plot2
+views_plot2 = qplot(views, data=dat[dat$views<2.5^4,], geom = "histogram")
+views_plot2
+views_plot2 = qplot(views, data=dat[dat$views<2.5*10^4,], geom = "histogram")
+views_plot2
+views_plot2 = qplot(views, data=dat[dat$views<2.5*10^3,], geom = "histogram")
+views_plot2
+views_plot2 = qplot(views, data=dat[dat$views<3*10^3,], geom = "histogram")
+views_plot2
+dat$star = dat$views>3*10^3
+sum(dat$star)
+views_plot3 = qplot(views, data=dat[dat$star,], geom = "histogram")
+views_plot3 = qplot(views, data=dat[dat$star,], geom = "histogram"); views_plot3
+dat[which.max(dat$views),]
+dat[rank(dat$views)<10,]
+rank(dat$views)
+dat[rank(dat$views)<10,]
+?ran
+?rank
+dat[rank(dat$views,ties.method="first")<10,]
+(r1 <- rank(x1 <- c(3, 1, 4, 15, 92)))
+r2
+r1
+rank(dat$views,ties.method="first")
+dat$views
+rank(c(2,1,3))
+rank(c(2,1,5))
+dat[rank(dat$views,ties.method="first"),]
+dat[rank(dat$views,ties.method="first")<=10,]
+dat$rank = rank(dat$views, ties.method="first")
+dat[dat$rank<=10,]
+dat$rank = rank(-dat$views, ties.method="first")#
+dat[dat$rank<=10,]
+dat[dat$rank,][1:20,]
+?sort
+dat[dat$rank<=20,]
+?within
+dat[dat$rank==(1:20),]
+dat[sort(dat$rank),][1:20,]
+dat[dat$rank<10,]
+names(dat)
+boxplot(dat$time~dat$diffculty)
+boxplot(dat$time~dat$difficulty)
+hist(time)
+hist(dat$tie)
+hist(dat$time)
+class(dat$time)
+dat$time = as.numeric(dat$time)
+class(dat$time)
+boxplot(dat$time~dat$difficulty)
+hist(dat$time)
+dat[dat$time>3000]
+dat[dat$time>3000,]
+sum(is.na(dat$time))
+sum(dat$time>200)
+sum(dat$time>500)
+dat[dat$time>500]
+dat[dat$time>500,]
+dat[dat$time>100,]

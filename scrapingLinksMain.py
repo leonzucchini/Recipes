@@ -1,12 +1,10 @@
-""" Parse HTML text from chefkoch.de.
-"""
+""" Parse HTML text from chefkoch.de """
 
 import os
 from datetime import datetime as dt
-# from py2neo import *
+# # from py2neo import *
 
-from setup import GetInput, clearUpPyc, createDir, ReportProgress, setCwd, \
-                  WriteObject
+from setup import GetInput, createDir, setCwd, clearUpPyc
 from scrape import GetResponse
 from parse import parse_links
 
