@@ -18,7 +18,7 @@ from tools import (
 
 def crawl_categories(category_dict, folder_path,
                 log_name, log_option="Exit", files_option="Exit",
-                verbose=False, test=False):
+                verbose=False, short_cycle=False):
     """
     Get syntax framework for URLs of recipe category sub-pages (containing links to recipes).
     Crawl through recipe category sub-pages (loop over varying parts of URLs). 
@@ -45,9 +45,8 @@ def crawl_categories(category_dict, folder_path,
 
             # Set break points
             break_now = URL_ERROR_COUNT > 5 # Break after 5 bad responses
-            if test:
-                break_now = break_now or SUBPAGE_NO > 100 # Use shorter cycle for testing
-
+            if short_cycle:
+                break_now = URL_ERROR_COUNT > 5 or SUBPAGE_NO > 100 # Use shorter cycle for testing
             if break_now:
                 break
 
@@ -105,7 +104,7 @@ def main():
     crawl_categories(
         categories_links, output_path,
         log_name = "_category_log.txt", log_option="Append",
-        files_option="Exit", verbose=True, test=True
+        files_option="Exit", verbose=True, short_cycle=False
         )
 
     # Clear up pyc files
