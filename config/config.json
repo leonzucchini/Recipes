@@ -1,6 +1,6 @@
 {
     "_home": "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/",
     "_linkFiles": "03_Data/textFiles/",
-    "category_links": "02_Code/recipes/_input/category_links.json",
+    "category_links": "02_Code/config/category_links.json",
     "error_log": "03_Data/html_error_log.txt"
 }
