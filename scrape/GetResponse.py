@@ -1,8 +1,7 @@
 import requests
 
 class HTMLResponse(object):
-  """Response from a get request to a server with a specific URL.
-  Error handling for get requests."""
+  """ Get HTML text including error handling """
   
   def __init__(self, url):
     """Tries to get the HTML text for a URL and handles connection and
@@ -19,3 +18,6 @@ class HTMLResponse(object):
       self.get_error = 1
       self.response = str(err)
       print "HTML Error: " + url
+
+  def write_error(self):
+    """ For HTML error write to error log """

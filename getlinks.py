@@ -1,20 +1,15 @@
-""" Parse HTML text from chefkoch.de """
+""" Get links for recipes at chefkoch.de """
 
 import os
 from datetime import datetime as dt
 # # from py2neo import *
 
-from setup import GetInput, createDir, setCwd, clearUpPyc
+from setup import GetInput, createDir, setCwd, clearUpPyc, WriteObject
 from scrape import GetResponse
 from parse import parse_links
 
 def setup(inputfolderpath):
-    """Pick up project preferences (file paths) from pre-defined json files.
-    Set up folders for strong results of html-get requests.
-
-    Arguments: Path to folder with preferences files
-    Returns:   user_input of class UserInput
-    """
+    """ Get file paths and set up folders for results """
     # Pick up preferences from preference file
     user_input = GetInput.UserInput()
     user_input.getFilePaths(inputfolderpath)
@@ -27,19 +22,12 @@ def setup(inputfolderpath):
     user_input.folderlinkfiles = os.path.join(
         user_input.prefs['_home'], user_input.prefs['_linkFiles']
         )
-    createDir.create_dir(user_input.folderlinkfiles, debug=False)
+    createDir.create_dir(user_input.folderlinkfiles, debug=True)
 
     return user_input
 
 def get_url_text(user_input):
-    """Get HTML text from URL using the information passed in user_input object.
-    Store to local files.
-
-    Arguemnts: user_input object with at least the following attributes
-        --links: Links to urls in json dictionary
-        --prefs: Preferences file as dictionary ncluding file path to "error_log"
-    Returns:   Nothing, writes to disk
-    """
+    """Get HTML text from predefined URLs and store to local files """
 
     # URLs from local file
     user_input.links = user_input.get_dict(user_input.filepaths['category_links.json']).json
@@ -50,12 +38,10 @@ def get_url_text(user_input):
     error_log = os.path.join(user_input.prefs['_home'], user_input.prefs['error_log'])
 
     # Setup for loop
-    # timer = ProgressReport()
 
     # Loop throrugh URLs
     for url_key in url_keys:
         url = user_input.links[url_key]
-        # timer.report()
 
         # Use GetResponse to get response from server using URL
         html_response = GetResponse.HTMLResponse(url)
@@ -97,7 +83,7 @@ def main():
     category_dict = parse_links.get_category_framework(categories)
     url_list = parse_links.crawl_urls(category_dict)
     print url_list
-    
+
     # Clear up pyc files
     clearUpPyc.clear_up_pyc(homepath)
 
