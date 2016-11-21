@@ -2,13 +2,12 @@
 This the code from a private research project. The project's aim is to gather and analyze data from the German-language website [Chefkoch][chefkoch].
 
 ## Data Source
-Data is gathered from the German-language cooking website [Chefkoch][chefkoch].  
-Note: As of mid-October 2016 the chefkoch.de website's [terms of use][agb] make no provision restricting scraping the website for information.
+Data is gathered from the German-language cooking website [Chefkoch][chefkoch]. Note: As of mid-October 2016 the chefkoch.de website's [terms of use][agb] made no provision restricting scraping the website for information, so this is all perfectly legal.
 
 ## Code
 
 ### Category pages
-**Background**
+**Background**  
 Recipe pages on [Chefkoch][chefkoch] are organized into seven overlapping [categories][categories]:
 * Baking and sweets (Backen & Süßspeisen)
 * Drinks (Getränke)
