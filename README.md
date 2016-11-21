@@ -17,16 +17,14 @@ Recipe pages on [Chefkoch][chefkoch] are organized into seven overlapping [categ
 * Special recipes (Spezielles), e.g. baby food or camping
 * Method of preparation (Zubereitungsarten), don't really understand this category
 
-Categories comprise 12k-260k category-list-pages (like [this][cat-example]), each of which contains links to 30 recipes.
+Categories comprise 12k-260k recipes. Links to the recipes are listed on batches of 30 on 'category-list-pages' (like [this][cat-example]).
 
 `crawl_category_subpages.py`  
-This script uses a list of the category syntax and a list of *user-defined* path preferences in `config/`.
-It downloads the HTML code of each category-list-page and and stores it to a local txt file.
+This script uses a list of the category syntax and a list of *user-defined* path preferences in `config/`. It downloads the HTML code of each category-list-page and and stores it to a local txt file.
 
 **CAUTION**
 * As of Nov 2016 there are ~27k category-list-pages (@30 recipes each), weighing in at 5GB
 * Downloading took several hours (with a reasonably fast connection)
-
 
 ---
 [chefkoch]: http://www.chefkoch.de
