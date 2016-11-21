@@ -8,7 +8,7 @@ Note: As of mid-October 2016 the chefkoch.de website's [terms of use][agb] make 
 ## Code
 
 ### Category pages
-*Background*  
+**Background**
 Recipe pages on [Chefkoch][chefkoch] are organized into seven overlapping [categories][categories]:
 * Baking and sweets (Backen & Süßspeisen)
 * Drinks (Getränke)
@@ -24,7 +24,7 @@ Categories comprise 12k-260k category-list-pages (like [this][cat-example]), eac
 This script uses a list of the category syntax and a list of *user-defined* path preferences in `config/`.
 It downloads the HTML code of each category-list-page and and stores it to a local txt file.
 
-*CAUTION*
+**CAUTION**
 * As of Nov 2016 there are ~27k category-list-pages (@30 recipes each), weighing in at 5GB
 * Downloading took several hours (with a reasonably fast connection)
 
