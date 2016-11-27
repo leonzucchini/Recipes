@@ -69,7 +69,7 @@ def crawl_categories(category_dict, folder_path,
                     # If no error write text to file
                     get_message = " ".join(["Got category sub-page:", cat_url])
                     log_list.append(get_message)
-                    file_name = ".".join(["_".join([url_tuple[1][:-5].replace("/",""), str(SUBPAGE_NO)]), ".txt"])
+                    file_name = ".".join(["_".join([url_tuple[1][:-5].replace("/",""), str(SUBPAGE_NO)]), "txt"])
                     file_path = os.path.join(folder_path, file_name)
                     write_text.write_text(html_response.text, file_path, files_option)
 
