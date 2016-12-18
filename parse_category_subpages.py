@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 # import py2neo as pn
 
-def parse_info(file_path, issue_counter=1):
+def parse_info(file_path, counter=1, verbose=True):
     """ Grab html code from a file and parse for information - return dict of dicts. """
 
-    issue_counter = issue_counter
+    this_counter = counter
     # Open file and parse with BS4
     with open(file_path, "r") as f:
         soup = bs(f.read().decode("utf-8"), "lxml")
@@ -40,21 +40,23 @@ def parse_info(file_path, issue_counter=1):
             # Votes (number and average)
             votes_raw = hit.a.find("span", class_="search-list-item-uservotes-stars")["title"]
             recipes[id]["votes_n"] = re.match(r"^(\d*)\s.*", votes_raw).group(1)
-            recipes[id]["votes_avg"] = re.match(r".*\s.*([\d*\.]$)", votes_raw).group(1)
+            recipes[id]["votes_avg"] = re.match(r".*\s(.*?)$", votes_raw).group(1)
 
             # Other info
             recipes[id]["difficulty"] = hit.a.find("span", class_="search-list-item-difficulty").get_text()
             recipes[id]["preptime"] = hit.a.find("span", class_="search-list-item-preptime").get_text()
             recipes[id]["activationdate"] = hit.a.find("span", class_="search-list-item-activationdate").get_text()
 
-            print file_path + " #" + str(issue_counter) + " successfully parsed"
+            if verbose:
+                print file_path + " #" + str(this_counter) + " successfully parsed"
 
         except Exception:
-            print file_path + " #" + str(issue_counter) + " problem with parsing"
-        
-        issue_counter += 1
+            if verbose:
+                print file_path + " #" + str(this_counter) + " problem with parsing"
 
-    return recipes
+        this_counter += 1
+
+    return (recipes, this_counter)
 
 # def neo_dict(dictionary):
 #     """ Write content of dictionary to graph database as attributes (node = dict name). """
@@ -73,14 +75,17 @@ def main():
     # # Parse information by looping over files
     # # Store to pandas dict and write info for first analysis (w/o neo2j database)
     link_data = pd.DataFrame()
-    issue_counter = 1
-    for fp in file_paths[:100]:
-        page_hits = parse_info(fp, issue_counter=issue_counter)
+    counter = 1
+    for fp in file_paths[:1000]:
+        (page_hits, counter) = parse_info(fp, counter=counter, verbose=False)
 
         for k, v in page_hits.items():
             row = pd.Series(v, name=k)
             link_data = link_data.append(row)
+        
+        print (counter-1)/30
 
     link_data.to_csv(out_path, encoding='utf8')
+    print "All done!"
 
 main()
