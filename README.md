@@ -4,6 +4,25 @@ This the code from a private research project. The project's aim is to gather an
 ## Data Source
 Data is gathered from the German-language cooking website [Chefkoch][chefkoch]. Note: As of mid-October 2016 the chefkoch.de website's [terms of use][agb] made no provision restricting scraping the website for information, so this is all perfectly legal.
 
+Inspecting http://www.chefkoch.de/robots.txt reveals that chefkoch wants to restrict crawling behavior for some sub-folders.
+```
+User-agent: *  # directed to all spiders, not just Scooter
+Disallow: /cgi-bin
+Disallow: /stats
+Disallow: /pictures/fotoalben/
+Disallow: /forumuploads/
+Disallow: /pictures/user/
+Disallow: /user/
+Disallow: /avatar/
+Disallow: /cms/
+Disallow: /produkte/
+Disallow: /how2videos/
+```
+
+I don't have insight into their folder structure, so have to guess which parts they are restricting. Most things (e.g., photos, user-pictures etc.) are uninteresting. I'm guessing "produkte" is the products beings sold on the website (not the recipes being referred to as "products").
+The only one that might be tricky is "/user/" because I do want some info on the users (experience level etc.).
+
+
 ## Code
 
 ### Category pages
