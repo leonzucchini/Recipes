@@ -4,7 +4,7 @@ This the code from a private research project. The project's aim is to gather an
 ## Data Source
 Data is gathered from the German-language cooking website [Chefkoch][chefkoch]. Note: As of mid-October 2016 the chefkoch.de website's [terms of use][agb] made no provision restricting scraping the website for information, so this is all perfectly legal.
 
-Inspecting http://www.chefkoch.de/robots.txt reveals that chefkoch wants to restrict crawling behavior for some sub-folders.
+Inspecting their [robots.txt][robots.txt] reveals that chefkoch wants to restrict crawling behavior for some sub-folders (awesome hint from [Scrapehero][scrapehero]).
 ```
 User-agent: *  # directed to all spiders, not just Scooter
 Disallow: /cgi-bin
@@ -20,7 +20,7 @@ Disallow: /how2videos/
 ```
 
 I don't have insight into their folder structure, so have to guess which parts they are restricting. Most things (e.g., photos, user-pictures etc.) are uninteresting. I'm guessing "produkte" is the products beings sold on the website (not the recipes being referred to as "products").
-The only one that might be tricky is "/user/" because I do want some info on the users (experience level etc.).
+The only one that might be tricky is ```/user/``` because I do want some info on the users (experience level etc.).
 
 
 ## Code
@@ -50,3 +50,5 @@ This script uses a list of the category syntax and a list of *user-defined* path
 [agb]: http://www.chefkoch.de/terms-of-use.phps
 [categories]: http://www.chefkoch.de/rezepte/kategorien/
 [cat-example]: http://www.chefkoch.de/rs/s0g61/Zubereitungsarten.html
+[robots.txt]: https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/
+[scrapehero]: https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/
