@@ -76,14 +76,16 @@ def main():
     # # Store to pandas dict and write info for first analysis (w/o neo2j database)
     link_data = pd.DataFrame()
     counter = 1
-    for fp in file_paths[:1000]:
+    for fp in file_paths:
         (page_hits, counter) = parse_info(fp, counter=counter, verbose=False)
 
         for k, v in page_hits.items():
             row = pd.Series(v, name=k)
             link_data = link_data.append(row)
         
-        print (counter-1)/30
+        bigcounter = (counter-1)/30
+        if bigcounter%50 == 0:
+            print bigcounter
 
     link_data.to_csv(out_path, encoding='utf8')
     print "All done!"
