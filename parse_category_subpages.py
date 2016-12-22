@@ -1,5 +1,3 @@
-"""
-"""
 import os
 import re
 from bs4 import BeautifulSoup as bs
@@ -33,7 +31,7 @@ def parse_info(file_path, counter=1, verbose=True):
             recipes[id]["category_list_page"] = "www.chefkoch.de/rs/s" + sNum + pNum + "/" + rText + ".html"
 
             # URL, title, subtitle
-            recipes[id]["url"] = "".join(["www.chefkoch.de", hit.a['href']])
+            recipes[id]["url"] = "".join(["http://www.chefkoch.de", hit.a['href']])
             recipes[id]["title"] = hit.a.find("div", class_="search-list-item-title").get_text().strip().replace("\n","")
             recipes[id]["subtitle"] = hit.a.find("p", class_="search-list-item-subtitle").get_text().strip().replace("\n","")
 
@@ -76,7 +74,7 @@ def main():
     # # Store to pandas dict and write info for first analysis (w/o neo2j database)
     link_data = pd.DataFrame()
     counter = 1
-    for fp in file_paths:
+    for fp in file_paths[1:100]:
         (page_hits, counter) = parse_info(fp, counter=counter, verbose=False)
 
         for k, v in page_hits.items():
