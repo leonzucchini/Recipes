@@ -52,7 +52,7 @@ def crawl_categories(category_dict, folder_path,
             else:
                 # Get response
                 cat_url = "".join([url_tuple[0], str(SUBPAGE_NO), url_tuple[1]])
-                html_response = get_response.HMTLresponse(cat_url)
+                html_response = get_response.HTMLresponse(cat_url)
 
                 # Check for html get errors
                 not_found = re.match("Zu deiner Suchanfrage konnten keine Rezepte gefunden werden.", html_response.text)

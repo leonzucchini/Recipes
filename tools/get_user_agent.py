@@ -9,12 +9,9 @@ def user_agent_list(user_agent_list_path):
         agent_list = f.readlines()
     return agent_list
 
-def select_user_agents(agent_list, n):
+def select_user_agent(agent_list):
     """Select random user agent from pre-loaded list of agents. """
     n_agents = len(agent_list)
-    agents = []
-    i = 0
-    while i < n:
-        agents.append(agent_list[random.randint(0, n_agents-1)].replace("\n", "").replace("\"", ""))
-        i += 1
-    return agents
+    agent = {}
+    agent["user-agent"] = agent_list[random.randint(0, n_agents-1)].replace("\n", "").replace("\"", "")
+    return agent

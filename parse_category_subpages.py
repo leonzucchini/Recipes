@@ -11,7 +11,7 @@ def parse_info(file_path, counter=1, verbose=True):
     # Open file and parse with BS4
     with open(file_path, "r") as f:
         soup = bs(f.read().decode("utf-8"), "lxml")
-    
+
     # Get category
     category = re.match(r"g\d+(\w+)_.*", os.path.basename(file_path)).group(1)
     recipes = {}
@@ -68,7 +68,6 @@ def main():
     file_paths = []
     [file_paths.append(os.path.join(folder_path, fn)) for fn in os.listdir(folder_path)]
     file_paths.pop(0) # Remove log file from list
-    # file_paths = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/textFiles/g102Getraenke_1020.txt"
 
     # # Parse information by looping over files
     # # Store to pandas dict and write info for first analysis (w/o neo2j database)
@@ -80,10 +79,11 @@ def main():
         for k, v in page_hits.items():
             row = pd.Series(v, name=k)
             link_data = link_data.append(row)
-        
+
         bigcounter = (counter-1)/30
         if bigcounter%50 == 0:
             print bigcounter
+            link_data.to_csv(out_path, encoding='utf8') # Interim storage for when I need to stop earlier
 
     link_data.to_csv(out_path, encoding='utf8')
     print "All done!"
