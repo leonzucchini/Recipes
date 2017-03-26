@@ -1,2 +1,5 @@
 _old/
 _sandbox/
+
+.ipynb_checkpoints/
+.vscode
