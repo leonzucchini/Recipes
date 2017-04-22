@@ -3,7 +3,7 @@ Read user agents from list (local file) and select one for the request.
 """
 import random
 
-def user_agent_list(user_agent_list_path):
+def get_user_agent_list(user_agent_list_path):
     """Read user agents from list (local file). """
     with open(user_agent_list_path, "r") as f:
         agent_list = f.readlines()

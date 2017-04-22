@@ -3,3 +3,4 @@ _sandbox/
 
 .ipynb_checkpoints/
 .vscode
+*.pyc

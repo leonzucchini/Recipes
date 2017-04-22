@@ -1,5 +1,5 @@
 """
-Crawl through recipe pages and parse data to database
+Crawl through recipe pages and parse data to database.
 """
 
 import os

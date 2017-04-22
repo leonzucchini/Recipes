@@ -91,7 +91,7 @@ def main():
 
     # Define path to configs 
     config_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/config/config.json"
-    
+
     # Get configs and set up paths
     config = get_input.get_input(config_path, print_config=False)
     output_path = os.path.join(config['_home'], config['_linkFiles'])

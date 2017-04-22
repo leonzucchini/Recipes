@@ -1,0 +1,20 @@
+{
+    "paths":{
+        "data": "03_Data/",
+        "resources": {
+            "user_agents": "resources/user_agents.txt",
+            "category_urls": "resources/category_urls.json"
+            }
+    },
+    "run_modules":{
+        "initialize": 0,
+        "category_pages":{
+            "prepare": 0,
+            "process": 0
+        },
+        "recipe_pages": {
+            "prepare": 0,
+            "process": 0
+        }
+    }
+}
