@@ -1,11 +1,14 @@
+"""
+Parse stored raw html and
+"""
+
 import os
 import re
 from bs4 import BeautifulSoup as bs
-import pandas as pd
 # import py2neo as pn
 
-def parse_info(file_path, counter=1, verbose=True):
-    """ Grab html code from a file and parse for information - return dict of dicts. """
+def parse_category_file(file_path, counter=1, verbose=True):
+    """ Grab html code from a file and parse for information. Return dict of dicts. """
 
     this_counter = counter
     # Open file and parse with BS4
@@ -56,11 +59,7 @@ def parse_info(file_path, counter=1, verbose=True):
 
     return (recipes, this_counter)
 
-# def neo_dict(dictionary):
-#     """ Write content of dictionary to graph database as attributes (node = dict name). """
-#     pass
-
-def main():
+def parse_category_data(folder_path):
     folder_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/textFiles/"
     out_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/link_data.csv"
 
@@ -70,22 +69,19 @@ def main():
     file_paths.pop(0) # Remove log file from list
 
     # # Parse information by looping over files
-    # # Store to pandas dict and write info for first analysis (w/o neo2j database)
-    link_data = pd.DataFrame()
+    link_data = []
     counter = 1
     for fp in file_paths[1:100]:
-        (page_hits, counter) = parse_info(fp, counter=counter, verbose=False)
+        (page_hits, counter) = parse_category_file(fp, counter=counter, verbose=False)
 
-        for k, v in page_hits.items():
-            row = pd.Series(v, name=k)
-            link_data = link_data.append(row)
+        # for k, v in page_hits.items():
+        #     row = pd.Series(v, name=k)
+        #     link_data = link_data.append(row)
 
         bigcounter = (counter-1)/30
         if bigcounter%50 == 0:
             print bigcounter
-            link_data.to_csv(out_path, encoding='utf8') # Interim storage for when I need to stop earlier
+            # link_data.to_csv(out_path, encoding='utf8') # Interim storage for when I need to stop earlier
 
-    link_data.to_csv(out_path, encoding='utf8')
+    # link_data.to_csv(out_path, encoding='utf8')
     print "All done!"
-
-main()

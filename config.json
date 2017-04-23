@@ -1,6 +1,13 @@
 {
+    "database":{
+        "db_usrn": "neo4j",
+        "db_pw": "password"
+            },
     "paths":{
-        "data": "03_Data/",
+        "data": {
+            "category": "03_Data/raw/category/",
+            "page": "03_Data/raw/page/"
+        },
         "resources": {
             "user_agents": "resources/user_agents.txt",
             "category_urls": "resources/category_urls.json"
@@ -10,11 +17,15 @@
         "initialize": 0,
         "category_pages":{
             "prepare": 0,
-            "process": 0
+            "open": 0,
+            "parse": 0,
+            "store": 0
         },
         "recipe_pages": {
             "prepare": 0,
-            "process": 0
+            "open": 0,
+            "parse": 0,
+            "store": 0
         }
     }
 }

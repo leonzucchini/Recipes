@@ -1,4 +1,7 @@
 """
+Copyright 2016 Leon Zucchini
+Repository: https://github.com/leonzucchini/recipes
+
 Retrieve, parse, and store information from chefkoch.de.
 
 Data sources
@@ -19,7 +22,7 @@ Modules
 - Process data source (for each data source, loop over urls)
     - Open url
     - Parse information
-    - Add information to database
+    - Store information to database
 
 Arguments:
     - Resources (string)
@@ -33,36 +36,40 @@ Arguments:
         Default: "03_Data/" at one folder level above this script
 
 Returns:
-    - neo4j database with recipe information (inshallah)
+    - Stores full html files as raw text files
+    - Stores log of http responses
+    - Adds data neo4j database with recipe information (inshallah)
+
+THIS IMPLEMENTATION ASSUMES A NEO4J DATABASE IS RUNNING SEPARATELY
 """
 
-import os
-import json
+import py2neo
+
+import initialize
+import store
+import retrieve
 
 def main():
     """ Run main script. """
 
-    # Initialize
+    # Initialize (get config, paths, resources, connect to graph db)
+    default_config_file_name = "config.json"
+    config = initialize.Config(default_config_file_name, verbose=False)
+    graph = store.connect_to_graph()
 
-    ## Get configuration
-    DEFAULT_CONFIG_FILE_NAME = "config.json"
-    this_folder_path = os.path.dirname(os.path.abspath(__file__))
-    
-    config_path = os.path.join(this_folder_path, DEFAULT_CONFIG_FILE_NAME)
-    with open(config_path, "r") as f:
-        config = json.load(f)
+    # Category pages
 
-    ## Set output data path
-    data_path = os.path.join(os.path.dirname(this_folder_path), config["paths"]["data"])
+    ##  Store urls (from initial input)
+    store.store_cagetory_urls(config.category_urls, verbose=False)
 
-    ## Get resources: Category urls and user agents
-    category_urls_path = os.path.join(this_folder_path,
-                                      config["paths"]["resources"]["category_urls"])
-    with open(category_urls_path, "r") as f:
-        category_urls = json.load(f) # dictionary
-
-    user_agents_path = os.path.join(this_folder_path, config["paths"]["resources"]["user_agents"])
-    with open(user_agents_path, "r") as f:
-        user_agents = f.readlines() # list of strings
+    #3 Retrieve data from category pages
+    retrieve.retrieve_category_data(
+        category_urls=config.category_urls,
+        folder_path=config.data_path_category_raw,
+        user_agents=config.user_agents,
+        overwrite_option="Overwrite",
+        verbose_get=True,
+        verbose_store=False,
+        short_cycle=True)
 
 main()
