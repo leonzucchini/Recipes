@@ -18,12 +18,21 @@ class Config(object):
 
         ## Set output data paths and make folders for raw input
         self.data_path_category_raw = os.path.join(os.path.dirname(this_folder_path),
-                                                   self.config["paths"]["data"]["category"])
+                                                   self.config["paths"]["data_raw"]["category"])
         self.data_path_page_raw = os.path.join(os.path.dirname(this_folder_path),
-                                               self.config["paths"]["data"]["page"])
+                                               self.config["paths"]["data_raw"]["page"])
 
         make_folder(self.data_path_category_raw, overwrite_option="Append", verbose=verbose)
         make_folder(self.data_path_page_raw, overwrite_option="Append", verbose=verbose)
+
+        ## Set output data paths and make folders for parsed input
+        self.data_path_category_parsed = os.path.join(os.path.dirname(this_folder_path),
+                                                   self.config["paths"]["data_parsed"]["category"])
+        self.data_path_page_parsed = os.path.join(os.path.dirname(this_folder_path),
+                                               self.config["paths"]["data_parsed"]["page"])
+
+        make_folder(self.data_path_category_parsed, overwrite_option="Append", verbose=verbose)
+        make_folder(self.data_path_page_parsed, overwrite_option="Append", verbose=verbose)
 
         ## Get resource: Category urls
         category_urls_path = os.path.join(this_folder_path,

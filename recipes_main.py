@@ -46,8 +46,9 @@ THIS IMPLEMENTATION ASSUMES A NEO4J DATABASE IS RUNNING SEPARATELY
 import py2neo
 
 import initialize
-import store
 import retrieve
+import parse
+import store
 
 def main():
     """ Run main script. """
@@ -62,7 +63,7 @@ def main():
     ##  Store urls (from initial input)
     store.store_cagetory_urls(config.category_urls, verbose=False)
 
-    #3 Retrieve data from category pages
+    ## Retrieve data from category pages
     retrieve.retrieve_category_data(
         category_urls=config.category_urls,
         folder_path=config.data_path_category_raw,
@@ -70,6 +71,12 @@ def main():
         overwrite_option="Overwrite",
         verbose_get=True,
         verbose_store=False,
-        short_cycle=True)
+        short_cycle=100)
+
+    ## Parse data from category pages to local csv
+    parse.parse_category_data(
+        config.data_path_category_raw, 
+        config.data_path_category_parsed, 
+        "category_data_parsed.csv")
 
 main()

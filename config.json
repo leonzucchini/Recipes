@@ -4,10 +4,15 @@
         "db_pw": "password"
             },
     "paths":{
-        "data": {
+        "data_raw": {
             "category": "03_Data/raw/category/",
             "page": "03_Data/raw/page/"
         },
+        "data_parsed": {
+            "category": "03_Data/parsed/category/",
+            "page": "03_Data/parsed/page/"
+        },
+
         "resources": {
             "user_agents": "resources/user_agents.txt",
             "category_urls": "resources/category_urls.json"

@@ -11,7 +11,7 @@ import random
 from datetime import datetime as dt
 
 def retrieve_category_data(category_urls, folder_path, user_agents,
-                           overwrite_option="Exit", short_cycle=True,
+                           overwrite_option="Exit", short_cycle=100,
                            verbose_get=True, verbose_store=False):
     """
     Crawl through recipe category pages.
@@ -45,7 +45,7 @@ def retrieve_category_data(category_urls, folder_path, user_agents,
                 break_now = URL_ERROR_COUNT > 5
             else:
                 # Short cycle for testing: Break after 5 bad responses and max 100 sub-pages
-                break_now = URL_ERROR_COUNT > 5 or SUBPAGE_NO > 100
+                break_now = URL_ERROR_COUNT > 5 or SUBPAGE_NO > short_cycle
             if break_now:
                 break
 
@@ -87,59 +87,59 @@ def retrieve_category_data(category_urls, folder_path, user_agents,
     store_text("\n".join(log), log_path, overwrite_option, verbose=verbose_store)
 
 
-# def retrieve_page_data():
+def retrieve_page_data():
 
-#     """
-#     Crawl through recipe pages and parse data to database.
-#     """
+    """
+    Crawl through recipe pages and parse data to database.
+    """
 
-#     # Get links for supporting files
-#     url_list_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/link_data.csv"
-#     user_agents_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/config/user_agents.txt"
+    # Get links for supporting files
+    url_list_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/link_data.csv"
+    user_agents_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/02_Code/config/user_agents.txt"
 
-#     # Get page url from database
-#     # url_list = pd.read_csv(url_list_path)[['url']].values.tolist()
-#     # url_list = [item for sublist in url_list for item in sublist] # Flatten list of lists
-#     # num_urls = len(url_list)
+    # Get page url from database
+    # url_list = pd.read_csv(url_list_path)[['url']].values.tolist()
+    # url_list = [item for sublist in url_list for item in sublist] # Flatten list of lists
+    # num_urls = len(url_list)
 
-#     # Select user-agents from list (downloaded)
-#     # user_agent_list = get_user_agent.user_agent_list(user_agents_path)
+    # Select user-agents from list (downloaded)
+    # user_agent_list = get_user_agent.user_agent_list(user_agents_path)
 
-#     ### THIS IS WHERE THE LOOP OVER URLS GOES
-#     # Select url and user-agent
-#     # url = url_list[2051]
-#     # user_agent = get_user_agent.select_user_agent(user_agent_list)
-#     url = "http://www.chefkoch.de/rezepte/1651531272966946/Schaschlik-wie-im-Kaukasus-grillen.html"
-#     user_agent = {'user-agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16'}
+    ### THIS IS WHERE THE LOOP OVER URLS GOES
+    # Select url and user-agent
+    # url = url_list[2051]
+    # user_agent = get_user_agent.select_user_agent(user_agent_list)
+    url = "http://www.chefkoch.de/rezepte/1651531272966946/Schaschlik-wie-im-Kaukasus-grillen.html"
+    user_agent = {'user-agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16'}
 
-#     # Open page using randomly selected user-agent
-#     response = get_response.HTMLresponse(url, user_agent=user_agent)
-#     text = response.text
-#     # Note161223: Checked grequests, but not sure how to handle multiple headers with identical keys in dict.
-#     parse_recipe_pages.parse_recipe_info(text)
+    # Open page using randomly selected user-agent
+    response = get_response.HTMLresponse(url, user_agent=user_agent)
+    text = response.text
+    # Note161223: Checked grequests, but not sure how to handle multiple headers with identical keys in dict.
+    parse_recipe_pages.parse_recipe_info(text)
 
 
-# class HTTPresponse(object):
-#     """ Response from trying to get an HTML page, returning error and text. """
+class HTTPresponse(object):
+    """ Response from trying to get an HTML page, returning error and text. """
 
-#     def __init__(self, url, user_agent):
-#         """ Try to get response from URL """
+    def __init__(self, url, user_agent):
+        """ Try to get response from URL """
 
-#         self.error = 0
-#         self.error_message = ""
-#         self.text = ""
+        self.error = 0
+        self.error_message = ""
+        self.text = ""
 
-#         # Try to get HTML response
-#         try:
-#             r = requests.get(url, headers=user_agent)
-#             r.raise_for_status()
-#             self.text = r.text.encode('utf-8')
+        # Try to get HTML response
+        try:
+            r = requests.get(url, headers=user_agent)
+            r.raise_for_status()
+            self.text = r.text.encode('utf-8')
 
-#         # If error, return error message and flag
-#         except requests.exceptions.RequestException as err:
-#             self.error = 1
-#             self.response = str(err)
-#             self.error_message = "".join(["Get error: ", url])
+        # If error, return error message and flag
+        except requests.exceptions.RequestException as err:
+            self.error = 1
+            self.response = str(err)
+            self.error_message = "".join(["Get error: ", url])
 
 
 def select_user_agent(agent_list):
