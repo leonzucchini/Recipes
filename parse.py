@@ -1,11 +1,15 @@
+"""
+Parse stored raw html and
+"""
+
 import os
 import re
+import csv
+# import pandas as pd
 from bs4 import BeautifulSoup as bs
-import pandas as pd
-# import py2neo as pn
 
-def parse_info(file_path, counter=1, verbose=True):
-    """ Grab html code from a file and parse for information - return dict of dicts. """
+def parse_category_file(file_path, counter=1, verbose=True):
+    """ Grab html code from a file (=category page) and parse for information. Return dict of dicts. """
 
     this_counter = counter
     # Open file and parse with BS4
@@ -13,7 +17,7 @@ def parse_info(file_path, counter=1, verbose=True):
         soup = bs(f.read().decode("utf-8"), "lxml")
 
     # Get category
-    category = re.match(r"g\d+(\w+)_.*", os.path.basename(file_path)).group(1)
+    category = re.match(r"g\d+(\w.+)_.*", os.path.basename(file_path)).group(1)
     recipes = {}
 
     search_hits = soup.find_all("li", class_="search-list-item")
@@ -56,36 +60,38 @@ def parse_info(file_path, counter=1, verbose=True):
 
     return (recipes, this_counter)
 
-# def neo_dict(dictionary):
-#     """ Write content of dictionary to graph database as attributes (node = dict name). """
-#     pass
 
-def main():
-    folder_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/textFiles/"
-    out_path = "/Users/Leon/Documents/02_Research_Learning/Research/Recipes/03_Data/link_data.csv"
+def parse_category_data(input_folder_path, output_folder_path, output_file_name, verbose=False):
+    """ 
+    Parse an entire folder of category page files (looping over files).
+    Store to local csv file in regular intervals.
+    """
 
     # Get file names from folder  
     file_paths = []
-    [file_paths.append(os.path.join(folder_path, fn)) for fn in os.listdir(folder_path)]
+    [file_paths.append(os.path.join(input_folder_path, fn)) for fn in os.listdir(input_folder_path)]
     file_paths.pop(0) # Remove log file from list
 
-    # # Parse information by looping over files
-    # # Store to pandas dict and write info for first analysis (w/o neo2j database)
-    link_data = pd.DataFrame()
-    counter = 1
-    for fp in file_paths[1:100]:
-        (page_hits, counter) = parse_info(fp, counter=counter, verbose=False)
+    # Parse information by looping over files
+    COUNTER = 1
+    # link_data = []
+    output_file_path = os.path.join(output_folder_path, output_file_name)
+    for fp in file_paths[:3]:
+        (category_data, counter) = parse_category_file(fp, counter=COUNTER, verbose=verbose)
 
-        for k, v in page_hits.items():
-            row = pd.Series(v, name=k)
-            link_data = link_data.append(row)
+        w = csv.writer(open(output_file_path, "w"))
+        for k, v in category_data.items():
+            w.writerow([k, v])
+        
+        # for k, v in category_data.items():
+        #     row = pd.Series(v, name=k)
+        #     link_data = link_data.append(row)
 
         bigcounter = (counter-1)/30
         if bigcounter%50 == 0:
             print bigcounter
-            link_data.to_csv(out_path, encoding='utf8') # Interim storage for when I need to stop earlier
+            # link_data.to_csv(out_path, encoding='utf8') # Interim storage for when I need to stop earlier
 
-    link_data.to_csv(out_path, encoding='utf8')
-    print "All done!"
+    # link_data.to_csv(out_path, encoding='utf8')
 
-main()
+    return None
